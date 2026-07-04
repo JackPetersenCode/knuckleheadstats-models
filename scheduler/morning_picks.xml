@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Task version="1.4" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Description>Daily morning picks publish (11:05 AM Eastern)</Description>
+    <URI>\PicksService\MorningPicks</URI>
+  </RegistrationInfo>
+  <Triggers>
+    <CalendarTrigger>
+      <StartBoundary>2026-05-12T11:05:00</StartBoundary>
+      <Enabled>true</Enabled>
+      <ScheduleByDay>
+        <DaysInterval>1</DaysInterval>
+      </ScheduleByDay>
+    </CalendarTrigger>
+  </Triggers>
+  <Settings>
+    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
+    <AllowHardTerminate>true</AllowHardTerminate>
+    <StartWhenAvailable>true</StartWhenAvailable>
+    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
+    <AllowStartOnDemand>true</AllowStartOnDemand>
+    <Enabled>true</Enabled>
+    <Hidden>false</Hidden>
+    <RunOnlyIfIdle>false</RunOnlyIfIdle>
+    <WakeToRun>true</WakeToRun>
+    <ExecutionTimeLimit>PT30M</ExecutionTimeLimit>
+    <Priority>7</Priority>
+  </Settings>
+  <Actions>
+    <Exec>
+      <Command>powershell.exe</Command>
+      <Arguments>-NoProfile -ExecutionPolicy Bypass -Command "cd 'c:\Users\jackp\Desktop\new_game'; New-Item -ItemType Directory -Force -Path logs | Out-Null; $log = 'logs\morning_$((Get-Date).ToString(''yyyy-MM-dd'')).log'; (python fetch_today_odds.py 2>&amp;1; python daily_picker.py --odds today_odds.csv 2>&amp;1; cd picks_service; python aggregate_picks.py 2>&amp;1; python discord_post.py 2>&amp;1; python ig_image.py 2>&amp;1; python ig_caption.py 2>&amp;1) | Out-File -Encoding utf8 -FilePath ('../' + $log)"</Arguments>
+    </Exec>
+  </Actions>
+</Task>

@@ -1,0 +1,42 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# === Secrets / environment ===
+.env
+.env.*
+!.env.example
+
+# === Local tooling ===
+.claude/
+
+# === Proprietary model artifacts ===
+*.pkl
+
+# === Data caches, datasets & logs ===
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.csv
+*.xlsx
+*.json
+odds_data/
+**/logs/
+**/gm/
+
+# === Generated content & images ===
+*.png
+*.jpg
+content/
+
+# === Business / strategy docs (publish code + README only) ===
+BUSINESS_PLAYBOOK.md
+PRE_LLC_CHECKLIST.md
+index_post_llc.html
+*.md
+!README.md
+!**/README.md
