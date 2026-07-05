@@ -1,0 +1,27 @@
+name: Deploy picks page
+
+# Auto-deploy the New KnuckleheadStats picks page to Fly whenever its
+# source changes on main. Manual runs are also allowed.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'landing_page/**'
+      - '.github/workflows/deploy-picks.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-picks
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Deploy thehoopscoop-picks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: superfly/flyctl-actions/setup-flyctl@master
+      - name: Deploy to Fly
+        run: flyctl deploy ./landing_page --config landing_page/fly.toml --remote-only
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}

@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Free MLB picks Discord. Verified record. Real-time +EV tool launching soon.">
-<title>Free MLB Picks Discord — Your Brand Here</title>
+<meta name="description" content="Free sports picks Discord — best bets across every sport playing that day. Verified record. Real-time +EV tool launching soon.">
+<title>Knucklehead Stats — Free Sports Picks</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,13 +12,13 @@
 
   <!-- Hero -->
   <header class="hero">
-    <div class="logo">YOUR<br>BRAND</div>
-    <h1>Free MLB picks. Verified record. Honest tracking.</h1>
+    <div class="logo"><img src="kh_logo.png" alt="Knucklehead Stats" style="height:110px;width:auto"></div>
+    <h1>Free sports picks. Verified record. Honest tracking.</h1>
     <p class="tag">
-      Daily picks from a real model that's been backtested across 4 seasons.
-      No fake screenshots. Every pick timestamped, every result published.
+      Our best bets across every sport playing that day — from a data-driven
+      model. No fake screenshots. Every pick timestamped, every result published.
     </p>
-    <a class="cta-primary" href="https://discord.gg/YOUR_INVITE">Join free Discord →</a>
+    <a class="cta-primary" href="https://discord.gg/TbjXkBZWXW" target="_blank" rel="noopener">Join free Discord →</a>
     <p class="disclosure">
       No payment, no email, no spam. Just picks.
     </p>
@@ -49,19 +49,19 @@
       <div class="step">
         <div class="step-num">1</div>
         <div class="step-title">A real model</div>
-        <p>Picks come from a machine-learning model trained on 11,000+ MLB
-        games. Backtested out-of-fold with all 4 random seeds positive.</p>
+        <p>Picks come from a data-driven model trained on tens of thousands of
+        games across the sports we cover. Backtested out-of-fold, not curve-fit.</p>
       </div>
       <div class="step">
         <div class="step-num">2</div>
         <div class="step-title">Timestamped before games</div>
-        <p>Every pick is logged BEFORE first pitch. Nothing edited after the
+        <p>Every pick is logged BEFORE the game starts. Nothing edited after the
         fact. The full log is public.</p>
       </div>
       <div class="step">
         <div class="step-num">3</div>
         <div class="step-title">Settled honestly</div>
-        <p>After games end, results auto-update from MLB's official feed.
+        <p>After games end, results auto-update from official league feeds.
         Losses are published the same as wins.</p>
       </div>
     </div>
@@ -77,8 +77,8 @@
     <div class="waitlist-cards">
       <div class="waitlist-card">
         <h3>💎 VIP Picks</h3>
-        <p>Higher-volume daily picks across MLB, plus weekly bankroll-management
-        notes. <b>Founding price $4.99/mo</b> (vs $5.99 at launch).</p>
+        <p>Higher-volume daily picks across every sport in season, plus weekly
+        bankroll-management notes. <b>Founding price $4.99/mo</b> (vs $5.99 at launch).</p>
       </div>
       <div class="waitlist-card waitlist-card-pro">
         <h3>🛠 Line-Shopper Pro</h3>
@@ -89,9 +89,8 @@
     </div>
 
     <!-- Email waitlist form -->
-    <form id="waitlist-form" class="waitlist-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <form id="waitlist-form" class="waitlist-form" action="/api/waitlist" method="POST">
       <input type="email" name="email" placeholder="your@email.com" required class="email-input">
-      <input type="hidden" name="_subject" value="New waitlist signup">
       <button type="submit" class="cta-primary">Save my spot</button>
     </form>
     <p class="disclosure" id="waitlist-result">
@@ -123,26 +122,31 @@
       (j.profit_units_30 >= 0 ? '+' : '') + j.profit_units_30.toFixed(1) + ' u';
   }).catch(() => {});
 
-  // Friendly waitlist form handler (Formspree returns 200 on success)
+  // Waitlist form handler — posts JSON to our own backend (/api/waitlist)
   const form = document.getElementById('waitlist-form');
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
-    const data = new FormData(form);
+    const email = form.querySelector('input[name="email"]').value.trim();
+    const result = document.getElementById('waitlist-result');
+    const button = form.querySelector('button');
+    button.disabled = true;
     try {
-      const r = await fetch(form.action, {
-        method: 'POST', body: data, headers: {'Accept': 'application/json'}});
+      const r = await fetch('/api/waitlist', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ email: email, source: 'picks' })
+      });
       if (r.ok) {
-        document.getElementById('waitlist-result').textContent =
-          "✓ You're on the list. I'll email you once when VIP launches.";
-        form.querySelector('button').textContent = 'Done';
-        form.querySelector('button').disabled = true;
+        result.textContent = "✓ You're on the list. I'll email you once when VIP launches.";
+        button.textContent = 'Done';
       } else {
-        document.getElementById('waitlist-result').textContent =
-          "Something went wrong — try again, or DM me on Discord.";
+        const body = await r.json().catch(() => ({}));
+        result.textContent = body.error || "Something went wrong — try again, or DM me on Discord.";
+        button.disabled = false;
       }
     } catch (err) {
-      document.getElementById('waitlist-result').textContent =
-        "Network error — try again, or DM me on Discord.";
+      result.textContent = "Network error — try again, or DM me on Discord.";
+      button.disabled = false;
     }
   });
 </script>

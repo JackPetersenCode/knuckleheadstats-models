@@ -1,0 +1,7 @@
+*.py
+__pycache__
+index_post_llc.html
+ig_post_*.png
+fly.toml
+Dockerfile
+.dockerignore

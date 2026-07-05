@@ -40,3 +40,8 @@ index_post_llc.html
 *.md
 !README.md
 !**/README.md
+
+# --- Picks page deploy assets (tracked so the deploy-picks Action can build) ---
+!landing_page/kh_logo.png
+!landing_page/record.json
+!landing_page/record.csv
