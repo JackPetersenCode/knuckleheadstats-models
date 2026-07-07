@@ -9,3 +9,5 @@ set LOG="%~dp0logs\stats_%date:~-4%%date:~4,2%%date:~7,2%.log"
 %PY% xwalk.py >> %LOG% 2>&1
 %PY% grade.py >> %LOG% 2>&1
 %PY% value_grade.py >> %LOG% 2>&1
+REM publish fresh picks + verified record to the live site
+call "%~dp0..\landing_page\publish.bat" >> %LOG% 2>&1

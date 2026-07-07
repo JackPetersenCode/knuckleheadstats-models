@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Free sports picks Discord — best bets across every sport playing that day. Verified record. Real-time +EV tool launching soon.">
+<meta name="description" content="Free sports picks — best bets across every sport playing that day, ranked by value. Verified record with closing-line value. No fake screenshots.">
 <title>Knucklehead Stats — Free Sports Picks</title>
 <link rel="stylesheet" href="style.css">
 </head>
@@ -15,31 +15,54 @@
     <div class="logo"><img src="kh_logo.png" alt="Knucklehead Stats" style="height:110px;width:auto"></div>
     <h1>Free sports picks. Verified record. Honest tracking.</h1>
     <p class="tag">
-      Our best bets across every sport playing that day — from a data-driven
-      model. No fake screenshots. Every pick timestamped, every result published.
+      Our best bets across every sport playing that day — flagged where the market is
+      mispriced. Every pick timestamped before the game, every result published, graded
+      against the closing line.
     </p>
     <a class="cta-primary" href="https://discord.gg/TbjXkBZWXW" target="_blank" rel="noopener">Join free Discord →</a>
-    <p class="disclosure">
-      No payment, no email, no spam. Just picks.
-    </p>
+    <p class="disclosure">No payment, no email, no spam. Just picks.</p>
   </header>
 
   <!-- Verified record strip -->
   <section class="record-strip">
     <div class="record-item">
-      <div class="record-label">Last 30 days</div>
-      <div class="record-value" id="rec-30">building record…</div>
+      <div class="record-label">Record</div>
+      <div class="record-value" id="rec-wl">building…</div>
     </div>
     <div class="record-item">
-      <div class="record-label">Profit (units)</div>
-      <div class="record-value" id="rec-profit">—</div>
+      <div class="record-label">ROI</div>
+      <div class="record-value" id="rec-roi">—</div>
+    </div>
+    <div class="record-item">
+      <div class="record-label">Beat the close</div>
+      <div class="record-value" id="rec-clv">—</div>
     </div>
     <div class="record-item">
       <div class="record-label">Full audit</div>
-      <div class="record-value">
-        <a href="record.csv" class="link-quiet">record.csv →</a>
-      </div>
+      <div class="record-value"><a href="record.csv" class="link-quiet">record.csv →</a></div>
     </div>
+  </section>
+
+  <!-- Today's picks -->
+  <section class="picks">
+    <div class="picks-head">
+      <h2>Today's Best Bets</h2>
+      <span class="picks-date" id="picks-date"></span>
+    </div>
+    <div id="picks-list" class="picks-list"><p class="muted">Loading today's board…</p></div>
+    <p class="picks-note">
+      Ranked by value. <span class="badge tier-proven">Proven edge</span>
+      <span class="badge tier-edge">Positive CLV</span>
+      <span class="badge tier-price">Price value</span> —
+      tiers reflect each category's live track record. 21+. Not financial advice.
+    </p>
+  </section>
+
+  <!-- Recent results -->
+  <section class="results">
+    <h2>Recent Results</h2>
+    <div id="results-list" class="results-list"><p class="muted">Loading…</p></div>
+    <p class="picks-note"><a href="record.csv" class="link-quiet">See the full audited log →</a></p>
   </section>
 
   <!-- How it works -->
@@ -48,21 +71,21 @@
     <div class="step-grid">
       <div class="step">
         <div class="step-num">1</div>
-        <div class="step-title">A real model</div>
-        <p>Picks come from a data-driven model trained on tens of thousands of
-        games across the sports we cover. Backtested out-of-fold, not curve-fit.</p>
+        <div class="step-title">Data-driven value</div>
+        <p>Picks come from a live engine comparing every book and DFS app against the
+        sharp consensus fair price — surfacing where a line is soft.</p>
       </div>
       <div class="step">
         <div class="step-num">2</div>
         <div class="step-title">Timestamped before games</div>
-        <p>Every pick is logged BEFORE the game starts. Nothing edited after the
-        fact. The full log is public.</p>
+        <p>Every pick is logged BEFORE the game starts. Nothing edited after the fact.
+        The full log is public.</p>
       </div>
       <div class="step">
         <div class="step-num">3</div>
-        <div class="step-title">Settled honestly</div>
-        <p>After games end, results auto-update from official league feeds.
-        Losses are published the same as wins.</p>
+        <div class="step-title">Graded on CLV</div>
+        <p>Results auto-settle from official box scores, and each pick is scored against
+        the closing line — the honest test of whether it was really value.</p>
       </div>
     </div>
   </section>
@@ -70,10 +93,7 @@
   <!-- Waitlist -->
   <section class="waitlist">
     <h2>Coming soon: VIP tier + real-time tools</h2>
-    <p class="section-sub">
-      Get on the list to be notified — and lock in founding-member pricing.
-    </p>
-
+    <p class="section-sub">Get on the list to be notified — and lock in founding-member pricing.</p>
     <div class="waitlist-cards">
       <div class="waitlist-card">
         <h3>💎 VIP Picks</h3>
@@ -82,13 +102,11 @@
       </div>
       <div class="waitlist-card waitlist-card-pro">
         <h3>🛠 Line-Shopper Pro</h3>
-        <p>Real-time scanner: every 5 minutes, compares 6 sportsbooks for
-        +EV bets and arbitrage. Discord alerts when value appears.
+        <p>Real-time scanner: every 5 minutes, compares 6 sportsbooks for +EV bets and
+        arbitrage. Discord alerts when value appears.
         <b>Founding price $14.99/mo</b> (vs $19.99 at launch).</p>
       </div>
     </div>
-
-    <!-- Email waitlist form -->
     <form id="waitlist-form" class="waitlist-form" action="/api/waitlist" method="POST">
       <input type="email" name="email" placeholder="your@email.com" required class="email-input">
       <button type="submit" class="cta-primary">Save my spot</button>
@@ -100,29 +118,61 @@
 
   <!-- Disclosures -->
   <footer class="disclosures">
-    <p>
-      No predictive guarantees. Past results do not guarantee future performance.
-      All picks are timestamped and auditable in <a href="record.csv">record.csv</a>.
-    </p>
-    <p>
-      21+ and present in a legal sports-betting jurisdiction. Gambling problem?
-      Call <a href="tel:18004262537">1-800-GAMBLER</a>. Bet responsibly.
-    </p>
+    <p>No predictive guarantees. Past results do not guarantee future performance.
+    All picks are timestamped and auditable in <a href="record.csv">record.csv</a>.</p>
+    <p>21+ and present in a legal sports-betting jurisdiction. Gambling problem?
+    Call <a href="tel:18004262537">1-800-GAMBLER</a>. Bet responsibly.</p>
   </footer>
 
 </main>
 
 <script>
-  // Lightweight record loader
+  const TIER = { proven: 'tier-proven', edge: 'tier-edge', price: 'tier-price', model: 'tier-model', efficient: 'tier-eff' };
+  const fmtPct = x => (x >= 0 ? '+' : '') + (x * 100).toFixed(1) + '%';
+
+  // ---- Today's picks ----
+  fetch('picks.json').then(r => r.ok ? r.json() : null).then(j => {
+    const box = document.getElementById('picks-list');
+    if (!j || !j.picks || !j.picks.length) { box.innerHTML = '<p class="muted">No board posted yet today — check the Discord.</p>'; return; }
+    const d = new Date((j.date || '') + 'T12:00:00');
+    document.getElementById('picks-date').textContent = isNaN(d) ? '' :
+      d.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' });
+    box.innerHTML = j.picks.map(p => `
+      <div class="pick ${TIER[p.tier] || ''}">
+        <span class="pick-rank">${p.rank}</span>
+        <div class="pick-main">
+          <div class="pick-sel"><b>${p.selection}</b> <span class="pick-sport">${p.sport}</span></div>
+          <div class="pick-market">${p.market} ${p.side}</div>
+        </div>
+        <div class="pick-book"><span class="pick-book-name">${p.book}</span> <b>${p.odds}</b></div>
+        <div class="pick-ev">${fmtPct(p.ev)}${p.ev_capped ? '+' : ''}<span> EV</span>
+          <div class="badge ${TIER[p.tier] || ''}">${p.tier_label}</div></div>
+      </div>`).join('');
+  }).catch(() => { document.getElementById('picks-list').innerHTML = '<p class="muted">Board unavailable — check the Discord.</p>'; });
+
+  // ---- Record + recent results ----
   fetch('record.json').then(r => r.ok ? r.json() : null).then(j => {
-    if (!j || !j.settled_30) return;
-    document.getElementById('rec-30').textContent =
-      j.wins_30 + ' W - ' + j.losses_30 + ' L';
-    document.getElementById('rec-profit').textContent =
-      (j.profit_units_30 >= 0 ? '+' : '') + j.profit_units_30.toFixed(1) + ' u';
+    if (!j) return;
+    const a = j.all || {};
+    if (a.settled) {
+      document.getElementById('rec-wl').textContent = a.wins + '–' + a.losses;
+      document.getElementById('rec-roi').textContent = fmtPct(a.roi || 0);
+      document.getElementById('rec-roi').classList.add((a.roi || 0) >= 0 ? 'pos' : 'neg');
+      document.getElementById('rec-clv').textContent = Math.round((a.clv_pos_share || 0) * 100) + '%';
+    }
+    const rl = document.getElementById('results-list');
+    if (j.recent && j.recent.length) {
+      rl.innerHTML = j.recent.map(r => `
+        <div class="result-row">
+          <span class="res-badge ${r.result}">${r.result === 'win' ? 'W' : 'L'}</span>
+          <div class="res-main"><b>${r.pick}</b> <span class="pick-sport">${r.sport}</span>
+            <div class="pick-market">${r.market} ${r.side} · ${r.book}</div></div>
+          <span class="res-clv ${(r.clv||0) >= 0 ? 'pos' : 'neg'}">${r.clv==null?'':'CLV '+fmtPct(r.clv)}</span>
+        </div>`).join('');
+    } else { rl.innerHTML = '<p class="muted">No settled results yet.</p>'; }
   }).catch(() => {});
 
-  // Waitlist form handler — posts JSON to our own backend (/api/waitlist)
+  // ---- Waitlist form ----
   const form = document.getElementById('waitlist-form');
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -131,23 +181,11 @@
     const button = form.querySelector('button');
     button.disabled = true;
     try {
-      const r = await fetch('/api/waitlist', {
-        method: 'POST',
-        headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({ email: email, source: 'picks' })
-      });
-      if (r.ok) {
-        result.textContent = "✓ You're on the list. I'll email you once when VIP launches.";
-        button.textContent = 'Done';
-      } else {
-        const body = await r.json().catch(() => ({}));
-        result.textContent = body.error || "Something went wrong — try again, or DM me on Discord.";
-        button.disabled = false;
-      }
-    } catch (err) {
-      result.textContent = "Network error — try again, or DM me on Discord.";
-      button.disabled = false;
-    }
+      const r = await fetch('/api/waitlist', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, source: 'picks' }) });
+      if (r.ok) { result.textContent = "✓ You're on the list. I'll email you once when VIP launches."; button.textContent = 'Done'; }
+      else { const b = await r.json().catch(() => ({})); result.textContent = b.error || "Something went wrong — try again, or DM me on Discord."; button.disabled = false; }
+    } catch (err) { result.textContent = "Network error — try again, or DM me on Discord."; button.disabled = false; }
   });
 </script>
 </body>
