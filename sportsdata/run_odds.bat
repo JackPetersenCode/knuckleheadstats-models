@@ -5,3 +5,5 @@ set LOG="%~dp0logs\odds_%date:~-4%%date:~4,2%%date:~7,2%.log"
 "C:\Users\jackp\AppData\Local\Programs\Python\Python312\python.exe" collect_odds.py >> %LOG% 2>&1
 REM publish the refreshed board to the live site every cycle (skips if unchanged)
 call "%~dp0..\landing_page\publish.bat" >> %LOG% 2>&1
+REM post today's board to Discord (self-guards: once/day, after 9am, skips if no webhook)
+"C:\Users\jackp\AppData\Local\Programs\Python\Python312\python.exe" "%~dp0..\picks_service\discord_post.py" >> %LOG% 2>&1
