@@ -131,7 +131,7 @@
   const fmtPct = x => (x >= 0 ? '+' : '') + (x * 100).toFixed(1) + '%';
 
   // ---- Today's picks ----
-  fetch('picks.json').then(r => r.ok ? r.json() : null).then(j => {
+  fetch('picks.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
     const box = document.getElementById('picks-list');
     if (!j || !j.picks || !j.picks.length) { box.innerHTML = '<p class="muted">No board posted yet today — check the Discord.</p>'; return; }
     const d = new Date((j.date || '') + 'T12:00:00');
@@ -151,7 +151,7 @@
   }).catch(() => { document.getElementById('picks-list').innerHTML = '<p class="muted">Board unavailable — check the Discord.</p>'; });
 
   // ---- Record + recent results ----
-  fetch('record.json').then(r => r.ok ? r.json() : null).then(j => {
+  fetch('record.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(j => {
     if (!j) return;
     const a = j.all || {};
     if (a.settled) {
