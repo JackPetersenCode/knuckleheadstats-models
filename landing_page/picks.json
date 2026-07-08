@@ -304,6 +304,19 @@
     {
       "rank": 24,
       "sport": "MLB",
+      "selection": "Jazz Chisholm",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "-128",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 24,
+      "sport": "MLB",
       "selection": "Jonathan Aranda",
       "market": "singles 0.5",
       "side": "Under",
@@ -315,13 +328,13 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "sport": "MLB",
-      "selection": "Jazz Chisholm",
+      "selection": "Shea Langeliers",
       "market": "hits 0.5",
       "side": "Under",
       "book": "Sleeper",
-      "odds": "-128",
+      "odds": "+130",
       "ev": 0.25,
       "ev_capped": true,
       "tier": "proven",
@@ -337,19 +350,6 @@
       "odds": "-152",
       "ev": 0.248,
       "ev_capped": false,
-      "tier": "proven",
-      "tier_label": "Proven edge"
-    },
-    {
-      "rank": 25,
-      "sport": "MLB",
-      "selection": "Shea Langeliers",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "+130",
-      "ev": 0.25,
-      "ev_capped": true,
       "tier": "proven",
       "tier_label": "Proven edge"
     },
