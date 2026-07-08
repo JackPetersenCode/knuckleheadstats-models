@@ -330,19 +330,6 @@
     {
       "rank": 25,
       "sport": "MLB",
-      "selection": "Shea Langeliers",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "+130",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
-    },
-    {
-      "rank": 25,
-      "sport": "MLB",
       "selection": "Isaac Paredes",
       "market": "singles 0.5",
       "side": "Under",
@@ -350,6 +337,19 @@
       "odds": "-152",
       "ev": 0.248,
       "ev_capped": false,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 25,
+      "sport": "MLB",
+      "selection": "Shea Langeliers",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+130",
+      "ev": 0.25,
+      "ev_capped": true,
       "tier": "proven",
       "tier_label": "Proven edge"
     },
