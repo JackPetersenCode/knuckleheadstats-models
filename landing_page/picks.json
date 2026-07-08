@@ -135,6 +135,19 @@
     {
       "rank": 11,
       "sport": "MLB",
+      "selection": "J.T. Realmuto",
+      "market": "rbis 0.5",
+      "side": "Over",
+      "book": "Sleeper",
+      "odds": "+152",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 12,
+      "sport": "MLB",
       "selection": "Cody Bellinger",
       "market": "hits 0.5",
       "side": "Under",
@@ -146,7 +159,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "sport": "MLB",
       "selection": "Juan Soto",
       "market": "hits 0.5",
@@ -159,7 +172,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "sport": "MLB",
       "selection": "Cedric Mullins",
       "market": "hits 0.5",
@@ -172,7 +185,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "sport": "MLB",
       "selection": "Taylor Walls",
       "market": "hits 0.5",
@@ -185,7 +198,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "sport": "MLB",
       "selection": "George Springer",
       "market": "hits 0.5",
@@ -198,7 +211,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "sport": "MLB",
       "selection": "Ben Rice",
       "market": "singles 0.5",
@@ -211,7 +224,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "sport": "MLB",
       "selection": "Max Muncy",
       "market": "batter walks 0.5",
@@ -224,7 +237,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "sport": "MLB",
       "selection": "Junior Caminero",
       "market": "runs 0.5",
@@ -237,7 +250,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "sport": "MLB",
       "selection": "Jazz Chisholm",
       "market": "total bases 0.5",
@@ -250,7 +263,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "sport": "MLB",
       "selection": "Yandy D\u00edaz",
       "market": "singles 0.5",
@@ -263,7 +276,7 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "sport": "MLB",
       "selection": "A.J. Ewing",
       "market": "runs 0.5",
@@ -276,26 +289,13 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "sport": "MLB",
       "selection": "Daylen Lile",
       "market": "hits 0.5",
       "side": "Under",
       "book": "Sleeper",
       "odds": "+144",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
-    },
-    {
-      "rank": 23,
-      "sport": "MLB",
-      "selection": "Jazz Chisholm",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "-128",
       "ev": 0.25,
       "ev_capped": true,
       "tier": "proven",
@@ -317,24 +317,11 @@
     {
       "rank": 24,
       "sport": "MLB",
-      "selection": "Shea Langeliers",
+      "selection": "Jazz Chisholm",
       "market": "hits 0.5",
       "side": "Under",
       "book": "Sleeper",
-      "odds": "+130",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
-    },
-    {
-      "rank": 25,
-      "sport": "MLB",
-      "selection": "Kyle Stowers",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "+135",
+      "odds": "-128",
       "ev": 0.25,
       "ev_capped": true,
       "tier": "proven",
@@ -354,13 +341,13 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "sport": "MLB",
-      "selection": "Victor Robles",
-      "market": "total bases 0.5",
+      "selection": "Shea Langeliers",
+      "market": "hits 0.5",
       "side": "Under",
       "book": "Sleeper",
-      "odds": "+109",
+      "odds": "+130",
       "ev": 0.25,
       "ev_capped": true,
       "tier": "proven",
@@ -376,6 +363,19 @@
       "odds": "+155",
       "ev": 0.226,
       "ev_capped": false,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 26,
+      "sport": "MLB",
+      "selection": "Kyle Stowers",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+135",
+      "ev": 0.25,
+      "ev_capped": true,
       "tier": "proven",
       "tier_label": "Proven edge"
     },
