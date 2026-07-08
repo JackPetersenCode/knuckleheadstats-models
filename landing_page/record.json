@@ -1,26 +1,66 @@
 {
-  "as_of": "2026-07-07",
+  "as_of": "2026-07-08",
   "l30": {
-    "settled": 9347,
-    "wins": 5766,
-    "losses": 3581,
-    "profit_units": 958.8,
-    "roi": 0.1026,
-    "avg_clv": 0.0826,
-    "clv_pos_share": 0.747
+    "settled": 10050,
+    "wins": 6155,
+    "losses": 3895,
+    "profit_units": 929.2,
+    "roi": 0.0925,
+    "avg_clv": 0.0835,
+    "clv_pos_share": 0.752
   },
   "all": {
-    "settled": 9347,
-    "wins": 5766,
-    "losses": 3581,
-    "profit_units": 958.8,
-    "roi": 0.1026,
-    "avg_clv": 0.0826,
-    "clv_pos_share": 0.747
+    "settled": 10051,
+    "wins": 6155,
+    "losses": 3896,
+    "profit_units": 928.2,
+    "roi": 0.0924,
+    "avg_clv": 0.0835,
+    "clv_pos_share": 0.752
   },
   "recent": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "NYY@TB",
+      "market": "TOTAL 7.5",
+      "side": "Under",
+      "book": "DraftKings",
+      "result": "loss",
+      "clv": -0.011
+    },
+    {
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "CLE",
+      "market": "H2H",
+      "side": "Away",
+      "book": "FanDuel",
+      "result": "loss",
+      "clv": 0.027
+    },
+    {
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "MIL@STL",
+      "market": "TOTAL 3.5",
+      "side": "Under",
+      "book": "BetMGM",
+      "result": "loss",
+      "clv": 0.034
+    },
+    {
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "NYY@TB",
+      "market": "TOTAL 4.5",
+      "side": "Over",
+      "book": "Caesars",
+      "result": "win",
+      "clv": 0.015
+    },
+    {
+      "date": "2026-07-07",
       "sport": "MLB",
       "pick": "HOU@WSH",
       "market": "TOTAL 8.5",
@@ -30,17 +70,7 @@
       "clv": 0.167
     },
     {
-      "date": "2026-07-06",
-      "sport": "MLB",
-      "pick": "STL",
-      "market": "H2H",
-      "side": "Home",
-      "book": "BetMGM",
-      "result": "loss",
-      "clv": -0.093
-    },
-    {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "sport": "MLB",
       "pick": "MIL@STL",
       "market": "TOTAL 3.5",
@@ -50,119 +80,89 @@
       "clv": 0.004
     },
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "HOU@WSH",
+      "market": "TOTAL 11.5",
+      "side": "Over",
+      "book": "BetMGM",
+      "result": "loss",
+      "clv": -0.031
+    },
+    {
+      "date": "2026-07-07",
       "sport": "MLB",
       "pick": "MIL@STL",
-      "market": "TOTAL 7.5",
+      "market": "TOTAL 3.5",
       "side": "Over",
       "book": "FanDuel",
-      "result": "loss",
-      "clv": 0.012
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "pick": "PIT",
-      "market": "H2H",
-      "side": "Away",
-      "book": "BetMGM",
-      "result": "win",
-      "clv": 0.0
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "pick": "NYM",
-      "market": "H2H",
-      "side": "Away",
-      "book": "DraftKings",
-      "result": "win",
-      "clv": 0.015
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "pick": "COL",
-      "market": "H2H",
-      "side": "Home",
-      "book": "DraftKings",
       "result": "win",
       "clv": -0.034
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-07",
       "sport": "MLB",
-      "pick": "MIN@NYY",
-      "market": "TOTAL 8.5",
-      "side": "Under",
-      "book": "BetMGM",
+      "pick": "MIL",
+      "market": "H2H",
+      "side": "Away",
+      "book": "FanDuel",
       "result": "win",
-      "clv": -0.009
+      "clv": -0.104
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-07",
       "sport": "MLB",
-      "pick": "TOR@SEA",
-      "market": "TOTAL 3.5",
-      "side": "Under",
-      "book": "ESPN BET",
-      "result": "loss",
-      "clv": 0.172
-    },
-    {
-      "date": "2026-07-04",
-      "sport": "MLB",
-      "pick": "SD",
+      "pick": "LAA",
       "market": "H2H",
       "side": "Away",
       "book": "Caesars",
-      "result": "win",
-      "clv": -0.03
+      "result": "loss",
+      "clv": -0.042
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-07",
       "sport": "MLB",
-      "pick": "MIN@NYY",
+      "pick": "STL",
+      "market": "H2H",
+      "side": "Home",
+      "book": "BetMGM",
+      "result": "loss",
+      "clv": -0.043
+    },
+    {
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "MIN",
+      "market": "H2H",
+      "side": "Home",
+      "book": "Caesars",
+      "result": "win",
+      "clv": -0.027
+    },
+    {
+      "date": "2026-07-07",
+      "sport": "MLB",
+      "pick": "BOS@CWS",
       "market": "TOTAL 3.5",
       "side": "Under",
-      "book": "Caesars",
+      "book": "BetMGM",
       "result": "loss",
-      "clv": 0.014
+      "clv": 0.18
     },
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "sport": "MLB",
-      "pick": "Ernie Clement",
-      "market": "rbis 0.5",
-      "side": "Over",
-      "book": "DraftKings",
+      "pick": "ATL@PIT",
+      "market": "TOTAL 4.5",
+      "side": "Under",
+      "book": "BetMGM",
       "result": "loss",
-      "clv": -0.022
-    },
-    {
-      "date": "2026-07-06",
-      "sport": "MLB",
-      "pick": "Willy Adames",
-      "market": "rbis 0.5",
-      "side": "Over",
-      "book": "DraftKings",
-      "result": "loss",
-      "clv": 0.008
-    },
-    {
-      "date": "2026-07-06",
-      "sport": "MLB",
-      "pick": "Hunter Goodman",
-      "market": "singles 0.5",
-      "side": "Over",
-      "book": "DraftKings",
-      "result": "loss",
-      "clv": 0.0
+      "clv": 0.006
     }
   ],
   "window_days": 30,
-  "settled_30": 9347,
-  "wins_30": 5766,
-  "losses_30": 3581,
-  "profit_units_30": 958.8
+  "settled_30": 10050,
+  "wins_30": 6155,
+  "losses_30": 3895,
+  "profit_units_30": 929.2
 }
