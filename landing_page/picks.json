@@ -31,19 +31,6 @@
     {
       "rank": 2,
       "sport": "MLB",
-      "selection": "Paul Goldschmidt",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "+150",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
-    },
-    {
-      "rank": 2,
-      "sport": "MLB",
       "selection": "MIL@STL",
       "market": "TOTAL 3.5",
       "side": "Under",
@@ -53,6 +40,19 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
+    },
+    {
+      "rank": 2,
+      "sport": "MLB",
+      "selection": "Paul Goldschmidt",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+150",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 3,
@@ -187,6 +187,19 @@
     {
       "rank": 8,
       "sport": "MLB",
+      "selection": "Mauricio Dub\u00f3n",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+151",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 8,
+      "sport": "MLB",
       "selection": "OAK@DET",
       "market": "TOTAL 7.5",
       "side": "Over",
@@ -198,13 +211,13 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "sport": "MLB",
-      "selection": "Mauricio Dub\u00f3n",
+      "selection": "Alex Bregman",
       "market": "hits 0.5",
       "side": "Under",
       "book": "Sleeper",
-      "odds": "+151",
+      "odds": "+148",
       "ev": 0.25,
       "ev_capped": true,
       "tier": "proven",
@@ -224,17 +237,17 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "sport": "MLB",
-      "selection": "Alex Bregman",
-      "market": "hits 0.5",
+      "selection": "BOS@CWS",
+      "market": "TOTAL 3.5",
       "side": "Under",
-      "book": "Sleeper",
-      "odds": "+148",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
+      "book": "BetMGM",
+      "odds": "+100",
+      "ev": 0.07,
+      "ev_capped": false,
+      "tier": "price",
+      "tier_label": "Price value"
     },
     {
       "rank": 10,
@@ -250,17 +263,17 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "sport": "MLB",
-      "selection": "BOS@CWS",
-      "market": "TOTAL 3.5",
+      "selection": "Ozzie Albies",
+      "market": "singles 0.5",
       "side": "Under",
-      "book": "BetMGM",
-      "odds": "+100",
-      "ev": 0.07,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
+      "book": "Sleeper",
+      "odds": "-128",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 11,
@@ -274,19 +287,6 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
-    },
-    {
-      "rank": 11,
-      "sport": "MLB",
-      "selection": "Ozzie Albies",
-      "market": "singles 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "-128",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
     },
     {
       "rank": 12,
@@ -317,19 +317,6 @@
     {
       "rank": 13,
       "sport": "MLB",
-      "selection": "ATL@PIT",
-      "market": "TOTAL 4.5",
-      "side": "Under",
-      "book": "BetMGM",
-      "odds": "-118",
-      "ev": 0.058,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 13,
-      "sport": "MLB",
       "selection": "Bryson Stott",
       "market": "hits 0.5",
       "side": "Under",
@@ -339,6 +326,19 @@
       "ev_capped": true,
       "tier": "proven",
       "tier_label": "Proven edge"
+    },
+    {
+      "rank": 13,
+      "sport": "MLB",
+      "selection": "ATL@PIT",
+      "market": "TOTAL 4.5",
+      "side": "Under",
+      "book": "BetMGM",
+      "odds": "-118",
+      "ev": 0.058,
+      "ev_capped": false,
+      "tier": "price",
+      "tier_label": "Price value"
     },
     {
       "rank": 14,

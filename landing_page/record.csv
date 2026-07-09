@@ -1,4 +1,710 @@
 game_date,sport,market_type,pick,stat_type,side,line,bet_book,offered_mult,ev,result,clv
+2026-07-08,mlb,prop,Chase Meidroth,total bases,OVER,1.5,sleeper,2.37,0.273,loss,0.037
+2026-07-08,mlb,prop,Ben Williamson,total bases,UNDER,0.5,sleeper,2.11,0.343,win,0.136
+2026-07-08,mlb,prop,Jake Mangum,runs,UNDER,0.5,sleeper,1.64,0.348,win,0.268
+2026-07-08,mlb,prop,J.P. Crawford,runs,UNDER,0.5,sleeper,1.7,0.352,win,0.283
+2026-07-08,mlb,prop,Randy Arozarena,runs,UNDER,0.5,sleeper,1.7,0.353,win,0.306
+2026-07-08,mlb,prop,Jonathan Aranda,runs,UNDER,0.5,sleeper,1.61,0.354,win,0.329
+2026-07-08,mlb,prop,Cam Smith,hits,UNDER,0.5,sleeper,2.27,0.355,win,0.236
+2026-07-08,mlb,prop,Ozzie Albies,hits+runs+rbis,UNDER,1.5,sleeper,1.9,0.362,win,0.217
+2026-07-08,mlb,prop,Matt Vierling,hits,UNDER,0.5,sleeper,2.53,0.364,win,0.218
+2026-07-08,mlb,prop,Shea Langeliers,hits,UNDER,0.5,sleeper,2.43,0.364,win,0.212
+2026-07-08,mlb,prop,Austin Wells,total bases,UNDER,0.5,sleeper,1.7,0.367,win,0.294
+2026-07-08,mlb,prop,Austin Wells,hits,UNDER,0.5,sleeper,1.7,0.367,win,0.325
+2026-07-08,mlb,prop,Henry Davis,hits,UNDER,0.5,sleeper,1.85,0.368,win,0.227
+2026-07-08,mlb,prop,Cole Young,hits,UNDER,0.5,sleeper,2.26,0.370,win,0.106
+2026-07-08,mlb,prop,Cole Young,total bases,UNDER,0.5,sleeper,2.31,0.371,win,0.093
+2026-07-08,mlb,prop,Colton Cowser,hits,UNDER,0.5,sleeper,2.05,0.371,win,0.193
+2026-07-08,mlb,prop,Junior Caminero,runs,UNDER,0.5,sleeper,1.67,0.374,win,0.344
+2026-07-08,mlb,prop,Joe Mack,total bases,UNDER,0.5,sleeper,1.97,0.375,win,0.274
+2026-07-08,mlb,prop,Nico Hoerner,hits,UNDER,0.5,sleeper,2.55,0.375,win,0.039
+2026-07-08,mlb,prop,Paul Goldschmidt,runs,UNDER,0.5,sleeper,1.61,0.379,win,0.322
+2026-07-08,mlb,prop,Jared Triolo,hits,UNDER,0.5,sleeper,1.99,0.381,win,0.248
+2026-07-08,mlb,prop,Jakob Marsee,total bases,UNDER,0.5,sleeper,2.03,0.381,win,0.272
+2026-07-08,mlb,prop,Ben Williamson,hits,UNDER,0.5,sleeper,2.12,0.391,win,-0.122
+2026-07-08,mlb,prop,Dominic Canzone,runs,UNDER,0.5,sleeper,1.74,0.393,win,0.322
+2026-07-08,mlb,prop,Max Schuemann,hits,UNDER,0.5,sleeper,1.74,0.397,win,0.362
+2026-07-08,mlb,prop,Joe Mack,hits,UNDER,0.5,sleeper,1.97,0.397,win,0.294
+2026-07-08,mlb,prop,Zach McKinstry,total bases,UNDER,0.5,sleeper,2.02,0.398,win,0.292
+2026-07-08,mlb,prop,Jakob Marsee,hits,UNDER,0.5,sleeper,2.07,0.400,win,0.268
+2026-07-08,mlb,prop,Zach McKinstry,hits,UNDER,0.5,sleeper,2.06,0.402,win,0.251
+2026-07-08,mlb,prop,Cam Smith,total bases,UNDER,0.5,sleeper,2.35,0.402,win,-0.017
+2026-07-08,mlb,prop,Samuel Basallo,hits,UNDER,0.5,sleeper,2.43,0.405,win,0.255
+2026-07-08,mlb,prop,Mauricio Dubón,singles,UNDER,0.5,sleeper,1.93,0.406,win,0.228
+2026-07-08,mlb,prop,Victor Robles,hits,UNDER,0.5,sleeper,2.17,0.406,win,0.148
+2026-07-08,mlb,prop,Victor Robles,total bases,UNDER,0.5,sleeper,2.19,0.419,win,0.254
+2026-07-08,mlb,prop,Henry Bolte,hits,UNDER,0.5,sleeper,2.16,0.420,win,0.265
+2026-07-08,mlb,prop,Junior Caminero,singles,UNDER,0.5,sleeper,1.74,0.422,win,0.305
+2026-07-08,mlb,prop,Alex Bregman,hits+runs+rbis,UNDER,1.5,sleeper,1.9,0.427,win,0.273
+2026-07-08,mlb,prop,Alex Bregman,singles,UNDER,0.5,sleeper,1.9,0.432,win,0.295
+2026-07-08,mlb,prop,Juan Soto,hits,UNDER,0.5,sleeper,2.51,0.343,win,-0.173
+2026-07-08,mlb,prop,Michael Harris,runs,UNDER,0.5,sleeper,1.75,0.256,loss,0.218
+2026-07-08,mlb,prop,Ozzie Albies,singles,UNDER,0.5,sleeper,1.78,0.264,loss,0.203
+2026-07-08,mlb,prop,Ben Rice,hits,UNDER,0.5,sleeper,2.25,0.727,loss,0.267
+2026-07-08,mlb,prop,Jeff McNeil,rbis,OVER,0.5,sleeper,3.16,0.749,loss,0.307
+2026-07-08,mlb,prop,Christian Walker,hits,UNDER,0.5,sleeper,2.35,0.371,loss,0.222
+2026-07-08,mlb,prop,Kevin McGonigle,hits,UNDER,0.5,sleeper,2.49,0.398,loss,0.248
+2026-07-08,mlb,prop,Josh Naylor,hits,UNDER,0.5,sleeper,2.59,0.413,loss,0.045
+2026-07-08,mlb,prop,Carlos Cortes,hits,UNDER,0.5,sleeper,2.08,0.442,loss,0.283
+2026-07-08,mlb,prop,Ryan O'Hearn,hits,UNDER,0.5,sleeper,2.48,0.447,loss,0.244
+2026-07-08,mlb,prop,Amed Rosario,hits,UNDER,0.5,sleeper,2.31,0.482,loss,0.142
+2026-07-08,mlb,prop,Ozzie Albies,hits,UNDER,0.5,sleeper,2.54,0.536,loss,0.274
+2026-07-08,mlb,prop,Christian Yelich,hits,OVER,1.5,sleeper,2.57,0.604,loss,0.312
+2026-07-08,mlb,prop,Colton Cowser,total bases,UNDER,0.5,sleeper,2.1,0.433,win,0.183
+2026-07-08,mlb,prop,Henry Bolte,total bases,UNDER,0.5,sleeper,2.27,0.448,win,0.214
+2026-07-08,mlb,prop,Brandon Lowe,runs,UNDER,0.5,sleeper,1.8,0.449,win,0.305
+2026-07-08,mlb,prop,Cody Bellinger,hits,UNDER,0.5,sleeper,2.21,0.453,win,0.158
+2026-07-08,mlb,prop,James Wood,hits,UNDER,0.5,sleeper,2.37,0.462,win,0.248
+2026-07-08,mlb,prop,Paul Goldschmidt,singles,UNDER,0.5,sleeper,1.78,0.477,win,0.351
+2026-07-08,mlb,prop,Nick Gonzales,hits,UNDER,0.5,sleeper,2.6,0.494,win,0.267
+2026-07-08,mlb,prop,Randy Arozarena,singles,UNDER,0.5,sleeper,1.95,0.502,win,0.303
+2026-07-08,mlb,prop,Randy Arozarena,hits+runs+rbis,UNDER,1.5,sleeper,1.93,0.523,win,0.330
+2026-07-08,mlb,prop,Curtis Mead,hits,UNDER,0.5,sleeper,2.37,0.561,win,0.290
+2026-07-08,mlb,prop,Cedric Mullins,hits,UNDER,0.5,sleeper,1.97,0.564,win,0.363
+2026-07-08,mlb,prop,Cedric Mullins,total bases,UNDER,0.5,sleeper,1.98,0.568,win,0.361
+2026-07-08,mlb,prop,Liam Hicks,singles,UNDER,0.5,sleeper,2.04,0.569,win,0.342
+2026-07-08,mlb,prop,Matt Olson,hits,UNDER,0.5,sleeper,2.49,0.575,win,0.296
+2026-07-08,mlb,prop,Zack Gelof,runs,UNDER,0.5,sleeper,1.65,0.339,win,0.239
+2026-07-08,mlb,prop,Colt Emerson,hits,UNDER,0.5,sleeper,1.96,0.338,win,0.252
+2026-07-08,mlb,prop,Zack Gelof,singles,UNDER,0.5,sleeper,1.7,0.337,win,0.269
+2026-07-08,mlb,prop,Jordan Walker,rbis,OVER,0.5,sleeper,2.41,0.334,win,0.198
+2026-07-08,mlb,prop,Nick Gonzales,singles,UNDER,0.5,sleeper,1.98,0.331,win,0.234
+2026-07-08,mlb,prop,Javier Sanoja,singles,UNDER,0.5,sleeper,1.82,0.328,win,0.281
+2026-07-08,mlb,prop,Samuel Basallo,hits+runs+rbis,UNDER,1.5,sleeper,1.88,0.320,win,0.202
+2026-07-08,mlb,prop,Pete Crow-Armstrong,singles,UNDER,0.5,sleeper,1.69,0.319,win,0.256
+2026-07-08,mlb,prop,Ben Rice,runs,UNDER,0.5,sleeper,1.54,0.303,win,0.298
+2026-07-08,mlb,prop,Michael Harris,singles,UNDER,0.5,sleeper,1.89,0.301,win,0.221
+2026-07-08,mlb,prop,Jorge Mateo,total bases,UNDER,0.5,sleeper,1.92,0.299,win,0.181
+2026-07-08,mlb,prop,Curtis Mead,singles,UNDER,0.5,sleeper,1.7,0.293,win,0.237
+2026-07-08,mlb,prop,Alex Bregman,runs,UNDER,0.5,sleeper,1.64,0.284,win,0.236
+2026-07-08,mlb,prop,J.P. Crawford,batter walks,UNDER,0.5,sleeper,1.67,0.280,win,0.205
+2026-07-08,mlb,prop,Bryson Stott,total bases,UNDER,0.5,sleeper,2.22,0.279,win,0.178
+2026-07-08,mlb,prop,Heriberto Hernández,singles,UNDER,0.5,sleeper,1.76,0.278,win,0.285
+2026-07-08,mlb,prop,Austin Riley,singles,UNDER,0.5,sleeper,1.6,0.274,win,0.235
+2026-07-08,mlb,prop,Nico Hoerner,singles,UNDER,0.5,sleeper,2.03,0.273,win,0.241
+2026-07-08,mlb,prop,Liam Hicks,runs,UNDER,0.5,sleeper,1.54,0.269,win,0.219
+2026-07-08,mlb,prop,Jorge Mateo,hits,UNDER,0.5,sleeper,1.85,0.268,win,0.190
+2026-07-08,mlb,prop,Ben Williamson,singles,UNDER,0.5,sleeper,1.78,0.267,win,0.245
+2026-07-08,mlb,prop,Victor Robles,singles,UNDER,0.5,sleeper,1.76,0.267,win,0.208
+2026-07-08,mlb,prop,Joe Mack,hits+runs+rbis,UNDER,0.5,sleeper,2.01,0.310,win,0.152
+2026-07-08,mlb,prop,Jakob Marsee,hits+runs+rbis,UNDER,0.5,sleeper,2.07,0.265,win,0.111
+2026-07-08,mlb,prop,Gunnar Henderson,hits,UNDER,0.5,sleeper,2.66,0.369,win,-0.155
+2026-07-08,mlb,prop,Mauricio Dubón,hits,UNDER,0.5,sleeper,2.51,0.659,win,0.311
+2026-07-08,mlb,prop,Alex Bregman,hits,UNDER,0.5,sleeper,2.48,0.656,win,0.168
+2026-07-08,mlb,prop,Austin Riley,total bases,UNDER,0.5,sleeper,2.29,0.606,win,0.278
+2026-07-08,mlb,prop,Junior Caminero,hits,UNDER,0.5,sleeper,2.77,0.996,win,0.221
+2026-07-08,mlb,prop,Paul Goldschmidt,hits,UNDER,0.5,sleeper,2.5,0.908,win,0.263
+2026-07-08,mlb,prop,Liam Hicks,hits,UNDER,0.5,sleeper,2.65,0.899,win,0.395
+2026-07-08,mlb,prop,Jake Mangum,singles,UNDER,0.5,sleeper,2.31,0.696,win,0.361
+2026-07-08,mlb,prop,Zack Gelof,hits,UNDER,0.5,sleeper,2.39,0.695,win,0.356
+2026-07-08,mlb,prop,Cody Bellinger,singles,UNDER,0.5,sleeper,1.64,0.261,win,0.257
+2026-07-08,mlb,prop,Bryson Stott,hits,UNDER,0.5,sleeper,2.16,0.256,win,0.192
+2026-07-08,mlb,prop,Junior Caminero,rbis,UNDER,0.5,sleeper,1.5,0.256,win,0.290
+2026-07-08,mlb,prop,Matt Olson,runs,UNDER,0.5,sleeper,1.75,0.253,win,0.206
+2026-07-08,mlb,prop,Dylan Crews,hits,UNDER,0.5,sleeper,2.29,0.277,loss,0.184
+2026-07-08,mlb,prop,Austin Riley,hits,UNDER,0.5,sleeper,2.21,0.587,win,0.326
+2026-07-08,mlb,prop,Owen Caissie,rbis,OVER,0.5,sleeper,2.74,0.370,loss,0.167
+2026-07-08,mlb,prop,Seiya Suzuki,hits,UNDER,0.5,sleeper,2.48,0.368,loss,0.052
+2026-07-08,mlb,prop,Dansby Swanson,total bases,UNDER,0.5,sleeper,2.16,0.360,loss,0.130
+2026-07-08,mlb,prop,Ben Rice,singles,UNDER,0.5,sleeper,1.6,0.353,loss,0.345
+2026-07-08,mlb,prop,Jac Caglianone,hits,UNDER,0.5,sleeper,2.22,0.346,loss,0.229
+2026-07-08,mlb,prop,Carlos Cortes,total bases,UNDER,0.5,sleeper,2.14,0.339,loss,0.202
+2026-07-08,mlb,prop,Mike Yastrzemski,hits+runs+rbis,UNDER,1.5,sleeper,1.54,0.337,loss,0.368
+2026-07-08,mlb,prop,Adley Rutschman,hits,UNDER,0.5,sleeper,2.56,0.335,loss,-0.176
+2026-07-08,mlb,prop,Spencer Torkelson,hits,UNDER,0.5,sleeper,2.17,0.332,loss,0.219
+2026-07-08,mlb,prop,Dansby Swanson,hits,UNDER,0.5,sleeper,2.09,0.322,loss,0.132
+2026-07-08,mlb,prop,Luis García,hits,UNDER,0.5,sleeper,2.65,0.312,loss,0.179
+2026-07-08,mlb,prop,Carter Jensen,hits,UNDER,0.5,sleeper,2.26,0.306,loss,0.216
+2026-07-08,mlb,prop,Xavier Edwards,singles,UNDER,0.5,sleeper,2.11,0.295,loss,0.190
+2026-07-08,mlb,prop,Amed Rosario,singles,UNDER,0.5,sleeper,1.73,0.285,loss,0.284
+2026-07-08,mlb,prop,Josh Naylor,singles,UNDER,0.5,sleeper,1.94,0.266,loss,0.212
+2026-07-08,mlb,prop,CJ Abrams,hits,UNDER,0.5,sleeper,2.45,0.272,loss,0.147
+2026-07-08,mlb,prop,Brandon Lowe,batter walks,UNDER,0.5,sleeper,1.49,0.246,win,0.228
+2026-07-08,mlb,prop,Ryan O'Hearn,singles,UNDER,0.5,sleeper,1.78,0.242,loss,0.190
+2026-07-08,mlb,prop,Sam Antonacci,runs,OVER,0.5,sleeper,2.29,0.240,loss,0.168
+2026-07-08,mlb,prop,Cedric Mullins,runs,UNDER,0.5,sleeper,1.44,0.239,win,0.223
+2026-07-08,mlb,prop,Taylor Walls,hits,UNDER,0.5,sleeper,1.66,0.239,win,0.199
+2026-07-08,mlb,prop,Ozzie Albies,runs,UNDER,0.5,sleeper,1.72,0.238,win,0.181
+2026-07-08,mlb,prop,Cedric Mullins,singles,UNDER,0.5,sleeper,1.43,0.237,win,0.242
+2026-07-08,mlb,prop,Yordan Alvarez,runs,UNDER,0.5,sleeper,1.95,0.236,win,0.139
+2026-07-08,mlb,prop,Matt Olson,batter walks,UNDER,0.5,sleeper,1.66,0.232,win,0.203
+2026-07-08,mlb,prop,Max Schuemann,singles,UNDER,0.5,sleeper,1.45,0.231,win,0.261
+2026-07-08,mlb,prop,Garrett Mitchell,total bases,OVER,1.5,sleeper,2.17,0.231,win,0.067
+2026-07-08,mlb,prop,Jared Triolo,singles,UNDER,0.5,sleeper,1.59,0.230,win,0.196
+2026-07-08,mlb,prop,Curtis Mead,runs,UNDER,0.5,sleeper,1.64,0.230,win,0.226
+2026-07-08,mlb,prop,Jakob Marsee,singles,UNDER,0.5,sleeper,1.62,0.230,win,0.224
+2026-07-08,mlb,prop,Zach McKinstry,singles,UNDER,0.5,sleeper,1.61,0.226,win,0.200
+2026-07-08,mlb,prop,Bo Bichette,hits,OVER,1.5,sleeper,2.57,0.224,loss,0.174
+2026-07-08,mlb,prop,Matt Olson,singles,UNDER,0.5,sleeper,1.59,0.223,win,0.191
+2026-07-08,mlb,prop,Carson Kelly,singles,UNDER,0.5,sleeper,1.72,0.221,win,0.220
+2026-07-08,mlb,prop,Kevin McGonigle,singles,UNDER,0.5,sleeper,1.76,0.217,loss,0.196
+2026-07-08,mlb,prop,Joe Mack,singles,UNDER,0.5,sleeper,1.56,0.216,win,0.220
+2026-07-08,mlb,prop,Kyle Schwarber,hits,UNDER,0.5,sleeper,2.06,0.216,loss,0.198
+2026-07-08,mlb,prop,Bryce Harper,hits,UNDER,0.5,sleeper,2.33,0.215,win,0.168
+2026-07-08,mlb,prop,Austin Riley,runs,UNDER,0.5,sleeper,1.5,0.213,win,0.176
+2026-07-08,mlb,prop,Cole Young,singles,UNDER,0.5,sleeper,1.74,0.211,win,0.196
+2026-07-08,mlb,prop,Bryan Reynolds,batter walks,UNDER,0.5,sleeper,1.71,0.209,win,0.168
+2026-07-08,mlb,prop,Henry Bolte,singles,UNDER,0.5,sleeper,1.61,0.204,win,0.248
+2026-07-08,mlb,prop,Dylan Crews,hits+runs+rbis,UNDER,1.5,sleeper,1.78,0.204,loss,0.176
+2026-07-08,mlb,prop,Bobby Witt,hits,OVER,1.5,sleeper,2.45,0.201,loss,0.183
+2026-07-08,mlb,prop,Tyler Soderstrom,singles,UNDER,0.5,sleeper,1.7,0.200,win,0.194
+2026-07-08,mlb,prop,Samuel Basallo,total bases,UNDER,0.5,sleeper,2.04,0.197,win,0.016
+2026-07-08,mlb,prop,Yordan Alvarez,singles,UNDER,0.5,sleeper,1.74,0.193,win,0.159
+2026-07-08,mlb,prop,Kyle Stowers,singles,UNDER,0.5,sleeper,1.61,0.192,win,0.216
+2026-07-08,mlb,prop,Heriberto Hernández,runs,UNDER,0.5,sleeper,1.54,0.192,win,0.262
+2026-07-08,mlb,prop,Ryan O'Hearn,runs,UNDER,0.5,sleeper,1.58,0.190,win,0.182
+2026-07-08,mlb,prop,Brandon Lowe,rbis,UNDER,0.5,sleeper,1.43,0.190,win,0.217
+2026-07-08,mlb,prop,Samuel Basallo,singles,UNDER,0.5,sleeper,1.65,0.188,win,0.205
+2026-07-08,mlb,prop,Dominic Canzone,batter walks,UNDER,0.5,sleeper,1.41,0.184,win,0.175
+2026-07-08,mlb,prop,José Caballero,runs,UNDER,0.5,sleeper,1.36,0.183,win,0.229
+2026-07-08,mlb,prop,Henry Davis,singles,UNDER,0.5,sleeper,1.43,0.183,win,0.181
+2026-07-08,mlb,prop,José Tena,total bases,UNDER,0.5,sleeper,1.86,0.181,win,0.191
+2026-07-08,mlb,prop,Dominic Canzone,rbis,UNDER,0.5,sleeper,1.42,0.181,win,0.225
+2026-07-08,mlb,prop,Samuel Basallo,runs,UNDER,0.5,sleeper,1.64,0.181,win,0.187
+2026-07-08,mlb,prop,Colton Cowser,runs,UNDER,0.5,sleeper,1.57,0.179,win,0.143
+2026-07-08,mlb,prop,Gunnar Henderson,runs,UNDER,0.5,sleeper,1.93,0.179,loss,0.111
+2026-07-08,mlb,prop,Adley Rutschman,singles,UNDER,0.5,sleeper,1.83,0.179,loss,0.204
+2026-07-08,mlb,prop,Matt Vierling,runs,UNDER,0.5,sleeper,1.75,0.178,win,0.102
+2026-07-08,mlb,prop,Sam Antonacci,total bases,UNDER,0.5,sleeper,2.46,0.177,loss,-0.022
+2026-07-08,mlb,prop,Isaac Paredes,singles,UNDER,0.5,sleeper,1.7,0.177,loss,0.180
+2026-07-08,mlb,prop,Cody Bellinger,rbis,UNDER,0.5,espnbet,1.4,0.198,win,0.198
+2026-07-08,mlb,prop,Josh Naylor,runs,UNDER,0.5,espnbet,1.6666666666666665,0.196,win,0.183
+2026-07-08,mlb,prop,Bobby Witt,runs,UNDER,0.5,sleeper,1.7,0.174,win,0.190
+2026-07-08,mlb,prop,Riley Greene,runs,UNDER,0.5,sleeper,1.7,0.174,win,0.164
+2026-07-08,mlb,prop,Gunnar Henderson,singles,UNDER,0.5,sleeper,1.82,0.172,win,0.196
+2026-07-08,mlb,prop,Christian Walker,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.194,win,0.110
+2026-07-08,mlb,prop,Ian Happ,runs,UNDER,0.5,espnbet,1.7142857142857144,0.193,win,0.172
+2026-07-08,mlb,prop,Colt Emerson,singles,UNDER,0.5,sleeper,1.52,0.171,win,0.201
+2026-07-08,mlb,prop,Spencer Torkelson,runs,UNDER,0.5,sleeper,1.7,0.170,loss,0.158
+2026-07-08,mlb,prop,Jahmai Jones,hits,UNDER,0.5,sleeper,1.81,0.170,win,0.147
+2026-07-08,mlb,prop,JJ Bleday,runs,UNDER,0.5,sleeper,1.65,0.170,loss,0.209
+2026-07-08,mlb,prop,Pete Alonso,singles,UNDER,0.5,sleeper,1.65,0.169,win,0.194
+2026-07-08,mlb,prop,Sal Stewart,singles,UNDER,0.5,sleeper,1.71,0.169,win,0.171
+2026-07-08,mlb,prop,Cam Smith,singles,UNDER,0.5,sleeper,1.63,0.168,win,0.163
+2026-07-08,mlb,prop,Austin Wells,singles,UNDER,0.5,sleeper,1.35,0.168,win,0.228
+2026-07-08,mlb,prop,Ian Happ,rbis,UNDER,0.5,espnbet,1.5,0.189,win,0.161
+2026-07-08,mlb,prop,Carter Jensen,runs,UNDER,0.5,sleeper,1.65,0.168,win,0.208
+2026-07-08,mlb,prop,Tyler Tolbert,hits,UNDER,0.5,sleeper,1.95,0.167,win,-0.245
+2026-07-08,mlb,prop,Mauricio Dubón,runs,UNDER,0.5,sleeper,1.45,0.166,win,0.165
+2026-07-08,mlb,prop,Kyle Schwarber,runs,UNDER,0.5,sleeper,1.81,0.166,loss,0.204
+2026-07-08,mlb,prop,Seiya Suzuki,singles,UNDER,0.5,sleeper,1.69,0.165,win,0.189
+2026-07-08,mlb,prop,Shea Langeliers,rbis,UNDER,0.5,sleeper,1.46,0.163,win,0.153
+2026-07-08,mlb,prop,Christian Walker,singles,UNDER,0.5,sleeper,1.65,0.163,win,0.186
+2026-07-08,mlb,prop,Amed Rosario,runs,UNDER,0.5,espnbet,1.5,0.184,win,0.230
+2026-07-08,mlb,prop,Brice Matthews,total bases,UNDER,0.5,sleeper,2.03,0.162,loss,0.099
+2026-07-08,mlb,prop,Anthony Volpe,runs,UNDER,0.5,sleeper,1.36,0.162,win,0.239
+2026-07-08,mlb,prop,Ben Rice,rbis,UNDER,0.5,sleeper,1.33,0.162,win,0.226
+2026-07-08,mlb,prop,Chase Burns,earned runs allowed,OVER,2.5,sleeper,2.13,0.162,win,0.045
+2026-07-08,mlb,prop,Cam Smith,rbis,OVER,0.5,espnbet,5.5,0.183,loss,-0.106
+2026-07-08,mlb,prop,Lawrence Butler,singles,UNDER,0.5,sleeper,1.57,0.161,win,0.190
+2026-07-08,mlb,prop,Bryce Harper,hits+runs+rbis,UNDER,1.5,sleeper,1.82,0.161,win,0.150
+2026-07-08,mlb,prop,Shea Langeliers,runs,UNDER,0.5,espnbet,1.7142857142857144,0.182,win,0.106
+2026-07-08,mlb,prop,Christian Walker,runs,UNDER,0.5,sleeper,1.61,0.160,win,0.192
+2026-07-08,mlb,prop,Chase Meidroth,runs,OVER,0.5,sleeper,2.32,0.160,loss,0.120
+2026-07-08,mlb,prop,Luke Raley,runs,UNDER,0.5,sleeper,1.54,0.160,win,0.229
+2026-07-08,mlb,prop,Henry Davis,runs,UNDER,0.5,sleeper,1.41,0.159,win,0.151
+2026-07-08,mlb,prop,José Tena,hits,UNDER,0.5,sleeper,1.87,0.159,win,0.205
+2026-07-08,mlb,prop,Daylen Lile,runs,UNDER,0.5,espnbet,1.7142857142857144,0.180,loss,0.102
+2026-07-08,mlb,prop,Paul Goldschmidt,batter walks,UNDER,0.5,sleeper,1.31,0.158,win,0.214
+2026-07-08,mlb,prop,Matt Olson,rbis,UNDER,0.5,sleeper,1.46,0.158,win,0.178
+2026-07-08,mlb,prop,Jared Triolo,runs,UNDER,0.5,sleeper,1.43,0.156,win,0.170
+2026-07-08,mlb,prop,Austin Riley,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.177,win,0.331
+2026-07-08,mlb,prop,Colton Cowser,singles,UNDER,0.5,sleeper,1.46,0.154,win,0.212
+2026-07-08,mlb,prop,Marcell Ozuna,runs,UNDER,0.5,sleeper,1.5,0.153,win,0.149
+2026-07-08,mlb,prop,Adley Rutschman,runs,UNDER,0.5,sleeper,1.73,0.151,win,0.144
+2026-07-08,mlb,prop,Mike Yastrzemski,batter walks,UNDER,0.5,sleeper,1.48,0.151,win,0.162
+2026-07-08,mlb,prop,Curtis Mead,rbis,UNDER,0.5,sleeper,1.44,0.150,win,0.159
+2026-07-08,mlb,prop,Shea Langeliers,singles,UNDER,0.5,sleeper,1.59,0.150,win,0.188
+2026-07-08,mlb,prop,Samuel Basallo,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.171,win,0.154
+2026-07-08,mlb,prop,Cedric Mullins,rbis,UNDER,0.5,sleeper,1.3,0.148,win,0.212
+2026-07-08,mlb,prop,CJ Abrams,runs,UNDER,0.5,espnbet,1.8333333333333335,0.169,loss,0.128
+2026-07-08,mlb,prop,Paul Goldschmidt,rbis,UNDER,0.5,sleeper,1.3,0.147,win,0.204
+2026-07-08,mlb,prop,Amed Rosario,rbis,UNDER,0.5,espnbet,1.3125,0.168,win,0.190
+2026-07-08,mlb,prop,Curtis Mead,batter walks,UNDER,0.5,sleeper,1.42,0.146,loss,0.176
+2026-07-08,mlb,prop,Kevin McGonigle,runs,UNDER,0.5,sleeper,1.64,0.146,loss,0.199
+2026-07-08,mlb,prop,David Fry,hits,UNDER,0.5,espnbet,2.2,0.167,win,-0.276
+2026-07-08,mlb,prop,Juan Soto,singles,UNDER,0.5,sleeper,1.6,0.145,win,0.204
+2026-07-08,mlb,prop,Ben Rice,batter walks,UNDER,0.5,sleeper,1.32,0.145,win,0.175
+2026-07-08,mlb,prop,JJ Bleday,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.167,loss,0.135
+2026-07-08,mlb,prop,Cody Bellinger,runs,UNDER,0.5,sleeper,1.42,0.143,win,0.216
+2026-07-08,mlb,prop,Tyler Soderstrom,rbis,UNDER,0.5,sleeper,1.4,0.143,win,0.167
+2026-07-08,mlb,prop,Dylan Crews,runs,UNDER,0.5,sleeper,1.58,0.142,loss,0.140
+2026-07-08,mlb,prop,Bryce Harper,runs,UNDER,0.5,sleeper,1.78,0.142,loss,0.134
+2026-07-08,mlb,prop,Carlos Cortes,singles,UNDER,0.5,sleeper,1.52,0.142,loss,0.180
+2026-07-08,mlb,prop,Cam Smith,runs,UNDER,0.5,sleeper,1.53,0.142,win,0.159
+2026-07-08,mlb,prop,Isaac Paredes,runs,UNDER,0.5,sleeper,1.6,0.142,win,0.120
+2026-07-08,mlb,prop,Randy Arozarena,batter walks,UNDER,0.5,sleeper,1.38,0.140,win,0.134
+2026-07-08,mlb,prop,Henry Bolte,runs,UNDER,0.5,sleeper,1.42,0.140,win,0.148
+2026-07-08,mlb,prop,Josh Naylor,rbis,UNDER,0.5,sleeper,1.4,0.140,win,0.189
+2026-07-08,mlb,prop,A.J. Ewing,singles,UNDER,0.5,sleeper,1.85,0.138,win,0.157
+2026-07-08,mlb,prop,James Wood,singles,UNDER,0.5,sleeper,1.47,0.137,win,0.167
+2026-07-08,mlb,prop,Brett Baty,total bases,UNDER,0.5,sleeper,2.19,0.137,loss,0.019
+2026-07-08,mlb,prop,Caleb Durbin,total bases,UNDER,0.5,sleeper,2.21,0.137,loss,0.015
+2026-07-08,mlb,prop,Nico Hoerner,runs,UNDER,0.5,sleeper,1.5,0.136,win,0.142
+2026-07-08,mlb,prop,Dansby Swanson,singles,UNDER,0.5,sleeper,1.52,0.135,loss,0.223
+2026-07-08,mlb,prop,Lawrence Butler,runs,UNDER,0.5,sleeper,1.45,0.135,win,0.167
+2026-07-08,mlb,prop,Mike Yastrzemski,runs,UNDER,0.5,sleeper,1.44,0.134,loss,0.154
+2026-07-08,mlb,prop,Josh Naylor,runs,UNDER,0.5,sleeper,1.58,0.134,win,0.183
+2026-07-08,mlb,prop,Zach Neto,batter walks,OVER,0.5,sleeper,3.07,0.133,loss,0.000
+2026-07-08,mlb,prop,Bryan Reynolds,rbis,UNDER,0.5,sleeper,1.38,0.133,win,0.163
+2026-07-08,mlb,prop,Tyler Tolbert,hits+runs+rbis,UNDER,1.5,sleeper,1.58,0.132,win,0.217
+2026-07-08,mlb,prop,Bryan Reynolds,runs,UNDER,0.5,sleeper,1.69,0.132,win,0.131
+2026-07-08,mlb,prop,Brayan Rocchio,total bases,UNDER,0.5,sleeper,2.4,0.132,loss,-0.028
+2026-07-08,mlb,prop,José Caballero,stolen bases,UNDER,0.5,sleeper,1.23,0.132,win,0.257
+2026-07-08,mlb,prop,Jakob Marsee,runs,UNDER,0.5,sleeper,1.41,0.132,win,0.193
+2026-07-08,mlb,prop,Nick Gonzales,runs,UNDER,0.5,sleeper,1.48,0.132,win,0.160
+2026-07-08,mlb,prop,Ryan O'Hearn,rbis,UNDER,0.5,sleeper,1.42,0.131,win,0.153
+2026-07-08,mlb,prop,Brandon Marsh,runs,UNDER,0.5,espnbet,1.625,0.153,win,0.133
+2026-07-08,mlb,prop,Dansby Swanson,runs,UNDER,0.5,sleeper,1.51,0.131,loss,0.171
+2026-07-08,mlb,prop,Amed Rosario,rbis,UNDER,0.5,sleeper,1.27,0.130,win,0.190
+2026-07-08,mlb,prop,Jac Caglianone,runs,UNDER,0.5,sleeper,1.54,0.129,loss,0.132
+2026-07-08,mlb,prop,Seiya Suzuki,rbis,UNDER,0.5,sleeper,1.42,0.129,loss,0.170
+2026-07-08,mlb,prop,Dylan Crews,singles,UNDER,0.5,sleeper,1.66,0.128,loss,0.182
+2026-07-08,mlb,prop,Troy Melton,pitching outs,UNDER,17.5,caesars,2.83,0.150,win,-0.103
+2026-07-08,mlb,prop,Seiya Suzuki,runs,UNDER,0.5,espnbet,1.7142857142857144,0.149,loss,0.135
+2026-07-08,mlb,prop,Bryson Stott,singles,UNDER,0.5,sleeper,1.61,0.127,win,0.146
+2026-07-08,mlb,prop,Daylen Lile,singles,UNDER,0.5,sleeper,1.65,0.126,loss,0.146
+2026-07-08,mlb,prop,Michael Harris,rbis,UNDER,0.5,sleeper,1.41,0.126,win,0.141
+2026-07-08,mlb,prop,Victor Robles,runs,UNDER,0.5,sleeper,1.4,0.125,win,0.181
+2026-07-08,mlb,prop,Jac Caglianone,singles,UNDER,0.5,sleeper,1.51,0.125,win,0.151
+2026-07-08,mlb,prop,Anthony Volpe,batter walks,UNDER,0.5,sleeper,1.32,0.125,win,0.171
+2026-07-08,mlb,prop,Masataka Yoshida,hits,UNDER,0.5,sleeper,2.35,0.124,loss,0.148
+2026-07-08,mlb,prop,Colt Emerson,runs,UNDER,0.5,sleeper,1.4,0.123,win,0.158
+2026-07-08,mlb,prop,Bryson Stott,runs,UNDER,0.5,espnbet,1.5555555555555556,0.144,win,0.125
+2026-07-08,mlb,prop,Austin Wells,runs,UNDER,0.5,sleeper,1.27,0.122,win,0.179
+2026-07-08,mlb,prop,Michael Massey,total bases,UNDER,0.5,sleeper,2.15,0.121,loss,0.105
+2026-07-08,mlb,prop,Cody Bellinger,rbis,UNDER,0.5,sleeper,1.31,0.121,win,0.198
+2026-07-08,mlb,prop,Max Schuemann,runs,UNDER,0.5,sleeper,1.28,0.121,win,0.202
+2026-07-08,mlb,prop,Ian Happ,runs,UNDER,0.5,sleeper,1.61,0.121,win,0.172
+2026-07-08,mlb,prop,Christian Walker,rbis,UNDER,0.5,sleeper,1.46,0.120,win,0.110
+2026-07-08,mlb,prop,Cam Smith,rbis,UNDER,0.5,espnbet,1.4545454545454546,0.142,win,0.106
+2026-07-08,mlb,prop,Mike Yastrzemski,singles,UNDER,0.5,sleeper,1.41,0.119,win,0.167
+2026-07-08,mlb,prop,Cole Young,runs,UNDER,0.5,sleeper,1.45,0.118,win,0.165
+2026-07-08,mlb,prop,Jonathan Aranda,batter walks,UNDER,0.5,sleeper,1.31,0.118,win,0.142
+2026-07-08,mlb,prop,Ian Happ,rbis,OVER,0.5,espnbet,5.5,0.139,loss,-0.161
+2026-07-08,mlb,prop,Shea Langeliers,runs,UNDER,0.5,sleeper,1.62,0.117,win,0.106
+2026-07-08,mlb,prop,Joe Mack,runs,UNDER,0.5,sleeper,1.36,0.116,win,0.192
+2026-07-08,mlb,prop,Caleb Durbin,hits,UNDER,0.5,sleeper,2.22,0.116,loss,-0.021
+2026-07-08,mlb,prop,Matt Vierling,singles,UNDER,0.5,sleeper,1.76,0.115,win,0.131
+2026-07-08,mlb,prop,Junior Caminero,home runs,UNDER,0.5,sleeper,1.22,0.115,win,0.185
+2026-07-08,mlb,prop,James Wood,rbis,UNDER,0.5,sleeper,1.44,0.115,win,0.177
+2026-07-08,mlb,prop,Michael Massey,hits,UNDER,0.5,sleeper,2.11,0.115,loss,0.118
+2026-07-08,mlb,prop,Carter Jensen,singles,UNDER,0.5,sleeper,1.55,0.115,win,0.136
+2026-07-08,mlb,prop,Mike Yastrzemski,rbis,UNDER,0.5,sleeper,1.26,0.114,win,0.384
+2026-07-08,mlb,prop,Amed Rosario,runs,UNDER,0.5,sleeper,1.41,0.113,win,0.230
+2026-07-08,mlb,prop,Jorge Mateo,singles,UNDER,0.5,sleeper,1.47,0.112,win,0.124
+2026-07-08,mlb,prop,Ian Happ,rbis,UNDER,0.5,sleeper,1.4,0.110,win,0.161
+2026-07-08,mlb,prop,Dylan Crews,rbis,UNDER,0.5,espnbet,1.5,0.131,win,0.122
+2026-07-08,mlb,prop,David Fry,runs,UNDER,0.5,espnbet,1.6666666666666665,0.131,win,-0.174
+2026-07-08,mlb,prop,Miguel Vargas,runs,UNDER,0.5,espnbet,1.8695652173913042,0.131,win,0.105
+2026-07-08,mlb,prop,Jorbit Vivas,singles,UNDER,0.5,sleeper,1.55,0.108,win,0.269
+2026-07-08,mlb,prop,Heriberto Hernández,rbis,UNDER,0.5,espnbet,1.4,0.127,win,0.099
+2026-07-08,mlb,prop,CJ Abrams,singles,UNDER,0.5,sleeper,1.61,0.105,win,0.135
+2026-07-08,mlb,prop,Austin Riley,rbis,UNDER,0.5,sleeper,1.33,0.105,win,0.331
+2026-07-08,mlb,prop,Victor Caratini,batter walks,OVER,0.5,sleeper,2.75,0.104,loss,0.141
+2026-07-08,mlb,prop,Edmundo Sosa,total bases,UNDER,0.5,sleeper,2.04,0.104,loss,0.108
+2026-07-08,mlb,prop,Jared Triolo,batter walks,UNDER,0.5,sleeper,1.39,0.104,win,0.137
+2026-07-08,mlb,prop,Yordan Alvarez,rbis,UNDER,0.5,espnbet,1.625,0.125,win,0.109
+2026-07-08,mlb,prop,Taylor Ward,hits,OVER,1.5,sleeper,2.56,0.103,win,-0.247
+2026-07-08,mlb,prop,Taylor Walls,singles,UNDER,0.5,sleeper,1.36,0.102,win,0.140
+2026-07-08,mlb,prop,Otto Lopez,rbis,UNDER,0.5,sleeper,1.29,0.102,win,0.176
+2026-07-08,mlb,prop,Edmundo Sosa,hits,UNDER,0.5,sleeper,2.05,0.101,loss,0.122
+2026-07-08,mlb,prop,Carlos Cortes,runs,UNDER,0.5,sleeper,1.37,0.101,win,0.129
+2026-07-08,mlb,prop,José Tena,hits+runs+rbis,UNDER,1.5,sleeper,1.5,0.100,win,0.233
+2026-07-08,mlb,prop,Nick Loftin,total bases,UNDER,0.5,sleeper,2.04,0.100,loss,0.080
+2026-07-08,mlb,prop,Javier Sanoja,runs,UNDER,0.5,sleeper,1.36,0.100,win,0.185
+2026-07-08,mlb,prop,Randy Arozarena,rbis,UNDER,0.5,sleeper,1.32,0.100,win,0.171
+2026-07-08,mlb,prop,Seiya Suzuki,runs,UNDER,0.5,sleeper,1.64,0.099,loss,0.135
+2026-07-08,mlb,prop,JJ Bleday,total bases,UNDER,0.5,sleeper,1.95,0.098,loss,0.063
+2026-07-08,mlb,prop,Ben Williamson,runs,UNDER,0.5,sleeper,1.29,0.098,win,-0.057
+2026-07-08,mlb,prop,Lane Thomas,hits,UNDER,0.5,sleeper,1.97,0.098,loss,0.058
+2026-07-08,mlb,prop,Coby Mayo,hits,UNDER,0.5,sleeper,2.24,0.098,loss,0.029
+2026-07-08,mlb,prop,Yandy Díaz,rbis,UNDER,0.5,sleeper,1.29,0.097,win,0.180
+2026-07-08,mlb,prop,JJ Bleday,singles,UNDER,0.5,sleeper,1.52,0.097,loss,0.162
+2026-07-08,mlb,prop,Juan Soto,rbis,UNDER,0.5,sleeper,1.54,0.096,win,-0.103
+2026-07-08,mlb,prop,Tyler Soderstrom,batter walks,UNDER,0.5,sleeper,1.44,0.096,loss,0.133
+2026-07-08,mlb,prop,Travis Bazzana,hits+runs+rbis,UNDER,1.5,sleeper,1.78,0.095,win,0.167
+2026-07-08,mlb,prop,José Caballero,hits+runs+rbis,UNDER,1.5,sleeper,1.48,0.095,win,0.240
+2026-07-08,mlb,prop,Masataka Yoshida,singles,UNDER,0.5,sleeper,1.87,0.094,loss,0.113
+2026-07-08,mlb,prop,Zack Gelof,rbis,UNDER,0.5,sleeper,1.31,0.094,win,0.143
+2026-07-08,mlb,prop,David Fry,total bases,UNDER,0.5,sleeper,2.07,0.094,win,0.105
+2026-07-08,mlb,prop,Alec Burleson,rbis,OVER,0.5,sleeper,2.69,0.093,win,0.064
+2026-07-08,mlb,prop,Bryan Reynolds,hits,OVER,1.5,sleeper,2.46,0.093,loss,-0.239
+2026-07-08,mlb,prop,Salvador Perez,total bases,UNDER,0.5,sleeper,2.23,0.093,loss,0.074
+2026-07-08,mlb,prop,Brett Baty,hits,UNDER,0.5,sleeper,2.06,0.093,loss,-0.268
+2026-07-08,mlb,prop,Nick Allen,total bases,UNDER,0.5,sleeper,1.89,0.093,loss,-0.112
+2026-07-08,mlb,prop,Tyler Tolbert,total bases,UNDER,0.5,sleeper,1.89,0.093,win,0.102
+2026-07-08,mlb,prop,Kyle Schwarber,batter walks,UNDER,0.5,sleeper,1.67,0.092,loss,0.154
+2026-07-08,mlb,prop,Gunnar Henderson,rbis,UNDER,0.5,sleeper,1.45,0.091,win,0.154
+2026-07-08,mlb,prop,Junior Caminero,batter walks,UNDER,0.5,sleeper,1.28,0.091,win,0.137
+2026-07-08,mlb,prop,Taylor Walls,runs,UNDER,0.5,sleeper,1.31,0.091,loss,0.166
+2026-07-08,mlb,prop,Tyler Freeman,batter walks,OVER,0.5,sleeper,3.5,0.090,loss,0.093
+2026-07-08,mlb,prop,Nick Loftin,hits,UNDER,0.5,sleeper,2.02,0.089,loss,0.039
+2026-07-08,mlb,prop,Spencer Torkelson,singles,UNDER,0.5,sleeper,1.42,0.089,win,0.146
+2026-07-08,mlb,prop,Kyle Schwarber,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.110,loss,0.156
+2026-07-08,mlb,prop,Daylen Lile,runs,UNDER,0.5,sleeper,1.58,0.088,loss,0.102
+2026-07-08,mlb,prop,Randal Grichuk,runs,UNDER,0.5,espnbet,1.6666666666666665,0.109,win,0.122
+2026-07-08,mlb,prop,David Fry,hits,UNDER,0.5,sleeper,2.05,0.088,win,-0.276
+2026-07-08,mlb,prop,Travis Bazzana,singles,UNDER,0.5,sleeper,1.78,0.087,loss,0.180
+2026-07-08,mlb,prop,Coby Mayo,rbis,UNDER,0.5,sleeper,1.47,0.087,loss,0.000
+2026-07-08,mlb,prop,Michael Conforto,singles,UNDER,0.5,sleeper,1.39,0.087,win,0.151
+2026-07-08,mlb,prop,Ozzie Albies,rbis,UNDER,0.5,sleeper,1.33,0.087,win,0.142
+2026-07-08,mlb,prop,Luke Raley,rbis,UNDER,0.5,sleeper,1.34,0.087,win,0.196
+2026-07-08,mlb,prop,Colson Montgomery,hits,UNDER,0.5,sleeper,2.26,0.087,win,0.103
+2026-07-08,mlb,prop,Pete Crow-Armstrong,batter walks,UNDER,0.5,sleeper,1.35,0.086,loss,0.147
+2026-07-08,mlb,prop,Chase DeLauter,singles,UNDER,0.5,sleeper,2.03,0.086,loss,0.127
+2026-07-08,mlb,prop,Connor Prielipp,earned runs allowed,UNDER,1.5,sleeper,2.11,0.086,loss,0.096
+2026-07-08,mlb,prop,Ozzie Albies,batter walks,UNDER,0.5,sleeper,1.31,0.086,win,0.136
+2026-07-08,mlb,prop,Cedric Mullins,batter walks,UNDER,0.5,sleeper,1.24,0.086,win,0.133
+2026-07-08,mlb,prop,Liam Hicks,batter walks,UNDER,0.5,sleeper,1.27,0.085,win,0.134
+2026-07-08,mlb,prop,José Caballero,batter walks,UNDER,0.5,sleeper,1.21,0.084,win,0.176
+2026-07-08,mlb,prop,Henry Davis,batter walks,UNDER,0.5,sleeper,1.29,0.084,win,0.155
+2026-07-08,mlb,prop,Jorbit Vivas,runs,UNDER,0.5,sleeper,1.41,0.084,win,0.100
+2026-07-08,mlb,prop,Samuel Basallo,rbis,UNDER,0.5,sleeper,1.44,0.084,win,0.154
+2026-07-08,mlb,prop,Spencer Torkelson,rbis,UNDER,0.5,sleeper,1.45,0.083,loss,0.119
+2026-07-08,mlb,prop,TJ Friedl,hits,UNDER,0.5,sleeper,1.84,0.083,win,0.148
+2026-07-08,mlb,prop,Otto Lopez,hits,OVER,1.5,sleeper,2.49,0.083,win,-0.065
+2026-07-08,mlb,prop,Caleb Durbin,singles,UNDER,0.5,sleeper,1.78,0.082,loss,0.105
+2026-07-08,mlb,prop,Ian Happ,batter walks,UNDER,0.5,sleeper,1.52,0.082,win,0.139
+2026-07-08,mlb,prop,Rhys Hoskins,hits,UNDER,0.5,sleeper,1.96,0.081,loss,-0.263
+2026-07-08,mlb,prop,Edwin Arroyo,hits,UNDER,0.5,sleeper,2.12,0.081,loss,0.010
+2026-07-08,mlb,prop,Anthony Volpe,stolen bases,UNDER,0.5,sleeper,1.16,0.080,win,0.140
+2026-07-08,mlb,prop,JJ Bleday,rbis,UNDER,0.5,sleeper,1.44,0.080,loss,0.135
+2026-07-08,mlb,prop,Matt Vierling,rbis,UNDER,0.5,sleeper,1.35,0.080,win,0.139
+2026-07-08,mlb,prop,Bryce Harper,batter walks,UNDER,0.5,sleeper,1.58,0.080,loss,0.122
+2026-07-08,mlb,prop,Bryson Stott,rbis,UNDER,0.5,espnbet,1.4,0.101,loss,0.110
+2026-07-08,mlb,prop,Nick Allen,hits,UNDER,0.5,sleeper,1.91,0.080,loss,0.087
+2026-07-08,mlb,prop,Heriberto Hernández,rbis,UNDER,0.5,sleeper,1.34,0.079,win,0.099
+2026-07-08,mlb,prop,Brandon Marsh,runs,UNDER,0.5,sleeper,1.52,0.078,win,0.133
+2026-07-08,mlb,prop,Taylor Walls,batter walks,UNDER,0.5,sleeper,1.33,0.078,loss,0.135
+2026-07-08,mlb,prop,Max Schuemann,batter walks,UNDER,0.5,sleeper,1.22,0.078,win,0.213
+2026-07-08,mlb,prop,CJ Abrams,runs,UNDER,0.5,sleeper,1.69,0.078,loss,0.128
+2026-07-08,mlb,prop,Ryan O'Hearn,batter walks,UNDER,0.5,sleeper,1.42,0.077,win,0.127
+2026-07-08,mlb,prop,Sam Antonacci,singles,UNDER,0.5,sleeper,1.88,0.077,loss,0.070
+2026-07-08,mlb,prop,Miguel Vargas,runs,UNDER,0.5,sleeper,1.78,0.076,win,0.105
+2026-07-08,mlb,prop,Yordan Alvarez,batter walks,UNDER,0.5,sleeper,1.62,0.076,win,0.113
+2026-07-08,mlb,prop,Colton Cowser,rbis,UNDER,0.5,sleeper,1.32,0.076,win,0.139
+2026-07-08,mlb,prop,Alec Burleson,runs,UNDER,0.5,sleeper,1.68,0.076,loss,0.009
+2026-07-08,mlb,prop,Bryce Harper,rbis,UNDER,0.5,espnbet,1.5,0.097,win,0.111
+2026-07-08,mlb,prop,Salvador Perez,hits,UNDER,0.5,sleeper,2.15,0.075,loss,0.093
+2026-07-08,mlb,prop,Masataka Yoshida,runs,UNDER,0.5,espnbet,1.526315789473684,0.096,loss,0.242
+2026-07-08,mlb,prop,Yandy Díaz,batter walks,UNDER,0.5,sleeper,1.28,0.075,win,0.129
+2026-07-08,mlb,prop,Anthony Volpe,rbis,UNDER,0.5,espnbet,1.2857142857142856,0.096,win,0.158
+2026-07-08,mlb,prop,Alex Bregman,rbis,UNDER,0.5,sleeper,1.32,0.074,loss,0.137
+2026-07-08,mlb,prop,Xavier Edwards,runs,UNDER,0.5,sleeper,1.49,0.074,win,0.083
+2026-07-08,mlb,prop,Bryson Stott,runs,UNDER,0.5,sleeper,1.46,0.074,win,0.125
+2026-07-08,mlb,prop,Jeffrey Springs,pitcher strikeouts,UNDER,4.5,espnbet,2.3,0.095,win,-0.038
+2026-07-08,mlb,prop,Randal Grichuk,hits,UNDER,0.5,sleeper,2.23,0.072,win,0.110
+2026-07-08,mlb,prop,Trevor Larnach,runs,UNDER,0.5,espnbet,1.7142857142857144,0.093,win,-0.231
+2026-07-08,mlb,prop,Masataka Yoshida,hits+runs+rbis,UNDER,1.5,sleeper,1.68,0.071,loss,0.147
+2026-07-08,mlb,prop,J.P. Crawford,total bases,UNDER,1.5,sleeper,1.51,0.071,win,0.301
+2026-07-08,mlb,prop,Carlos Cortes,rbis,UNDER,0.5,sleeper,1.25,0.071,win,0.131
+2026-07-08,mlb,prop,Jahmai Jones,runs,UNDER,0.5,sleeper,1.43,0.071,win,0.102
+2026-07-08,mlb,prop,Rhys Hoskins,total bases,UNDER,0.5,sleeper,1.97,0.070,loss,0.043
+2026-07-08,mlb,prop,Jorge Mateo,runs,UNDER,0.5,sleeper,1.34,0.070,win,0.117
+2026-07-08,mlb,prop,Chandler Simpson,runs,UNDER,0.5,sleeper,1.33,0.070,win,0.154
+2026-07-08,mlb,prop,Mauricio Dubón,rbis,UNDER,0.5,sleeper,1.31,0.069,win,0.316
+2026-07-08,mlb,prop,Jorbit Vivas,batter walks,UNDER,0.5,sleeper,1.34,0.069,loss,0.105
+2026-07-08,mlb,prop,José Tena,runs,UNDER,0.5,sleeper,1.45,0.068,win,0.131
+2026-07-08,mlb,prop,Alex Bregman,batter walks,UNDER,0.5,sleeper,1.32,0.067,win,0.308
+2026-07-08,mlb,prop,Bryce Harper,singles,UNDER,0.5,sleeper,1.55,0.066,win,0.113
+2026-07-08,mlb,prop,Blaze Alexander,rbis,UNDER,0.5,sleeper,1.31,0.066,win,0.124
+2026-07-08,mlb,prop,Jared Young,total bases,UNDER,0.5,sleeper,2.13,0.065,win,0.092
+2026-07-08,mlb,prop,Coby Mayo,total bases,UNDER,1.5,sleeper,1.52,0.065,loss,0.000
+2026-07-08,mlb,prop,Ivan Herrera,runs,UNDER,0.5,espnbet,1.7142857142857144,0.086,win,0.117
+2026-07-08,mlb,prop,Willson Contreras,runs,UNDER,0.5,espnbet,1.7142857142857144,0.086,win,0.158
+2026-07-08,mlb,prop,Jackson Holliday,batter walks,UNDER,0.5,sleeper,1.32,0.064,win,0.149
+2026-07-08,mlb,prop,Luis García,rbis,UNDER,0.5,sleeper,1.42,0.064,loss,0.143
+2026-07-08,mlb,prop,Edwin Arroyo,total bases,UNDER,0.5,sleeper,2.16,0.064,loss,-0.007
+2026-07-08,mlb,prop,Kyle Schwarber,rbis,UNDER,0.5,sleeper,1.49,0.063,loss,0.156
+2026-07-08,mlb,prop,Juan Soto,batter walks,UNDER,0.5,sleeper,2.2,0.063,loss,0.122
+2026-07-08,mlb,prop,Jac Caglianone,rbis,UNDER,0.5,sleeper,1.38,0.062,win,0.123
+2026-07-08,mlb,prop,Riley Greene,batter walks,UNDER,0.5,sleeper,1.47,0.062,loss,0.124
+2026-07-08,mlb,prop,J.T. Realmuto,total bases,UNDER,0.5,sleeper,2.09,0.060,loss,0.111
+2026-07-08,mlb,prop,Jared Young,hits,UNDER,0.5,sleeper,2.1,0.060,win,-0.310
+2026-07-08,mlb,prop,Dylan Crews,rbis,OVER,0.5,espnbet,4.4,0.081,loss,-0.122
+2026-07-08,mlb,prop,Yordan Alvarez,rbis,UNDER,0.5,sleeper,1.53,0.059,win,0.109
+2026-07-08,mlb,prop,Henry Davis,rbis,UNDER,0.5,sleeper,1.25,0.059,win,0.116
+2026-07-08,mlb,prop,Brandon Lowe,home runs,UNDER,0.5,sleeper,1.15,0.059,win,0.129
+2026-07-08,mlb,prop,Liam Hicks,rbis,UNDER,0.5,sleeper,1.24,0.058,win,0.265
+2026-07-08,mlb,prop,Max Schuemann,rbis,UNDER,0.5,sleeper,1.18,0.057,win,0.151
+2026-07-08,mlb,prop,Henry Bolte,rbis,UNDER,0.5,sleeper,1.27,0.057,win,0.100
+2026-07-08,mlb,prop,Edmundo Sosa,singles,UNDER,0.5,sleeper,1.63,0.056,loss,0.096
+2026-07-08,mlb,prop,Dylan Crews,rbis,UNDER,0.5,sleeper,1.4,0.056,win,0.122
+2026-07-08,mlb,prop,José Tena,singles,UNDER,0.5,sleeper,1.45,0.056,win,0.159
+2026-07-08,mlb,prop,Isaac Paredes,rbis,UNDER,0.5,sleeper,1.39,0.056,win,0.080
+2026-07-08,mlb,prop,Lawrence Butler,batter walks,UNDER,0.5,sleeper,1.36,0.056,win,0.161
+2026-07-08,mlb,prop,Colt Emerson,batter walks,UNDER,0.5,sleeper,1.3,0.056,win,0.092
+2026-07-08,mlb,prop,Cam Smith,batter walks,UNDER,0.5,sleeper,1.34,0.055,win,0.106
+2026-07-08,mlb,prop,Colton Cowser,batter walks,UNDER,0.5,sleeper,1.32,0.055,win,0.155
+2026-07-08,mlb,prop,Lane Thomas,rbis,UNDER,0.5,espnbet,1.3846153846153846,0.076,win,0.078
+2026-07-08,mlb,prop,Chandler Simpson,rbis,UNDER,0.5,sleeper,1.21,0.054,win,0.154
+2026-07-08,mlb,prop,Kevin McGonigle,rbis,UNDER,0.5,sleeper,1.34,0.054,win,0.128
+2026-07-08,mlb,prop,Chase DeLauter,runs,UNDER,0.5,espnbet,1.6666666666666665,0.076,loss,-0.253
+2026-07-08,mlb,prop,Caleb Durbin,runs,UNDER,0.5,espnbet,1.5,0.075,loss,0.241
+2026-07-08,mlb,prop,Brayan Rocchio,singles,UNDER,0.5,sleeper,1.8,0.053,win,0.145
+2026-07-08,mlb,prop,Luke Raley,batter walks,UNDER,0.5,sleeper,1.32,0.053,win,0.078
+2026-07-08,mlb,prop,Jake Mangum,rbis,UNDER,0.5,sleeper,1.26,0.052,win,0.335
+2026-07-08,mlb,prop,Cam Smith,rbis,UNDER,0.5,sleeper,1.34,0.052,win,0.106
+2026-07-08,mlb,prop,Cole Young,batter walks,UNDER,0.5,sleeper,1.3,0.051,win,0.075
+2026-07-08,mlb,prop,José Tena,batter walks,UNDER,0.5,sleeper,1.32,0.051,win,0.171
+2026-07-08,mlb,prop,Ivan Herrera,rbis,OVER,0.5,espnbet,4.0,0.072,loss,-0.036
+2026-07-08,mlb,prop,J.T. Realmuto,hits,UNDER,0.5,sleeper,2.06,0.050,loss,0.125
+2026-07-08,mlb,prop,Matt Olson,home runs,UNDER,0.5,sleeper,1.18,0.050,win,0.095
+2026-07-08,mlb,prop,Austin Wells,rbis,UNDER,0.5,sleeper,1.17,0.050,win,0.138
+2026-07-08,mlb,prop,Austin Wells,batter walks,UNDER,0.5,sleeper,1.17,0.049,win,0.154
+2026-07-08,mlb,prop,Jac Caglianone,batter walks,UNDER,0.5,sleeper,1.32,0.048,win,0.079
+2026-07-08,mlb,prop,Carter Jensen,batter walks,UNDER,0.5,sleeper,1.39,0.048,loss,0.130
+2026-07-08,mlb,prop,Isaac Paredes,batter walks,UNDER,0.5,sleeper,1.39,0.048,win,0.115
+2026-07-08,mlb,prop,Jahmai Jones,rbis,UNDER,0.5,sleeper,1.25,0.048,win,0.114
+2026-07-08,mlb,prop,Ceddanne Rafaela,runs,UNDER,0.5,espnbet,1.6666666666666665,0.069,win,0.058
+2026-07-08,mlb,prop,Eugenio Suárez,hits,UNDER,0.5,sleeper,2.2,0.048,win,-0.024
+2026-07-08,mlb,prop,Marcell Ozuna,rbis,UNDER,0.5,sleeper,1.32,0.047,win,0.088
+2026-07-08,mlb,prop,Anthony Volpe,hits+runs+rbis,UNDER,1.5,sleeper,1.51,0.047,win,0.158
+2026-07-08,mlb,prop,Chase DeLauter,rbis,OVER,0.5,espnbet,3.6,0.068,win,0.165
+2026-07-08,mlb,prop,Wilyer Abreu,rbis,UNDER,0.5,espnbet,1.526315789473684,0.068,win,0.046
+2026-07-08,mlb,prop,Willson Contreras,rbis,UNDER,0.5,espnbet,1.526315789473684,0.068,win,0.042
+2026-07-08,mlb,prop,Dansby Swanson,rbis,UNDER,0.5,sleeper,1.3,0.046,win,0.141
+2026-07-08,mlb,prop,Wilyer Abreu,runs,UNDER,0.5,espnbet,1.7142857142857144,0.067,win,0.146
+2026-07-08,mlb,prop,Josh Bell,runs,UNDER,0.5,espnbet,1.7142857142857144,0.067,loss,-0.262
+2026-07-08,mlb,prop,Nick Kurtz,runs,OVER,0.5,sleeper,1.97,0.045,loss,0.031
+2026-07-08,mlb,prop,J.P. Crawford,rbis,UNDER,0.5,sleeper,1.23,0.045,win,0.124
+2026-07-08,mlb,prop,Rhys Hoskins,runs,UNDER,0.5,espnbet,1.625,0.067,loss,-0.229
+2026-07-08,mlb,prop,Christian Yelich,runs,UNDER,0.5,espnbet,1.8333333333333335,0.066,win,0.082
+2026-07-08,mlb,prop,Jackson Chourio,runs,UNDER,0.5,espnbet,1.8333333333333335,0.066,win,0.060
+2026-07-08,mlb,prop,Bryson Stott,rbis,OVER,0.5,espnbet,5.0,0.066,win,-0.110
+2026-07-08,mlb,prop,Alec Bohm,rbis,UNDER,0.5,espnbet,1.4,0.066,win,0.101
+2026-07-08,mlb,prop,Ian Happ,total bases,OVER,1.5,espnbet,2.6,0.066,loss,-0.090
+2026-07-08,mlb,prop,Brett Baty,singles,UNDER,0.5,sleeper,1.6,0.043,loss,0.104
+2026-07-08,mlb,h2h,ATL,h2h,AWAY,0.0,draftkings,2.27,0.190,win,-0.033
+2026-07-08,mlb,prop,Cole Young,rbis,UNDER,0.5,sleeper,1.31,0.042,win,0.129
+2026-07-08,mlb,prop,Nicky Lopez,batter walks,OVER,0.5,sleeper,3.47,0.042,loss,0.034
+2026-07-08,mlb,prop,Christian Walker,batter walks,UNDER,0.5,sleeper,1.33,0.041,win,0.091
+2026-07-08,mlb,prop,Sam Antonacci,hits,UNDER,0.5,sleeper,2.26,0.041,loss,0.079
+2026-07-08,mlb,prop,Brooks Lee,runs,UNDER,0.5,espnbet,1.6666666666666665,0.063,loss,-0.254
+2026-07-08,mlb,prop,Ivan Herrera,hits,UNDER,0.5,sleeper,2.29,0.041,win,0.122
+2026-07-08,mlb,prop,Cody Bellinger,batter walks,UNDER,0.5,sleeper,1.23,0.040,win,0.112
+2026-07-08,mlb,prop,Juan Soto,runs,UNDER,0.5,sleeper,2.07,0.040,win,-0.326
+2026-07-08,mlb,prop,Anthony Volpe,rbis,UNDER,0.5,sleeper,1.22,0.040,win,0.158
+2026-07-08,mlb,prop,Jackson Chourio,singles,UNDER,0.5,sleeper,2.09,0.040,win,0.066
+2026-07-08,mlb,prop,Alejandro Osuna,batter walks,OVER,0.5,sleeper,3.13,0.040,win,0.014
+2026-07-08,mlb,prop,Jake Mangum,batter walks,UNDER,0.5,sleeper,1.18,0.040,win,0.122
+2026-07-08,mlb,prop,Kyle Stowers,batter walks,UNDER,0.5,sleeper,1.31,0.039,win,0.078
+2026-07-08,mlb,prop,Nick Loftin,singles,UNDER,0.5,sleeper,1.58,0.039,win,0.074
+2026-07-08,mlb,prop,Lawrence Butler,rbis,UNDER,0.5,sleeper,1.28,0.039,win,0.126
+2026-07-08,mlb,prop,Javier Sanoja,rbis,UNDER,0.5,sleeper,1.23,0.039,win,0.123
+2026-07-08,mlb,prop,Travis Bazzana,runs,UNDER,0.5,espnbet,1.5555555555555556,0.060,win,-0.196
+2026-07-08,mlb,prop,Tyler Tolbert,singles,UNDER,0.5,sleeper,1.54,0.038,win,0.086
+2026-07-08,mlb,prop,Miguel Vargas,rbis,OVER,0.5,espnbet,3.2,0.060,loss,-0.025
+2026-07-08,mlb,prop,Randal Grichuk,singles,UNDER,0.5,sleeper,1.59,0.038,win,0.105
+2026-07-08,mlb,prop,Kyle Schwarber,home runs,UNDER,0.5,sleeper,1.31,0.038,loss,0.142
+2026-07-08,mlb,prop,Brandon Marsh,rbis,UNDER,0.5,espnbet,1.4,0.058,win,0.103
+2026-07-08,mlb,prop,Kody Clemens,runs,UNDER,0.5,espnbet,1.7142857142857144,0.057,loss,-0.252
+2026-07-08,mlb,prop,José Caballero,rbis,UNDER,0.5,sleeper,1.16,0.036,win,0.169
+2026-07-08,mlb,prop,Joe Mack,rbis,UNDER,0.5,sleeper,1.22,0.036,win,0.119
+2026-07-08,mlb,prop,Gunnar Henderson,total bases,UNDER,1.5,sleeper,1.75,0.036,win,0.075
+2026-07-08,mlb,prop,Keibert Ruiz,rbis,UNDER,0.5,sleeper,1.31,0.035,loss,0.290
+2026-07-08,mlb,prop,Bobby Witt,rbis,UNDER,0.5,sleeper,1.41,0.035,win,0.081
+2026-07-08,mlb,prop,Zach McKinstry,rbis,UNDER,0.5,sleeper,1.23,0.035,win,0.132
+2026-07-08,mlb,prop,Bryson Stott,batter walks,UNDER,0.5,sleeper,1.32,0.035,loss,0.114
+2026-07-08,mlb,prop,Spencer Steer,runs,UNDER,0.5,espnbet,1.6666666666666665,0.056,loss,0.074
+2026-07-08,mlb,prop,William Contreras,runs,UNDER,0.5,espnbet,1.6666666666666665,0.056,win,0.050
+2026-07-08,mlb,prop,Garrett Mitchell,runs,UNDER,0.5,espnbet,1.6666666666666665,0.056,loss,0.067
+2026-07-08,mlb,prop,Brayan Rocchio,hits+runs+rbis,UNDER,1.5,sleeper,1.71,0.034,loss,0.115
+2026-07-08,mlb,prop,Henry Davis,hits+runs+rbis,OVER,0.5,espnbet,3.6,0.056,loss,-0.207
+2026-07-08,mlb,prop,Josh Bell,rbis,UNDER,0.5,espnbet,1.5,0.055,win,-0.135
+2026-07-08,mlb,prop,Trevor Larnach,runs,UNDER,0.5,sleeper,1.62,0.033,win,-0.231
+2026-07-08,mlb,prop,Yordan Alvarez,home runs,UNDER,0.5,sleeper,1.25,0.033,win,0.088
+2026-07-08,mlb,prop,Ceddanne Rafaela,singles,UNDER,0.5,sleeper,1.84,0.033,loss,0.061
+2026-07-08,mlb,prop,Masataka Yoshida,rbis,UNDER,0.5,espnbet,1.3846153846153846,0.054,win,0.056
+2026-07-08,mlb,prop,Ben Williamson,rbis,UNDER,0.5,sleeper,1.22,0.033,win,-0.066
+2026-07-08,mlb,prop,TJ Friedl,singles,UNDER,0.5,sleeper,1.47,0.032,win,0.133
+2026-07-08,mlb,prop,Wilyer Abreu,singles,UNDER,0.5,sleeper,1.69,0.032,win,0.111
+2026-07-08,mlb,prop,Michael Harris,doubles,UNDER,0.5,sleeper,1.17,0.032,loss,0.107
+2026-07-08,mlb,prop,Jared Triolo,rbis,UNDER,0.5,sleeper,1.23,0.032,win,0.339
+2026-07-08,mlb,prop,Randal Grichuk,runs,UNDER,0.5,sleeper,1.55,0.032,win,0.122
+2026-07-08,mlb,prop,TJ Friedl,runs,UNDER,0.5,sleeper,1.4,0.032,loss,0.106
+2026-07-08,mlb,prop,Nico Hoerner,rbis,UNDER,0.5,sleeper,1.27,0.031,win,0.131
+2026-07-08,mlb,h2h,ARI,h2h,AWAY,0.0,espnbet,2.2,0.162,void,-0.063
+2026-07-08,mlb,prop,Bobby Witt,batter walks,UNDER,0.5,sleeper,1.32,0.031,win,0.066
+2026-07-08,mlb,prop,Kyle Schwarber,total bases,UNDER,1.5,sleeper,1.86,0.031,loss,-0.025
+2026-07-08,mlb,prop,James Wood,home runs,UNDER,0.5,sleeper,1.2,0.031,win,0.126
+2026-07-08,mlb,prop,Edwin Arroyo,singles,UNDER,0.5,sleeper,1.64,0.030,win,0.116
+2026-07-08,mlb,prop,Rhys Hoskins,batter walks,UNDER,0.5,sleeper,1.67,0.030,loss,0.089
+2026-07-08,mlb,prop,Michael Harris,batter walks,UNDER,0.5,sleeper,1.22,0.030,win,0.102
+2026-07-08,mlb,prop,Miguel Vargas,hits+runs+rbis,UNDER,2.5,sleeper,1.58,0.029,win,0.215
+2026-07-08,mlb,prop,Colson Montgomery,runs,UNDER,0.5,espnbet,1.625,0.051,win,0.110
+2026-07-08,mlb,prop,Nick Gonzales,rbis,UNDER,0.5,sleeper,1.32,0.028,win,0.279
+2026-07-08,mlb,prop,Nick Fortes,rbis,UNDER,0.5,sleeper,1.2,0.028,win,0.410
+2026-07-08,mlb,prop,Colt Emerson,rbis,UNDER,0.5,sleeper,1.24,0.028,win,0.126
+2026-07-08,mlb,prop,Nick Allen,singles,UNDER,0.5,sleeper,1.58,0.028,loss,0.099
+2026-07-08,mlb,prop,Roki Sasaki,pitcher strikeouts,UNDER,5.5,sleeper,1.9,0.028,win,-0.086
+2026-07-08,mlb,prop,Jakob Marsee,batter walks,UNDER,0.5,sleeper,1.25,0.026,win,0.087
+2026-07-08,mlb,prop,Brandon Nimmo,batter walks,OVER,0.5,sleeper,2.34,0.026,win,0.020
+2026-07-08,mlb,prop,Dylan Crews,batter walks,UNDER,0.5,sleeper,1.29,0.026,loss,0.080
+2026-07-08,mlb,h2h,BAL,h2h,HOME,0.0,fanduel,2.3600000000000003,0.149,loss,-0.007
+2026-07-08,mlb,prop,Tyler Phillips,hits allowed,OVER,5.5,sleeper,2.05,0.025,loss,-0.082
+2026-07-08,mlb,prop,Brett Baty,runs,UNDER,0.5,sleeper,1.54,0.025,loss,-0.247
+2026-07-08,mlb,prop,Victor Robles,rbis,UNDER,0.5,sleeper,1.23,0.025,win,0.131
+2026-07-08,mlb,prop,William Contreras,singles,UNDER,0.5,sleeper,2.08,0.025,win,0.083
+2026-07-08,mlb,prop,Jordan Walker,singles,UNDER,0.5,sleeper,1.69,0.025,loss,0.106
+2026-07-08,mlb,prop,David Fry,runs,UNDER,0.5,sleeper,1.51,0.024,win,-0.174
+2026-07-08,mlb,prop,Willson Contreras,singles,UNDER,0.5,sleeper,1.63,0.024,win,0.079
+2026-07-08,mlb,prop,Brayan Rocchio,runs,UNDER,0.5,espnbet,1.5555555555555556,0.046,loss,-0.231
+2026-07-08,mlb,prop,Christian Yelich,runs,UNDER,0.5,sleeper,1.76,0.024,win,0.082
+2026-07-08,mlb,prop,Daylen Lile,batter walks,UNDER,0.5,sleeper,1.28,0.023,win,0.080
+2026-07-08,mlb,prop,Carson Benge,rbis,UNDER,0.5,espnbet,1.526315789473684,0.045,win,-0.162
+2026-07-08,mlb,h2h,LAA,h2h,AWAY,0.0,betmgm,2.25,0.142,win,-0.055
+2026-07-08,mlb,prop,Jakob Marsee,rbis,UNDER,0.5,sleeper,1.22,0.023,win,0.117
+2026-07-08,mlb,prop,Pete Alonso,batter walks,UNDER,0.5,sleeper,1.38,0.022,win,0.066
+2026-07-08,mlb,prop,Kody Clemens,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.044,loss,-0.147
+2026-07-08,mlb,prop,Rhys Hoskins,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.044,loss,-0.092
+2026-07-08,mlb,h2h,KC,h2h,AWAY,0.0,fanduel,2.2800000000000002,0.140,loss,-0.003
+2026-07-08,mlb,prop,Austin Riley,batter walks,UNDER,0.5,sleeper,1.26,0.022,win,0.091
+2026-07-08,mlb,prop,Lane Thomas,total bases,UNDER,0.5,sleeper,1.96,0.022,loss,0.022
+2026-07-08,mlb,prop,David Fry,singles,UNDER,0.5,sleeper,1.52,0.022,win,0.103
+2026-07-08,mlb,total,MIL@STL,total,UNDER,3.5,betmgm,2.15,0.138,loss,0.031
+2026-07-08,mlb,prop,Nick Gonzales,batter walks,UNDER,0.5,sleeper,1.25,0.021,loss,0.106
+2026-07-08,mlb,total,CHC@BAL,total,UNDER,5.5,betmgm,2.25,0.136,loss,0.225
+2026-07-08,mlb,prop,Spencer Steer,runs,UNDER,0.5,sleeper,1.61,0.020,loss,0.074
+2026-07-08,mlb,prop,Willson Contreras,runs,UNDER,0.5,sleeper,1.61,0.020,win,0.158
+2026-07-08,mlb,total,BOS@CWS,total,UNDER,3.5,draftkings,2.0,0.134,loss,0.472
+2026-07-08,mlb,prop,Michael Massey,singles,UNDER,0.5,sleeper,1.54,0.020,loss,0.079
+2026-07-08,mlb,prop,Colson Montgomery,rbis,UNDER,0.5,espnbet,1.5,0.041,win,0.070
+2026-07-08,mlb,prop,Garrett Mitchell,rbis,UNDER,0.5,espnbet,1.4545454545454546,0.041,win,0.046
+2026-07-08,mlb,prop,Geraldo Perdomo,hits+runs+rbis,OVER,1.5,sleeper,2.0,0.020,loss,0.010
+2026-07-08,mlb,prop,Mauricio Dubón,batter walks,UNDER,0.5,sleeper,1.17,0.018,win,0.118
+2026-07-08,mlb,prop,Bobby Witt,home runs,UNDER,0.5,sleeper,1.17,0.018,win,0.046
+2026-07-08,mlb,prop,Trevor Larnach,singles,UNDER,0.5,sleeper,1.74,0.018,win,0.107
+2026-07-08,mlb,prop,Colson Montgomery,hits+runs+rbis,UNDER,1.5,sleeper,1.73,0.018,win,0.088
+2026-07-08,mlb,prop,Travis Bazzana,rbis,UNDER,0.5,espnbet,1.4,0.039,win,-0.143
+2026-07-08,mlb,prop,David Fry,hits+runs+rbis,UNDER,1.5,sleeper,1.56,0.016,win,0.152
+2026-07-08,mlb,prop,Jared Young,runs,UNDER,0.5,sleeper,1.55,0.016,loss,-0.257
+2026-07-08,mlb,prop,Spencer Steer,singles,UNDER,0.5,sleeper,1.62,0.016,loss,0.092
+2026-07-08,mlb,prop,Miguel Vargas,singles,UNDER,0.5,sleeper,1.65,0.015,win,0.081
+2026-07-08,mlb,prop,Wilyer Abreu,runs,UNDER,0.5,sleeper,1.63,0.015,win,0.146
+2026-07-08,mlb,prop,Bryson Stott,rbis,UNDER,0.5,sleeper,1.29,0.015,loss,0.110
+2026-07-08,mlb,prop,Carson Benge,singles,UNDER,0.5,sleeper,1.82,0.015,loss,0.090
+2026-07-08,mlb,prop,Willson Contreras,rbis,UNDER,0.5,sleeper,1.45,0.015,win,0.042
+2026-07-08,mlb,prop,Spencer Torkelson,batter walks,OVER,0.5,sleeper,2.15,0.014,win,0.023
+2026-07-08,mlb,prop,Brooks Lee,runs,UNDER,0.5,sleeper,1.59,0.014,loss,-0.254
+2026-07-08,mlb,prop,Ivan Herrera,runs,UNDER,0.5,sleeper,1.6,0.014,win,0.117
+2026-07-08,mlb,prop,A.J. Ewing,batter walks,UNDER,0.5,sleeper,1.46,0.014,win,0.079
+2026-07-08,mlb,prop,Zack Gelof,batter walks,UNDER,0.5,sleeper,1.21,0.014,win,0.118
+2026-07-08,mlb,prop,Trevor Larnach,total bases,UNDER,0.5,sleeper,2.26,0.013,win,-0.052
+2026-07-08,mlb,prop,Kody Clemens,singles,UNDER,0.5,sleeper,1.62,0.013,loss,0.113
+2026-07-08,mlb,prop,Jake Bauers,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.034,win,0.013
+2026-07-08,mlb,prop,Jackson Chourio,runs,UNDER,0.5,sleeper,1.74,0.012,win,0.060
+2026-07-08,mlb,prop,Kody Clemens,runs,UNDER,0.5,sleeper,1.64,0.012,loss,-0.252
+2026-07-08,mlb,prop,Eugenio Suárez,batter walks,OVER,0.5,sleeper,2.61,0.012,win,0.045
+2026-07-08,mlb,prop,Ceddanne Rafaela,rbis,OVER,0.5,espnbet,3.8,0.033,win,-0.019
+2026-07-08,mlb,prop,Michael Conforto,batter walks,UNDER,0.5,sleeper,1.26,0.011,win,0.279
+2026-07-08,mlb,prop,Carter Jensen,rbis,UNDER,0.5,sleeper,1.32,0.011,loss,0.106
+2026-07-08,mlb,prop,Edwin Arroyo,runs,UNDER,0.5,sleeper,1.41,0.011,loss,0.101
+2026-07-08,mlb,prop,Bobby Witt,hits+runs+rbis,UNDER,2.5,sleeper,1.6,0.010,win,0.174
+2026-07-08,mlb,prop,Travis Bazzana,rbis,OVER,0.5,espnbet,4.0,0.031,loss,0.143
+2026-07-08,mlb,prop,TJ Friedl,batter walks,UNDER,0.5,sleeper,1.3,0.009,loss,0.276
+2026-07-08,mlb,h2h,MIL,h2h,AWAY,0.0,fanduel,2.12,0.107,loss,-0.050
+2026-07-08,mlb,prop,Taylor Ward,hits+runs+rbis,UNDER,1.5,sleeper,2.06,0.009,loss,0.062
+2026-07-08,mlb,prop,Alec Bohm,singles,UNDER,0.5,sleeper,1.85,0.009,loss,0.099
+2026-07-08,mlb,prop,Bryce Harper,rbis,UNDER,0.5,sleeper,1.38,0.009,win,0.111
+2026-07-08,mlb,prop,Ivan Herrera,singles,UNDER,0.5,sleeper,1.7,0.009,win,0.093
+2026-07-08,mlb,h2h,LAA,h2h,AWAY,0.0,caesars,2.4,0.106,win,-0.042
+2026-07-08,mlb,prop,Travis Bazzana,runs,UNDER,0.5,sleeper,1.48,0.009,win,-0.196
+2026-07-08,mlb,prop,Lane Thomas,runs,UNDER,0.5,espnbet,1.5555555555555556,0.030,win,0.035
+2026-07-08,mlb,prop,Jackson Chourio,hits+runs+rbis,UNDER,2.5,sleeper,1.58,0.008,win,0.049
+2026-07-08,mlb,prop,Carlos Narváez,hits+runs+rbis,UNDER,1.5,sleeper,1.58,0.008,loss,0.138
+2026-07-08,mlb,prop,Ceddanne Rafaela,runs,UNDER,0.5,sleeper,1.57,0.007,win,0.058
+2026-07-08,mlb,prop,Chase DeLauter,runs,UNDER,0.5,sleeper,1.56,0.007,loss,-0.253
+2026-07-08,mlb,prop,Joe Mack,batter walks,UNDER,0.5,sleeper,1.19,0.007,win,0.087
+2026-07-08,mlb,prop,Salvador Perez,singles,UNDER,0.5,sleeper,1.55,0.006,loss,0.066
+2026-07-08,mlb,prop,Pavin Smith,batter walks,UNDER,0.5,sleeper,1.55,0.006,win,0.034
+2026-07-08,mlb,total,ATL@PIT,total,OVER,1.5,draftkings,2.1,0.099,win,-0.004
+2026-07-08,mlb,prop,Masataka Yoshida,runs,UNDER,0.5,sleeper,1.4,0.006,loss,0.242
+2026-07-08,mlb,prop,Dansby Swanson,batter walks,UNDER,0.5,sleeper,1.26,0.005,win,0.087
+2026-07-08,mlb,prop,Seiya Suzuki,batter walks,UNDER,0.5,sleeper,1.33,0.005,win,0.117
+2026-07-08,mlb,prop,Brandon Marsh,rbis,UNDER,0.5,sleeper,1.33,0.005,win,0.103
+2026-07-08,mlb,prop,Carson Benge,runs,UNDER,0.5,sleeper,1.61,0.005,loss,-0.279
+2026-07-08,mlb,prop,Colson Montgomery,singles,UNDER,0.5,sleeper,1.53,0.004,win,0.070
+2026-07-08,mlb,prop,Kyle Schwarber,singles,UNDER,0.5,sleeper,1.28,0.004,win,0.085
+2026-07-08,mlb,prop,Spencer Steer,runs,OVER,0.5,espnbet,2.8,0.026,win,-0.074
+2026-07-08,mlb,prop,Adley Rutschman,batter walks,UNDER,0.5,sleeper,1.36,0.004,loss,0.094
+2026-07-08,mlb,prop,Michael Harris,hits+runs+rbis,UNDER,2.5,sleeper,1.72,0.004,win,-0.025
+2026-07-08,mlb,prop,Chase DeLauter,total bases,UNDER,1.5,sleeper,1.78,0.003,loss,0.117
+2026-07-08,mlb,prop,William Contreras,rbis,UNDER,0.5,espnbet,1.526315789473684,0.024,win,0.046
+2026-07-08,mlb,prop,Colson Montgomery,runs,UNDER,0.5,sleeper,1.55,0.002,win,0.110
+2026-07-08,mlb,prop,Chase Meidroth,rbis,UNDER,0.5,espnbet,1.3125,0.023,win,0.084
+2026-07-08,mlb,prop,Josh Bell,singles,UNDER,0.5,sleeper,1.64,0.002,loss,0.087
+2026-07-08,mlb,prop,William Contreras,runs,UNDER,0.5,sleeper,1.58,0.001,win,0.050
+2026-07-08,mlb,prop,Jake Bauers,runs,UNDER,0.5,espnbet,1.7692307692307692,0.023,win,0.005
+2026-07-08,mlb,total,NYY@TB,total,OVER,4.5,caesars,2.0,0.087,loss,0.015
+2026-07-08,mlb,prop,Salvador Perez,rbis,UNDER,0.5,sleeper,1.34,0.001,loss,0.059
+2026-07-08,mlb,prop,Dylan Crews,stolen bases,UNDER,0.5,sleeper,1.17,0.001,win,0.102
+2026-07-08,mlb,prop,Jac Caglianone,home runs,UNDER,0.5,sleeper,1.15,0.000,win,0.061
+2026-07-08,mlb,prop,Bryce Harper,rbis,OVER,0.5,espnbet,3.8,0.022,loss,-0.111
+2026-07-08,mlb,prop,Caleb Durbin,rbis,UNDER,0.5,espnbet,1.3333333333333333,0.021,win,0.048
+2026-07-08,mlb,total,NYY@TB,total,UNDER,7.5,draftkings,2.0,0.083,win,-0.043
+2026-07-08,mlb,total,OAK@DET,total,OVER,7.5,caesars,2.25,0.082,void,-0.033
+2026-07-08,mlb,h2h,MIN,h2h,HOME,0.0,caesars,2.25,0.082,win,-0.013
+2026-07-08,mlb,total,CLE@MIN,total,UNDER,8.5,fanduel,1.9803921568627452,0.078,loss,-0.020
+2026-07-08,mlb,h2h,ARI,h2h,AWAY,0.0,caesars,2.3,0.077,void,-0.063
+2026-07-08,mlb,total,KC@NYM,total,UNDER,4.5,betmgm,1.9803921568627452,0.072,loss,0.034
+2026-07-08,mlb,h2h,ARI,h2h,AWAY,0.0,fanduel,2.08,0.071,void,-0.033
+2026-07-08,mlb,h2h,MIN,h2h,HOME,0.0,fanduel,2.1399999999999997,0.070,win,0.000
+2026-07-08,mlb,prop,Austin Riley,rbis,OVER,0.5,draftkings,7.0,0.186,loss,-0.331
+2026-07-08,mlb,total,BOS@CWS,total,UNDER,3.5,betmgm,2.0,0.070,loss,0.180
+2026-07-08,mlb,total,CHC@BAL,total,OVER,5.5,fanduel,2.16,0.069,win,-0.225
+2026-07-08,mlb,total,OAK@DET,total,UNDER,2.5,draftkings,1.8695652173913042,0.069,void,0.014
+2026-07-08,mlb,prop,Lane Thomas,rbis,OVER,0.5,draftkings,5.25,0.169,loss,-0.078
+2026-07-08,mlb,prop,Christian Scott,pitcher strikeouts,UNDER,5.5,fanduel,2.06,0.160,win,0.063
+2026-07-08,mlb,total,ATL@PIT,total,UNDER,3.5,caesars,2.05,0.060,win,0.024
+2026-07-08,mlb,h2h,CLE,h2h,AWAY,0.0,fanduel,2.04,0.059,loss,0.013
+2026-07-08,mlb,total,ATL@PIT,total,UNDER,4.5,betmgm,1.847457627118644,0.058,win,0.006
+2026-07-08,mlb,prop,Cody Bellinger,rbis,OVER,0.5,draftkings,8.0,0.153,loss,-0.198
+2026-07-08,mlb,total,CLE@MIN,total,UNDER,3.5,draftkings,1.9090909090909092,0.057,loss,0.339
+2026-07-08,mlb,h2h,TOR,h2h,AWAY,0.0,fanduel,1.8620689655172413,0.056,win,0.000
+2026-07-08,mlb,h2h,CLE,h2h,AWAY,0.0,betmgm,2.15,0.052,loss,-0.027
+2026-07-08,mlb,total,ATL@PIT,total,UNDER,13.5,betmgm,2.05,0.045,win,0.000
+2026-07-08,mlb,h2h,BOS,h2h,AWAY,0.0,betmgm,2.0,0.045,win,0.035
+2026-07-08,mlb,h2h,OAK,h2h,AWAY,0.0,betmgm,2.35,0.044,void,0.010
+2026-07-08,mlb,h2h,STL,h2h,HOME,0.0,fanduel,2.2,0.042,win,-0.018
+2026-07-08,mlb,h2h,MIL,h2h,AWAY,0.0,betmgm,2.5,0.042,loss,0.018
+2026-07-08,mlb,h2h,SEA,h2h,AWAY,0.0,fanduel,5.0,0.042,loss,-0.113
+2026-07-08,mlb,total,BOS@CWS,total,OVER,7.5,draftkings,2.04,0.040,loss,-0.024
+2026-07-08,mlb,total,MIL@STL,total,UNDER,4.5,caesars,1.8333333333333335,0.040,loss,0.074
+2026-07-08,mlb,prop,Vaughn Grissom,rbis,OVER,0.5,draftkings,3.64,0.090,win,0.033
+2026-07-08,mlb,total,HOU@WSH,total,OVER,11.5,betmgm,2.1,0.029,loss,-0.031
+2026-07-08,mlb,total,SEA@MIA,total,UNDER,1.5,caesars,2.0,0.029,loss,0.005
+2026-07-08,mlb,prop,Yordan Alvarez,rbis,OVER,0.5,betmgm,3.5,0.077,loss,-0.109
+2026-07-08,mlb,prop,Trevor Larnach,rbis,OVER,0.5,draftkings,3.8,0.073,loss,0.160
+2026-07-08,mlb,h2h,PHI,h2h,AWAY,0.0,caesars,2.25,0.027,loss,-0.018
+2026-07-08,mlb,total,MIL@STL,total,OVER,3.5,fanduel,2.1799999999999997,0.027,win,-0.031
+2026-07-08,mlb,prop,Josh Naylor,rbis,OVER,0.5,draftkings,5.75,0.069,loss,-0.189
+2026-07-08,mlb,prop,Matt Olson,runs,OVER,0.5,draftkings,3.75,0.065,loss,-0.206
+2026-07-08,mlb,total,ATL@PIT,total,OVER,3.5,fanduel,2.12,0.024,loss,-0.024
+2026-07-08,mlb,total,OAK@DET,total,UNDER,4.5,fanduel,1.925925925925926,0.022,void,0.002
+2026-07-08,mlb,h2h,ATL,h2h,AWAY,0.0,caesars,1.8695652173913042,0.022,win,0.000
+2026-07-08,mlb,prop,Chase Meidroth,rbis,OVER,0.5,draftkings,4.8,0.057,loss,-0.084
+2026-07-08,mlb,h2h,NYY,h2h,AWAY,0.0,betmgm,2.05,0.020,loss,0.000
+2026-07-08,mlb,prop,Caleb Durbin,rbis,OVER,0.5,draftkings,4.5,0.054,loss,-0.048
+2026-07-08,mlb,prop,Austin Riley,runs,OVER,0.5,draftkings,5.5,0.054,loss,-0.176
+2026-07-08,mlb,prop,Bobby Witt,runs,OVER,0.5,draftkings,3.4,0.053,loss,-0.190
+2026-07-08,mlb,prop,Sung-Mun Song,rbis,OVER,0.5,draftkings,3.9,0.051,win,-0.002
+2026-07-08,mlb,prop,Troy Johnston,rbis,OVER,0.5,draftkings,3.8,0.050,loss,0.184
+2026-07-08,mlb,prop,Ian Happ,runs,OVER,0.5,draftkings,3.45,0.049,loss,-0.172
+2026-07-08,mlb,prop,Randal Grichuk,rbis,OVER,0.5,draftkings,3.4,0.046,loss,-0.014
+2026-07-08,mlb,prop,Yordan Alvarez,runs,OVER,0.5,betmgm,2.85,0.044,loss,-0.139
+2026-07-08,mlb,prop,Samuel Basallo,rbis,OVER,0.5,draftkings,4.2,0.040,loss,-0.154
+2026-07-08,mlb,prop,Seiya Suzuki,runs,OVER,0.5,draftkings,3.15,0.040,win,-0.135
+2026-07-08,mlb,prop,Alex Call,rbis,OVER,0.5,draftkings,3.3,0.038,loss,0.004
+2026-07-08,mlb,prop,Ozzie Albies,runs,OVER,0.5,draftkings,3.7,0.036,loss,-0.181
+2026-07-08,mlb,prop,Brooks Lee,rbis,OVER,0.5,draftkings,3.4,0.033,win,0.181
+2026-07-08,mlb,prop,Anthony Volpe,rbis,OVER,0.5,draftkings,7.0,0.032,loss,-0.158
+2026-07-08,mlb,prop,Jose Siri,rbis,OVER,0.5,draftkings,3.63,0.031,win,0.009
+2026-07-08,mlb,prop,Lane Thomas,runs,OVER,0.5,draftkings,3.05,0.030,loss,-0.035
+2026-07-08,mlb,prop,Christian Scott,pitcher strikeouts,OVER,5.5,draftkings,2.35,0.026,loss,-0.063
+2026-07-08,mlb,prop,Heriberto Hernández,rbis,OVER,0.5,draftkings,5.25,0.023,loss,-0.099
+2026-07-08,mlb,prop,Jose Siri,singles,OVER,0.5,draftkings,3.0,0.020,win,0.017
 2026-07-07,mlb,prop,José Caballero,total bases,UNDER,0.5,sleeper,1.95,0.284,win,0.218
 2026-07-07,mlb,prop,Cedric Mullins,hits,UNDER,0.5,sleeper,2.09,0.379,win,0.173
 2026-07-07,mlb,prop,Max Muncy,batter walks,OVER,0.5,sleeper,3.5,0.296,win,0.040
@@ -4293,709 +4999,3 @@ game_date,sport,market_type,pick,stat_type,side,line,bet_book,offered_mult,ev,re
 2026-06-25,mlb,prop,Nico Hoerner,runs,UNDER,0.5,espnbet,1.5,0.171,win,0.137
 2026-06-25,mlb,prop,Caleb Durbin,rbis,OVER,0.5,espnbet,5.0,0.157,win,-0.028
 2026-06-25,mlb,prop,Anthony Volpe,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.115,win,0.141
-2026-06-25,mlb,prop,A.J. Ewing,rbis,UNDER,0.5,espnbet,1.2666666666666666,0.096,win,0.114
-2026-06-25,mlb,prop,Kazuma Okamoto,total bases,OVER,1.5,espnbet,2.7,0.042,win,-0.114
-2026-06-25,mlb,prop,Bryce Harper,total bases,OVER,1.5,espnbet,3.2,0.042,win,-0.216
-2026-06-25,mlb,prop,Ernie Clement,runs,OVER,0.5,espnbet,3.8,0.035,win,-0.251
-2026-06-25,mlb,prop,Yordan Alvarez,hits,UNDER,0.5,sleeper,2.63,0.915,win,0.228
-2026-06-25,mlb,prop,Keibert Ruiz,hits,UNDER,0.5,sleeper,2.18,0.765,win,0.000
-2026-06-25,mlb,prop,Andrés Chaparro,hits,UNDER,0.5,sleeper,2.07,0.607,win,0.336
-2026-06-25,mlb,prop,Andrés Chaparro,batter walks,UNDER,0.5,sleeper,1.26,0.185,win,0.188
-2026-06-25,mlb,prop,Nico Hoerner,hits+runs+rbis,UNDER,0.5,sleeper,2.19,0.167,win,0.009
-2026-06-25,mlb,prop,Ezequiel Duran,batter walks,UNDER,0.5,sleeper,1.21,0.096,win,0.117
-2026-06-25,mlb,prop,Alejandro Osuna,hits+runs+rbis,UNDER,1.5,sleeper,1.53,0.085,win,0.209
-2026-06-25,mlb,prop,Daylen Lile,batter walks,UNDER,0.5,sleeper,1.16,0.016,win,0.092
-2026-06-25,mlb,prop,Dylan Crews,batter walks,UNDER,0.5,sleeper,1.16,0.014,win,0.081
-2026-06-25,mlb,prop,Brandon Marsh,hits+runs+rbis,OVER,1.5,sleeper,1.78,0.003,win,0.002
-2026-06-25,mlb,prop,Josh Jung,batter walks,UNDER,0.5,sleeper,1.32,0.003,win,-0.022
-2026-06-25,mlb,prop,James Wood,total bases,UNDER,0.5,sleeper,2.36,1.065,win,0.375
-2026-06-25,mlb,prop,James Wood,hits,UNDER,0.5,sleeper,2.3,0.982,win,0.000
-2026-06-25,mlb,prop,Kerry Carpenter,total bases,UNDER,0.5,sleeper,2.25,0.977,win,0.378
-2026-06-25,mlb,prop,Colt Keith,total bases,UNDER,0.5,sleeper,2.16,0.905,win,0.441
-2026-06-25,mlb,prop,Colt Keith,hits,UNDER,0.5,sleeper,2.13,0.869,win,0.437
-2026-06-25,mlb,prop,Bryson Stott,hits,UNDER,0.5,sleeper,2.48,0.844,win,0.244
-2026-06-25,mlb,prop,Isaac Paredes,hits,UNDER,0.5,sleeper,2.3,0.798,win,0.282
-2026-06-25,mlb,prop,Christian Vázquez,hits,UNDER,0.5,sleeper,1.9,0.793,win,0.513
-2026-06-25,mlb,prop,Kerry Carpenter,hits,UNDER,0.5,sleeper,2.21,0.783,win,0.399
-2026-06-25,mlb,prop,Zach McKinstry,hits,UNDER,0.5,sleeper,1.98,0.782,win,0.421
-2026-06-25,mlb,prop,Spencer Torkelson,total bases,UNDER,0.5,sleeper,1.94,0.766,win,0.410
-2026-06-25,mlb,prop,Spencer Torkelson,hits,UNDER,0.5,sleeper,1.94,0.762,win,0.477
-2026-06-25,mlb,prop,Mark Vientos,total bases,UNDER,0.5,sleeper,2.32,0.736,win,0.248
-2026-06-25,mlb,prop,Keibert Ruiz,total bases,UNDER,0.5,sleeper,2.12,0.719,win,0.344
-2026-06-25,mlb,prop,George Springer,hits,UNDER,0.5,sleeper,2.38,0.702,win,0.215
-2026-06-25,mlb,prop,Alec Bohm,singles,UNDER,0.5,sleeper,2.2,0.667,win,0.358
-2026-06-25,mlb,prop,Mark Vientos,hits,UNDER,0.5,sleeper,2.24,0.658,win,0.330
-2026-06-25,mlb,prop,Andrés Chaparro,total bases,UNDER,0.5,sleeper,2.03,0.655,win,0.375
-2026-06-25,mlb,prop,James Wood,singles,UNDER,0.5,sleeper,1.77,0.599,win,0.425
-2026-06-25,mlb,prop,Ben Rice,hits,UNDER,0.5,sleeper,2.44,0.587,win,0.337
-2026-06-25,mlb,prop,Yordan Alvarez,runs,UNDER,0.5,sleeper,1.93,0.583,win,0.396
-2026-06-25,mlb,prop,James Wood,runs,UNDER,0.5,sleeper,1.78,0.577,win,0.002
-2026-06-25,mlb,prop,Brandon Nimmo,hits,UNDER,0.5,sleeper,2.35,0.548,win,0.310
-2026-06-25,mlb,prop,Keibert Ruiz,singles,UNDER,0.5,sleeper,1.78,0.535,win,0.000
-2026-06-25,mlb,prop,Ezequiel Duran,hits,UNDER,0.5,sleeper,2.07,0.507,win,0.252
-2026-06-25,mlb,prop,Kevin McGonigle,runs,UNDER,0.5,sleeper,1.77,0.502,win,0.370
-2026-06-25,mlb,prop,J.T. Realmuto,singles,UNDER,0.5,sleeper,1.85,0.497,win,0.361
-2026-06-25,mlb,prop,Jorbit Vivas,total bases,UNDER,0.5,sleeper,1.81,0.483,win,0.347
-2026-06-25,mlb,prop,Bryson Stott,singles,UNDER,0.5,sleeper,1.83,0.479,win,0.330
-2026-06-25,mlb,prop,Jorbit Vivas,hits,UNDER,0.5,sleeper,1.83,0.475,win,0.356
-2026-06-25,mlb,prop,Miguel Amaya,hits+runs+rbis,UNDER,0.5,sleeper,2.11,0.461,win,0.192
-2026-06-25,mlb,prop,Dillon Dingler,singles,UNDER,0.5,sleeper,1.72,0.446,win,0.341
-2026-06-25,mlb,prop,Kerry Carpenter,runs,UNDER,0.5,sleeper,1.69,0.442,win,0.318
-2026-06-25,mlb,prop,Nico Hoerner,hits,UNDER,0.5,sleeper,2.41,0.438,win,0.097
-2026-06-25,mlb,prop,Yordan Alvarez,singles,UNDER,0.5,sleeper,1.74,0.437,win,0.291
-2026-06-25,mlb,prop,Riley Greene,runs,UNDER,0.5,sleeper,1.65,0.436,win,0.358
-2026-06-25,mlb,prop,George Springer,runs,UNDER,0.5,sleeper,1.76,0.432,win,0.335
-2026-06-25,mlb,prop,Nico Hoerner,total bases,UNDER,0.5,sleeper,2.38,0.432,win,0.102
-2026-06-25,mlb,prop,Christian Walker,runs,UNDER,0.5,sleeper,1.61,0.419,win,0.358
-2026-06-25,mlb,prop,Masataka Yoshida,hits,UNDER,0.5,sleeper,2.39,0.418,win,0.213
-2026-06-25,mlb,prop,Pete Crow-Armstrong,runs,UNDER,0.5,sleeper,1.76,0.417,win,0.305
-2026-06-25,mlb,prop,Yordan Alvarez,batter walks,UNDER,0.5,sleeper,1.78,0.417,win,0.296
-2026-06-25,mlb,prop,Wilyer Abreu,hits,UNDER,0.5,sleeper,2.43,0.413,win,0.058
-2026-06-25,mlb,prop,Vladimir Guerrero,hits,UNDER,0.5,sleeper,2.54,0.411,win,0.056
-2026-06-25,mlb,prop,Riley Greene,batter walks,UNDER,0.5,sleeper,1.65,0.403,win,0.322
-2026-06-25,mlb,prop,Curtis Mead,singles,UNDER,0.5,sleeper,1.78,0.394,win,0.352
-2026-06-25,mlb,prop,Cody Bellinger,hits,UNDER,0.5,sleeper,2.55,0.380,win,0.210
-2026-06-25,mlb,prop,Yordan Alvarez,rbis,UNDER,0.5,sleeper,1.54,0.379,win,0.317
-2026-06-25,mlb,prop,Colt Keith,singles,UNDER,0.5,sleeper,1.53,0.377,win,0.262
-2026-06-25,mlb,prop,Isaac Paredes,singles,UNDER,0.5,sleeper,1.6,0.375,win,0.324
-2026-06-25,mlb,prop,Dansby Swanson,hits,UNDER,0.5,sleeper,1.92,0.375,win,0.285
-2026-06-25,mlb,prop,Pedro Ramirez,total bases,UNDER,0.5,sleeper,2.03,0.373,win,0.176
-2026-06-25,mlb,prop,Pedro Ramirez,hits,UNDER,0.5,sleeper,2.04,0.371,win,0.172
-2026-06-25,mlb,prop,Miguel Amaya,hits,UNDER,0.5,sleeper,1.84,0.363,win,0.293
-2026-06-25,mlb,prop,Dansby Swanson,total bases,UNDER,0.5,sleeper,1.88,0.355,win,0.290
-2026-06-25,mlb,prop,Masataka Yoshida,total bases,UNDER,0.5,sleeper,2.18,0.354,win,0.197
-2026-06-25,mlb,prop,George Springer,batter walks,UNDER,0.5,sleeper,1.58,0.345,win,0.270
-2026-06-25,mlb,prop,Andrés Chaparro,singles,UNDER,0.5,sleeper,1.57,0.342,win,0.277
-2026-06-25,mlb,prop,Bo Bichette,runs,UNDER,0.5,sleeper,1.7,0.342,win,0.242
-2026-06-25,mlb,prop,Miguel Amaya,total bases,UNDER,0.5,sleeper,1.81,0.339,win,0.272
-2026-06-25,mlb,prop,Anthony Volpe,hits,UNDER,0.5,sleeper,2.27,0.336,win,0.065
-2026-06-25,mlb,prop,Kerry Carpenter,singles,UNDER,0.5,sleeper,1.51,0.331,win,0.244
-2026-06-25,mlb,prop,Isaac Paredes,runs,UNDER,0.5,sleeper,1.58,0.327,win,0.281
-2026-06-25,mlb,prop,Jorbit Vivas,singles,UNDER,0.5,sleeper,1.55,0.323,win,0.328
-2026-06-25,mlb,prop,Masataka Yoshida,singles,UNDER,0.5,sleeper,1.85,0.323,win,0.205
-2026-06-25,mlb,prop,Nathan Lukes,hits,UNDER,0.5,sleeper,1.98,0.318,win,0.166
-2026-06-25,mlb,prop,Ben Rice,runs,UNDER,0.5,sleeper,1.73,0.317,win,0.238
-2026-06-25,mlb,prop,Alex Bregman,rbis,OVER,0.5,sleeper,2.62,0.310,win,0.182
-2026-06-25,mlb,prop,Michael Conforto,batter walks,UNDER,0.5,sleeper,1.59,0.310,win,0.262
-2026-06-25,mlb,prop,Bryson Stott,runs,UNDER,0.5,sleeper,1.56,0.305,win,0.289
-2026-06-25,mlb,prop,George Springer,singles,UNDER,0.5,sleeper,1.62,0.304,win,0.305
-2026-06-25,mlb,prop,Juan Soto,runs,UNDER,0.5,sleeper,1.67,0.304,win,0.233
-2026-06-25,mlb,prop,Nico Hoerner,singles,UNDER,0.5,sleeper,1.96,0.302,win,0.241
-2026-06-25,mlb,prop,Ben Rice,singles,UNDER,0.5,sleeper,1.66,0.297,win,0.281
-2026-06-25,mlb,prop,Alec Bohm,runs,UNDER,0.5,sleeper,1.57,0.295,win,0.256
-2026-06-25,mlb,prop,Ezequiel Duran,singles,UNDER,0.5,sleeper,1.62,0.291,win,0.273
-2026-06-25,mlb,prop,Amed Rosario,runs,UNDER,0.5,sleeper,1.62,0.286,win,0.277
-2026-06-25,mlb,prop,Christian Walker,rbis,UNDER,0.5,sleeper,1.47,0.283,win,0.253
-2026-06-25,mlb,prop,Mark Vientos,runs,UNDER,0.5,sleeper,1.53,0.282,win,0.223
-2026-06-25,mlb,prop,Zach McKinstry,singles,UNDER,0.5,sleeper,1.56,0.279,win,0.204
-2026-06-25,mlb,prop,Willson Contreras,hits,UNDER,0.5,sleeper,2.31,0.269,win,0.073
-2026-06-25,mlb,prop,Mark Vientos,singles,UNDER,0.5,sleeper,1.55,0.265,win,0.238
-2026-06-25,mlb,prop,Brandon Nimmo,singles,UNDER,0.5,sleeper,1.65,0.263,win,0.241
-2026-06-25,mlb,prop,Spencer Torkelson,runs,UNDER,0.5,sleeper,1.49,0.261,win,0.268
-2026-06-25,mlb,prop,Carson Benge,runs,UNDER,0.5,sleeper,1.58,0.254,win,0.162
-2026-06-25,mlb,prop,Riley Greene,rbis,UNDER,0.5,sleeper,1.4,0.253,win,0.277
-2026-06-25,mlb,prop,Marcelo Mayer,hits+runs+rbis,UNDER,0.5,sleeper,1.99,0.250,win,0.205
-2026-06-25,mlb,prop,Willson Contreras,total bases,UNDER,0.5,sleeper,2.34,0.241,win,-0.053
-2026-06-25,mlb,prop,Christian Vázquez,singles,UNDER,0.5,sleeper,1.56,0.241,win,0.261
-2026-06-25,mlb,prop,Masataka Yoshida,runs,OVER,0.5,sleeper,2.16,0.237,win,0.263
-2026-06-25,mlb,prop,Alex Bregman,batter walks,UNDER,0.5,sleeper,1.44,0.232,win,0.224
-2026-06-25,mlb,prop,Kerry Carpenter,rbis,UNDER,0.5,sleeper,1.37,0.228,win,0.255
-2026-06-25,mlb,prop,Cam Smith,runs,UNDER,0.5,sleeper,1.45,0.227,win,0.240
-2026-06-25,mlb,prop,Mark Vientos,rbis,UNDER,0.5,sleeper,1.43,0.222,win,0.190
-2026-06-25,mlb,prop,Vladimir Guerrero,singles,UNDER,0.5,sleeper,1.78,0.220,win,0.227
-2026-06-25,mlb,prop,Kyle Schwarber,rbis,UNDER,0.5,sleeper,1.55,0.212,win,0.223
-2026-06-25,mlb,prop,Nathan Lukes,total bases,UNDER,0.5,sleeper,1.9,0.209,win,0.136
-2026-06-25,mlb,prop,Marcelo Mayer,hits,UNDER,0.5,sleeper,1.87,0.207,win,0.145
-2026-06-25,mlb,prop,Marcelo Mayer,total bases,UNDER,0.5,sleeper,1.84,0.206,win,0.153
-2026-06-25,mlb,prop,Ian Happ,batter walks,UNDER,0.5,sleeper,1.68,0.204,win,0.188
-2026-06-25,mlb,prop,Andrés Chaparro,hits+runs+rbis,UNDER,1.5,sleeper,1.53,0.203,win,0.286
-2026-06-25,mlb,prop,Colt Keith,rbis,UNDER,0.5,sleeper,1.3,0.202,win,0.225
-2026-06-25,mlb,prop,Zach McKinstry,runs,UNDER,0.5,sleeper,1.42,0.202,win,0.208
-2026-06-25,mlb,prop,Taylor Trammell,singles,UNDER,0.5,sleeper,1.39,0.198,win,0.273
-2026-06-25,mlb,prop,Myles Straw,singles,UNDER,0.5,sleeper,1.58,0.197,win,0.268
-2026-06-25,mlb,prop,Sal Stewart,rbis,OVER,0.5,sleeper,2.59,0.295,win,0.000
-2026-06-25,mlb,prop,José Fermín,batter walks,OVER,0.5,sleeper,3.17,0.510,void,0.218
-2026-06-25,mlb,prop,Jorbit Vivas,hits+runs+rbis,OVER,0.5,espnbet,5.0,0.174,loss,-0.360
-2026-06-25,mlb,prop,Amed Rosario,total bases,OVER,1.5,espnbet,3.6,0.104,loss,-0.142
-2026-06-25,mlb,prop,Vladimir Guerrero,rbis,OVER,0.5,espnbet,5.75,0.087,loss,-0.196
-2026-06-25,mlb,prop,Caleb Durbin,runs,UNDER,0.5,espnbet,1.3846153846153846,0.081,loss,0.142
-2026-06-25,mlb,prop,A.J. Ewing,rbis,OVER,0.5,draftkings,8.0,0.078,loss,-0.114
-2026-06-25,mlb,prop,Ernie Clement,rbis,OVER,0.5,espnbet,6.5,0.057,loss,-0.178
-2026-06-25,mlb,prop,Cody Bellinger,rbis,OVER,0.5,espnbet,5.5,0.054,loss,-0.192
-2026-06-25,mlb,prop,Anthony Volpe,rbis,OVER,0.5,espnbet,4.8,0.021,loss,-0.141
-2026-06-25,mlb,prop,Max Muncy,batter walks,OVER,0.5,sleeper,3.29,0.424,loss,0.006
-2026-06-25,mlb,prop,JJ Bleday,rbis,OVER,0.5,sleeper,2.48,0.240,loss,0.000
-2026-06-25,mlb,prop,Seiya Suzuki,rbis,OVER,0.5,sleeper,3.25,0.109,loss,-0.015
-2026-06-25,mlb,prop,Carson Kelly,hits,OVER,0.5,sleeper,1.84,0.033,loss,-0.029
-2026-06-25,mlb,prop,Seiya Suzuki,batter walks,OVER,0.5,sleeper,2.42,0.025,loss,0.016
-2026-06-25,mlb,prop,Bryson Stott,hits+runs+rbis,OVER,1.5,sleeper,1.96,0.020,loss,0.000
-2026-06-25,mlb,prop,Corbin Carroll,batter walks,OVER,0.5,sleeper,2.72,0.019,loss,0.019
-2026-06-25,mlb,prop,Ketel Marte,batter walks,OVER,0.5,sleeper,2.77,0.015,loss,-0.010
-2026-06-25,mlb,prop,Ian Happ,hits+runs+rbis,UNDER,0.5,sleeper,1.84,0.011,loss,0.002
-2026-06-25,mlb,prop,Victor Caratini,hits,UNDER,0.5,sleeper,2.4,0.008,loss,-0.080
-2026-06-25,mlb,prop,CJ Abrams,runs,OVER,0.5,sleeper,2.44,0.008,loss,-0.004
-2026-06-25,mlb,prop,Jeffrey Springs,pitching outs,UNDER,15.5,sleeper,1.87,0.025,loss,-0.038
-2026-06-25,mlb,prop,Bryce Miller,pitcher strikeouts,UNDER,5.5,sleeper,1.78,0.003,loss,0.132
-2026-06-25,mlb,prop,Christian Walker,hits,UNDER,0.5,sleeper,2.4,0.977,loss,0.324
-2026-06-25,mlb,prop,Dillon Dingler,hits,UNDER,0.5,sleeper,2.47,0.879,loss,0.261
-2026-06-25,mlb,prop,J.T. Realmuto,hits,UNDER,0.5,sleeper,2.49,0.835,loss,0.237
-2026-06-25,mlb,prop,Carson Benge,hits,UNDER,0.5,sleeper,2.34,0.563,loss,0.168
-2026-06-25,mlb,prop,Brandon Marsh,singles,UNDER,0.5,sleeper,1.99,0.546,loss,0.336
-2026-06-25,mlb,prop,Carson Benge,total bases,UNDER,0.5,sleeper,2.28,0.520,loss,0.167
-2026-06-25,mlb,prop,Kyle Schwarber,runs,UNDER,0.5,sleeper,1.98,0.517,loss,0.266
-2026-06-25,mlb,prop,Christian Walker,singles,UNDER,0.5,sleeper,1.64,0.456,loss,0.388
-2026-06-25,mlb,prop,Trea Turner,runs,UNDER,0.5,sleeper,1.78,0.438,loss,0.349
-2026-06-25,mlb,prop,Paul Goldschmidt,singles,UNDER,0.5,sleeper,1.89,0.421,loss,0.264
-2026-06-25,mlb,prop,Alex Bregman,hits,UNDER,0.5,sleeper,2.26,0.420,loss,0.128
-2026-06-25,mlb,prop,Alex Bregman,total bases,UNDER,0.5,sleeper,2.27,0.397,loss,0.115
-2026-06-25,mlb,prop,Jeremy Peña,runs,UNDER,0.5,sleeper,1.67,0.383,loss,0.328
-2026-06-25,mlb,prop,Michael Conforto,hits,UNDER,0.5,sleeper,1.99,0.378,loss,0.192
-2026-06-25,mlb,prop,Riley Greene,hits+runs+rbis,UNDER,1.5,sleeper,1.82,0.367,loss,0.273
-2026-06-25,mlb,prop,Ian Happ,hits,UNDER,0.5,sleeper,2.04,0.365,loss,0.252
-2026-06-25,mlb,prop,A.J. Ewing,total bases,UNDER,0.5,sleeper,2.24,0.362,loss,0.200
-2026-06-25,mlb,prop,Dillon Dingler,runs,UNDER,0.5,sleeper,1.6,0.358,loss,0.337
-2026-06-25,mlb,prop,Carson Benge,singles,UNDER,0.5,sleeper,1.81,0.353,loss,0.269
-2026-06-25,mlb,prop,A.J. Ewing,hits,UNDER,0.5,sleeper,2.22,0.346,loss,0.196
-2026-06-25,mlb,prop,Brett Baty,hits+runs+rbis,UNDER,0.5,sleeper,2.01,0.336,loss,0.232
-2026-06-25,mlb,prop,Kyle Schwarber,batter walks,UNDER,0.5,sleeper,1.68,0.317,loss,0.256
-2026-06-25,mlb,prop,A.J. Ewing,hits+runs+rbis,UNDER,0.5,sleeper,2.31,0.297,loss,0.061
-2026-06-25,mlb,prop,Cam Smith,singles,UNDER,0.5,sleeper,1.67,0.271,loss,0.261
-2026-06-25,mlb,prop,Jeremy Peña,hits,UNDER,0.5,sleeper,2.54,0.270,loss,0.000
-2026-06-25,mlb,prop,J.T. Realmuto,runs,UNDER,0.5,sleeper,1.5,0.266,loss,0.246
-2026-06-25,mlb,prop,Austin Wells,hits,UNDER,0.5,sleeper,1.83,0.265,loss,0.231
-2026-06-25,mlb,prop,Brett Baty,hits,UNDER,0.5,sleeper,1.78,0.263,loss,0.197
-2026-06-25,mlb,prop,Ceddanne Rafaela,total bases,UNDER,0.5,sleeper,2.38,0.252,loss,0.002
-2026-06-25,mlb,prop,Brett Baty,total bases,UNDER,0.5,sleeper,1.78,0.252,loss,0.191
-2026-06-25,mlb,prop,Dillon Dingler,rbis,UNDER,0.5,sleeper,1.37,0.241,loss,0.270
-2026-06-25,mlb,prop,Isaac Paredes,rbis,UNDER,0.5,sleeper,1.37,0.218,loss,0.240
-2026-06-25,mlb,prop,Trea Turner,hits+runs+rbis,UNDER,1.5,sleeper,2.14,0.214,loss,0.067
-2026-06-25,mlb,prop,Alec Bohm,rbis,UNDER,0.5,sleeper,1.41,0.192,loss,0.223
-2026-06-25,mlb,prop,Carlos Narváez,hits,UNDER,0.5,sleeper,1.78,0.191,loss,0.159
-2026-06-25,mlb,prop,Michael Conforto,runs,UNDER,0.5,sleeper,1.57,0.187,loss,0.256
-2026-06-25,mlb,prop,José Caballero,singles,UNDER,0.5,sleeper,1.61,0.171,loss,0.182
-2026-06-25,mlb,prop,Justin Crawford,runs,UNDER,0.5,sleeper,1.44,0.171,loss,0.198
-2026-06-25,mlb,prop,Pete Crow-Armstrong,rbis,UNDER,0.5,sleeper,1.42,0.169,loss,0.179
-2026-06-25,mlb,prop,J.T. Realmuto,rbis,UNDER,0.5,sleeper,1.35,0.159,loss,0.207
-2026-06-25,mlb,prop,Bryson Stott,batter walks,UNDER,0.5,sleeper,1.34,0.155,loss,0.181
-2026-06-25,mlb,prop,Bryce Harper,rbis,UNDER,0.5,sleeper,1.45,0.152,loss,0.206
-2026-06-25,mlb,prop,A.J. Ewing,singles,UNDER,0.5,sleeper,1.61,0.141,loss,0.185
-2026-06-25,mlb,prop,Ernie Clement,runs,UNDER,0.5,sleeper,1.56,0.135,loss,0.251
-2026-06-25,mlb,prop,Ian Happ,singles,UNDER,0.5,sleeper,1.42,0.113,loss,0.161
-2026-06-25,mlb,prop,Brandon Marsh,batter walks,UNDER,0.5,sleeper,1.29,0.106,loss,0.137
-2026-06-25,mlb,prop,Kazuma Okamoto,rbis,UNDER,0.5,sleeper,1.4,0.105,loss,0.167
-2026-06-25,mlb,prop,Brett Baty,singles,UNDER,0.5,sleeper,1.42,0.104,loss,0.166
-2026-06-25,mlb,prop,Jazz Chisholm,runs,UNDER,0.5,sleeper,1.47,0.097,loss,0.131
-2026-06-25,mlb,prop,Austin Wells,singles,UNDER,0.5,sleeper,1.38,0.097,loss,0.184
-2026-06-25,mlb,prop,Carlos Narváez,total bases,UNDER,0.5,sleeper,1.78,0.095,loss,0.110
-2026-06-25,mlb,prop,Paul Goldschmidt,rbis,UNDER,0.5,sleeper,1.35,0.094,loss,0.174
-2026-06-25,mlb,prop,Ian Happ,rbis,UNDER,0.5,sleeper,1.34,0.088,loss,0.160
-2026-06-25,mlb,prop,Kyle Higashioka,batter walks,UNDER,0.5,sleeper,1.21,0.076,loss,0.137
-2026-06-25,mlb,prop,Carlos Narváez,singles,UNDER,0.5,sleeper,1.43,0.073,loss,0.116
-2026-06-25,mlb,prop,Miguel Amaya,batter walks,UNDER,0.5,sleeper,1.23,0.056,loss,0.138
-2026-06-25,mlb,prop,A.J. Ewing,runs,UNDER,0.5,sleeper,1.37,0.051,loss,0.102
-2026-06-25,mlb,prop,Alex Bregman,runs,UNDER,0.5,sleeper,1.53,0.047,loss,0.137
-2026-06-25,mlb,prop,Brandon Nimmo,batter walks,UNDER,0.5,sleeper,1.26,0.046,loss,0.124
-2026-06-25,mlb,prop,Willson Contreras,runs,UNDER,0.5,sleeper,1.52,0.045,loss,0.124
-2026-06-25,mlb,prop,Anthony Volpe,batter walks,UNDER,0.5,sleeper,1.33,0.042,loss,0.132
-2026-06-25,mlb,prop,Nico Hoerner,batter walks,UNDER,0.5,sleeper,1.24,0.038,loss,0.084
-2026-06-25,mlb,prop,Max Muncy,runs,OVER,0.5,sleeper,2.56,0.024,loss,0.000
-2026-06-25,mlb,prop,Jazz Chisholm,batter walks,UNDER,0.5,sleeper,1.35,0.024,loss,0.094
-2026-06-25,mlb,prop,Caleb Durbin,runs,UNDER,0.5,sleeper,1.31,0.023,loss,0.142
-2026-06-25,mlb,prop,Masataka Yoshida,batter walks,UNDER,0.5,sleeper,1.2,0.014,loss,0.086
-2026-06-25,mlb,prop,Ceddanne Rafaela,rbis,UNDER,0.5,sleeper,1.23,0.009,loss,0.078
-2026-06-24,mlb,prop,Bryce Harper,runs,UNDER,0.5,espnbet,1.9090909090909092,0.199,win,0.128
-2026-06-24,mlb,prop,Josh Naylor,runs,UNDER,0.5,espnbet,1.606060606060606,0.196,win,0.156
-2026-06-24,mlb,prop,Blake Dunn,runs,UNDER,0.5,espnbet,1.6666666666666665,0.189,win,0.067
-2026-06-24,mlb,prop,Dominic Canzone,runs,UNDER,0.5,espnbet,1.526315789473684,0.183,win,0.155
-2026-06-24,mlb,prop,CJ Abrams,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.177,win,0.257
-2026-06-24,mlb,prop,J.T. Realmuto,runs,UNDER,0.5,espnbet,1.6666666666666665,0.175,win,0.147
-2026-06-24,mlb,prop,Julio Rodríguez,runs,UNDER,0.5,espnbet,1.625,0.175,win,0.164
-2026-06-24,mlb,prop,Daylen Lile,rbis,UNDER,0.5,espnbet,1.5,0.175,win,0.283
-2026-06-24,mlb,prop,Spencer Torkelson,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.167,win,0.186
-2026-06-24,mlb,prop,Salvador Perez,runs,UNDER,0.5,espnbet,1.526315789473684,0.159,win,0.153
-2026-06-24,mlb,prop,Vladimir Guerrero,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.154,win,0.104
-2026-06-24,mlb,prop,Daulton Varsho,runs,UNDER,0.5,espnbet,1.6666666666666665,0.149,win,0.144
-2026-06-24,mlb,prop,Salvador Perez,rbis,UNDER,0.5,espnbet,1.4545454545454546,0.143,win,0.155
-2026-06-24,mlb,prop,Yordan Alvarez,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.142,win,0.086
-2026-06-24,mlb,prop,Cody Bellinger,runs,UNDER,0.5,espnbet,1.5,0.140,win,0.138
-2026-06-24,mlb,prop,Josh Naylor,rbis,UNDER,0.5,espnbet,1.4545454545454546,0.139,win,0.134
-2026-06-24,mlb,prop,Dylan Crews,rbis,UNDER,0.5,espnbet,1.4545454545454546,0.138,win,0.131
-2026-06-24,mlb,prop,Cody Bellinger,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.137,win,0.126
-2026-06-24,mlb,prop,Michael Massey,runs,UNDER,0.5,espnbet,1.4166666666666667,0.135,win,0.144
-2026-06-24,mlb,prop,Kazuma Okamoto,rbis,UNDER,0.5,espnbet,1.5555555555555556,0.131,win,0.068
-2026-06-24,mlb,prop,Byron Buxton,hits,UNDER,0.5,caesars,2.33,0.126,win,-0.017
-2026-06-24,mlb,prop,Isaac Collins,runs,UNDER,0.5,espnbet,1.4166666666666667,0.125,win,0.137
-2026-06-24,mlb,prop,Trea Turner,rbis,UNDER,0.5,espnbet,1.5,0.125,win,0.092
-2026-06-24,mlb,prop,Anthony Volpe,runs,UNDER,0.5,espnbet,1.4166666666666667,0.125,win,0.150
-2026-06-24,mlb,prop,Jazz Chisholm,runs,UNDER,0.5,espnbet,1.4,0.120,win,0.142
-2026-06-24,mlb,prop,Dominic Canzone,rbis,UNDER,0.5,espnbet,1.4,0.117,win,0.298
-2026-06-24,mlb,prop,Daulton Varsho,rbis,UNDER,0.5,espnbet,1.5,0.116,win,0.107
-2026-06-24,mlb,prop,Randy Arozarena,rbis,UNDER,0.5,espnbet,1.3846153846153846,0.114,win,0.123
-2026-06-24,mlb,prop,Brice Turang,rbis,UNDER,0.5,espnbet,1.526315789473684,0.105,win,0.107
-2026-06-24,mlb,prop,George Springer,rbis,UNDER,0.5,espnbet,1.4545454545454546,0.104,win,0.099
-2026-06-24,mlb,prop,Jeremy Peña,rbis,OVER,0.5,draftkings,5.0,0.094,win,-0.052
-2026-06-24,mlb,prop,Ryan O'Hearn,rbis,OVER,0.5,draftkings,5.0,0.094,win,-0.128
-2026-06-24,mlb,prop,Michael Massey,rbis,UNDER,0.5,espnbet,1.3125,0.093,win,0.125
-2026-06-24,mlb,prop,Jac Caglianone,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.089,win,0.111
-2026-06-24,mlb,prop,Byron Buxton,runs,UNDER,0.5,espnbet,1.7142857142857144,0.089,win,0.076
-2026-06-24,mlb,prop,Anthony Volpe,rbis,UNDER,0.5,espnbet,1.3125,0.087,win,0.121
-2026-06-24,mlb,prop,Bryce Harper,rbis,UNDER,0.5,espnbet,1.625,0.087,win,0.074
-2026-06-24,mlb,prop,Kazuma Okamoto,runs,UNDER,0.5,espnbet,1.7142857142857144,0.084,win,0.089
-2026-06-24,mlb,prop,Trevor Larnach,runs,UNDER,0.5,espnbet,1.5555555555555556,0.078,win,0.087
-2026-06-24,mlb,prop,Andy Pages,runs,UNDER,0.5,espnbet,1.7142857142857144,0.077,win,0.104
-2026-06-24,mlb,prop,Jazz Chisholm,rbis,UNDER,0.5,espnbet,1.2857142857142856,0.075,win,0.141
-2026-06-24,mlb,prop,Blake Dunn,rbis,OVER,0.5,espnbet,5.0,0.064,win,-0.048
-2026-06-24,mlb,prop,Geraldo Perdomo,runs,UNDER,0.5,espnbet,1.7692307692307692,0.062,win,0.100
-2026-06-24,mlb,prop,Ben Rice,rbis,UNDER,0.5,espnbet,1.3333333333333333,0.060,win,0.087
-2026-06-24,mlb,prop,Isaac Collins,rbis,UNDER,0.5,espnbet,1.25,0.059,win,0.106
-2026-06-24,mlb,prop,Dane Myers,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.058,win,0.039
-2026-06-24,mlb,prop,Henry Bolte,singles,UNDER,0.5,betmgm,2.3,0.055,win,-0.065
-2026-06-24,mlb,prop,Vladimir Guerrero,runs,UNDER,0.5,espnbet,1.7692307692307692,0.053,win,0.044
-2026-06-24,mlb,prop,Jeremy Peña,hits,OVER,0.5,espnbet,2.4,0.053,win,-0.225
-2026-06-24,mlb,prop,Christian Yelich,rbis,UNDER,0.5,espnbet,1.5,0.052,win,0.050
-2026-06-24,mlb,prop,Gabriel Moreno,rbis,OVER,0.5,draftkings,2.85,0.052,win,-0.053
-2026-06-24,mlb,prop,Ildemaro Vargas,rbis,OVER,0.5,espnbet,3.3,0.048,win,-0.018
-2026-06-24,mlb,prop,Carter Jensen,runs,OVER,0.5,draftkings,4.0,0.047,win,-0.169
-2026-06-24,mlb,prop,Dane Myers,runs,UNDER,0.5,espnbet,1.625,0.047,win,0.125
-2026-06-24,mlb,prop,Gabriel Moreno,hits+runs+rbis,OVER,2.5,betmgm,2.25,0.047,win,0.043
-2026-06-24,mlb,prop,J.P. Crawford,rbis,UNDER,0.5,espnbet,1.2666666666666666,0.040,win,0.081
-2026-06-24,mlb,prop,Corbin Carroll,runs,OVER,0.5,espnbet,2.4,0.039,win,-0.067
-2026-06-24,mlb,prop,Kody Clemens,runs,UNDER,0.5,espnbet,1.526315789473684,0.039,win,0.074
-2026-06-24,mlb,prop,Ryan Weathers,pitching outs,OVER,17.5,caesars,1.8,0.034,win,0.070
-2026-06-24,mlb,prop,Nick Loftin,rbis,UNDER,0.5,espnbet,1.2666666666666666,0.032,win,0.074
-2026-06-24,mlb,prop,Jeremy Peña,hits+runs+rbis,OVER,1.5,espnbet,2.1,0.029,win,-0.010
-2026-06-24,mlb,prop,Nolan Arenado,singles,UNDER,0.5,betmgm,1.9090909090909092,0.029,win,0.039
-2026-06-24,mlb,prop,Freddie Freeman,rbis,UNDER,0.5,espnbet,1.526315789473684,0.026,win,0.057
-2026-06-24,mlb,prop,Jase Bowen,hits,OVER,0.5,betmgm,2.05,0.025,win,-0.059
-2026-06-24,mlb,prop,Corbin Carroll,singles,OVER,0.5,espnbet,2.3,0.022,win,-0.056
-2026-06-24,mlb,prop,Willson Contreras,total bases,OVER,1.5,sleeper,2.24,0.262,win,0.000
-2026-06-24,mlb,prop,Anthony Volpe,hits+runs+rbis,UNDER,1.5,sleeper,1.78,0.039,win,0.022
-2026-06-24,mlb,prop,Jazz Chisholm,total bases,UNDER,0.5,sleeper,2.15,0.005,win,-0.033
-2026-06-24,mlb,prop,Alex Bregman,total bases,UNDER,0.5,sleeper,2.21,0.219,win,0.052
-2026-06-24,mlb,prop,James Wood,total bases,UNDER,0.5,sleeper,2.28,0.210,win,-0.042
-2026-06-24,mlb,prop,Josh Naylor,hits,OVER,1.5,sleeper,2.55,0.175,win,-0.039
-2026-06-24,mlb,prop,Lane Thomas,batter walks,UNDER,0.5,sleeper,1.62,0.102,win,0.023
-2026-06-24,mlb,prop,Seiya Suzuki,total bases,UNDER,0.5,sleeper,2.15,0.075,win,0.000
-2026-06-24,mlb,prop,Lane Thomas,hits+runs+rbis,UNDER,1.5,sleeper,1.75,0.066,win,0.109
-2026-06-24,mlb,prop,Jared Triolo,hits+runs+rbis,UNDER,0.5,sleeper,2.15,0.265,win,0.088
-2026-06-24,mlb,prop,Lane Thomas,hits,UNDER,0.5,sleeper,2.2,0.023,win,0.065
-2026-06-24,mlb,prop,Colt Keith,batter walks,UNDER,0.5,sleeper,1.33,0.023,win,0.002
-2026-06-24,mlb,prop,Daulton Varsho,hits+runs+rbis,OVER,1.5,sleeper,2.15,0.009,win,0.000
-2026-06-24,mlb,prop,José Tena,runs,UNDER,0.5,sleeper,1.48,0.114,win,0.076
-2026-06-24,mlb,prop,Julio Rodríguez,runs,UNDER,0.5,sleeper,1.54,0.113,win,0.164
-2026-06-24,mlb,prop,Pedro Ramirez,total bases,UNDER,0.5,sleeper,2.12,0.110,win,0.024
-2026-06-24,mlb,prop,Dominic Canzone,runs,UNDER,0.5,sleeper,1.43,0.108,win,0.155
-2026-06-24,mlb,prop,Seiya Suzuki,singles,UNDER,0.5,sleeper,1.56,0.108,win,0.141
-2026-06-24,mlb,prop,Riley Greene,rbis,UNDER,0.5,sleeper,1.29,0.107,win,0.206
-2026-06-24,mlb,prop,Alex Bregman,runs,UNDER,0.5,sleeper,1.54,0.106,win,0.149
-2026-06-24,mlb,prop,Blake Dunn,runs,UNDER,0.5,sleeper,1.55,0.106,win,0.067
-2026-06-24,mlb,prop,Yandy Díaz,batter walks,UNDER,0.5,sleeper,1.45,0.104,win,0.160
-2026-06-24,mlb,prop,Kazuma Okamoto,hits,UNDER,0.5,sleeper,2.25,0.103,win,0.109
-2026-06-24,mlb,prop,Taylor Walls,singles,UNDER,0.5,sleeper,1.54,0.103,win,0.110
-2026-06-24,mlb,prop,Josh Naylor,runs,UNDER,0.5,sleeper,1.48,0.102,win,0.156
-2026-06-24,mlb,prop,Yordan Alvarez,singles,UNDER,0.5,sleeper,1.54,0.101,win,0.148
-2026-06-24,mlb,prop,Pedro Ramirez,hits,UNDER,0.5,sleeper,2.13,0.101,win,0.017
-2026-06-24,mlb,prop,Tyler Callihan,singles,UNDER,0.5,sleeper,1.5,0.099,win,0.134
-2026-06-24,mlb,prop,CJ Abrams,rbis,UNDER,0.5,sleeper,1.45,0.097,win,0.257
-2026-06-24,mlb,prop,Isaac Paredes,batter walks,UNDER,0.5,sleeper,1.46,0.094,win,0.118
-2026-06-24,mlb,prop,Salvador Perez,runs,UNDER,0.5,sleeper,1.44,0.093,win,0.153
-2026-06-24,mlb,prop,Isaac Collins,batter walks,UNDER,0.5,sleeper,1.44,0.092,win,0.134
-2026-06-24,mlb,prop,James Wood,singles,UNDER,0.5,sleeper,1.58,0.091,win,0.121
-2026-06-24,mlb,prop,George Springer,batter walks,UNDER,0.5,sleeper,1.44,0.090,win,0.126
-2026-06-24,mlb,prop,Nasim Nuñez,hits,UNDER,0.5,sleeper,2.02,0.089,win,0.093
-2026-06-24,mlb,prop,Dillon Dingler,batter walks,UNDER,0.5,sleeper,1.28,0.088,win,0.149
-2026-06-24,mlb,prop,Spencer Torkelson,rbis,UNDER,0.5,sleeper,1.32,0.087,win,0.186
-2026-06-24,mlb,prop,Jake Rogers,singles,UNDER,0.5,sleeper,1.35,0.087,win,0.160
-2026-06-24,mlb,prop,Marcus Semien,total bases,UNDER,0.5,sleeper,2.15,0.086,win,0.097
-2026-06-24,mlb,prop,Spencer Torkelson,singles,UNDER,0.5,sleeper,1.44,0.084,win,0.130
-2026-06-24,mlb,prop,Brett Baty,hits,UNDER,0.5,sleeper,1.81,0.083,win,0.108
-2026-06-24,mlb,prop,Cole Young,runs,UNDER,0.5,sleeper,1.37,0.082,win,0.161
-2026-06-24,mlb,prop,Daylen Lile,rbis,UNDER,0.5,sleeper,1.38,0.081,win,0.283
-2026-06-24,mlb,prop,Matt Vierling,batter walks,UNDER,0.5,sleeper,1.23,0.080,win,0.163
-2026-06-24,mlb,prop,Brice Matthews,hits,UNDER,0.5,sleeper,1.8,0.080,win,-0.246
-2026-06-24,mlb,prop,Byron Buxton,hits,UNDER,0.5,sleeper,2.23,0.077,win,-0.017
-2026-06-24,mlb,prop,A.J. Ewing,singles,UNDER,0.5,sleeper,1.65,0.077,win,0.153
-2026-06-24,mlb,prop,Kevin McGonigle,batter walks,UNDER,0.5,sleeper,1.34,0.075,win,0.163
-2026-06-24,mlb,prop,Brett Baty,hits+runs+rbis,UNDER,0.5,sleeper,2.06,0.074,win,0.022
-2026-06-24,mlb,prop,Edmundo Sosa,rbis,UNDER,0.5,sleeper,1.34,0.074,win,0.168
-2026-06-24,mlb,prop,Luke Raley,runs,UNDER,0.5,sleeper,1.34,0.074,win,0.161
-2026-06-24,mlb,prop,Michael Massey,runs,UNDER,0.5,sleeper,1.34,0.074,win,0.144
-2026-06-24,mlb,prop,Dillon Dingler,rbis,UNDER,0.5,sleeper,1.31,0.074,win,0.162
-2026-06-24,mlb,prop,Jake Rogers,runs,UNDER,0.5,sleeper,1.32,0.072,win,0.162
-2026-06-24,mlb,prop,Vladimir Guerrero,singles,UNDER,0.5,sleeper,1.92,0.070,win,0.119
-2026-06-24,mlb,prop,James Wood,rbis,UNDER,0.5,sleeper,1.45,0.070,win,0.116
-2026-06-24,mlb,prop,Vladimir Guerrero,rbis,UNDER,0.5,sleeper,1.44,0.068,win,0.104
-2026-06-24,mlb,prop,Cam Smith,hits,UNDER,0.5,sleeper,1.98,0.068,win,0.102
-2026-06-24,mlb,prop,Luke Raley,singles,UNDER,0.5,sleeper,1.33,0.067,win,0.115
-2026-06-24,mlb,prop,Josh Bell,hits,UNDER,0.5,sleeper,2.09,0.065,win,0.010
-2026-06-24,mlb,prop,Marcus Semien,hits,UNDER,0.5,sleeper,2.11,0.065,win,0.097
-2026-06-24,mlb,prop,Matt Vierling,rbis,UNDER,0.5,sleeper,1.26,0.065,win,0.174
-2026-06-24,mlb,prop,Isaac Collins,runs,UNDER,0.5,sleeper,1.34,0.064,win,0.137
-2026-06-24,mlb,prop,Jac Caglianone,batter walks,UNDER,0.5,sleeper,1.32,0.064,win,0.072
-2026-06-24,mlb,prop,Jorbit Vivas,singles,UNDER,0.5,sleeper,1.6,0.063,win,0.121
-2026-06-24,mlb,prop,Alec Bohm,rbis,UNDER,0.5,sleeper,1.46,0.062,win,0.105
-2026-06-24,mlb,prop,Daulton Varsho,runs,UNDER,0.5,sleeper,1.54,0.062,win,0.144
-2026-06-24,mlb,prop,Justin Crawford,total bases,UNDER,0.5,sleeper,2.42,0.061,win,-0.188
-2026-06-24,mlb,prop,Seiya Suzuki,batter walks,UNDER,0.5,sleeper,1.6,0.061,win,0.144
-2026-06-24,mlb,prop,Austin Wells,runs,UNDER,0.5,sleeper,1.28,0.061,win,0.131
-2026-06-24,mlb,prop,Trevor Larnach,hits,UNDER,0.5,sleeper,2.05,0.060,win,0.117
-2026-06-24,mlb,prop,Nasim Nuñez,total bases,UNDER,0.5,sleeper,1.96,0.057,win,0.099
-2026-06-24,mlb,prop,Jazz Chisholm,runs,UNDER,0.5,sleeper,1.32,0.056,win,0.142
-2026-06-24,mlb,prop,Anthony Volpe,runs,UNDER,0.5,sleeper,1.33,0.056,win,0.150
-2026-06-24,mlb,prop,Kody Clemens,hits,UNDER,0.5,sleeper,2.12,0.055,win,-0.002
-2026-06-24,mlb,prop,Isaac Paredes,singles,UNDER,0.5,sleeper,1.49,0.054,win,0.112
-2026-06-24,mlb,prop,Zach McKinstry,runs,UNDER,0.5,sleeper,1.28,0.054,win,0.159
-2026-06-24,mlb,prop,Mike Burrows,earned runs allowed,UNDER,2.5,sleeper,1.82,0.052,win,0.078
-2026-06-24,mlb,prop,Cody Bellinger,rbis,UNDER,0.5,sleeper,1.31,0.051,win,0.126
-2026-06-24,mlb,prop,Andrés Giménez,singles,UNDER,0.5,sleeper,1.55,0.050,win,0.108
-2026-06-24,mlb,prop,Yordan Alvarez,rbis,UNDER,0.5,sleeper,1.43,0.050,win,0.086
-2026-06-24,mlb,prop,Nico Hoerner,singles,UNDER,0.5,sleeper,1.97,0.049,win,0.125
-2026-06-24,mlb,prop,Josh Naylor,rbis,UNDER,0.5,sleeper,1.34,0.049,win,0.134
-2026-06-24,mlb,prop,Cody Bellinger,runs,UNDER,0.5,sleeper,1.38,0.049,win,0.138
-2026-06-24,mlb,prop,José Caballero,runs,UNDER,0.5,sleeper,1.31,0.049,win,0.121
-2026-06-24,mlb,prop,Dylan Crews,rbis,UNDER,0.5,sleeper,1.34,0.049,win,0.131
-2026-06-24,mlb,prop,Mark Vientos,singles,UNDER,0.5,sleeper,1.7,0.049,win,0.093
-2026-06-24,mlb,prop,Kazuma Okamoto,total bases,UNDER,0.5,sleeper,2.2,0.048,win,-0.100
-2026-06-24,mlb,prop,Seiya Suzuki,rbis,UNDER,0.5,sleeper,1.39,0.047,win,0.121
-2026-06-24,mlb,prop,Ryan Vilade,batter walks,UNDER,0.5,sleeper,1.24,0.046,win,0.128
-2026-06-24,mlb,prop,Salvador Perez,rbis,UNDER,0.5,sleeper,1.33,0.045,win,0.155
-2026-06-24,mlb,prop,Chandler Simpson,runs,UNDER,0.5,sleeper,1.34,0.045,win,0.115
-2026-06-24,mlb,prop,J.P. Crawford,batter walks,UNDER,0.5,sleeper,1.45,0.044,win,0.112
-2026-06-24,mlb,prop,Colt Emerson,hits,UNDER,0.5,sleeper,1.87,0.043,win,0.109
-2026-06-24,mlb,prop,Matt McLain,total bases,UNDER,0.5,sleeper,1.94,0.042,win,0.037
-2026-06-24,mlb,prop,Justin Crawford,singles,UNDER,0.5,sleeper,1.88,0.041,win,0.077
-2026-06-24,mlb,prop,Alex Bregman,rbis,UNDER,0.5,sleeper,1.34,0.040,win,0.118
-2026-06-24,mlb,prop,Max Schuemann,singles,UNDER,0.5,sleeper,1.5,0.038,win,0.133
-2026-06-24,mlb,prop,Randy Arozarena,rbis,UNDER,0.5,sleeper,1.29,0.038,win,0.123
-2026-06-24,mlb,prop,Bryce Harper,batter walks,UNDER,0.5,sleeper,1.43,0.036,win,0.109
-2026-06-24,mlb,prop,Cole Young,batter walks,UNDER,0.5,sleeper,1.29,0.034,win,0.059
-2026-06-24,mlb,prop,Kazuma Okamoto,rbis,UNDER,0.5,sleeper,1.42,0.032,win,0.068
-2026-06-24,mlb,prop,Andrés Giménez,runs,UNDER,0.5,sleeper,1.39,0.031,win,0.091
-2026-06-24,mlb,prop,Kazuma Okamoto,runs,UNDER,0.5,sleeper,1.63,0.031,win,0.089
-2026-06-24,mlb,prop,Drew Millas,hits,UNDER,0.5,sleeper,1.99,0.029,win,0.084
-2026-06-24,mlb,prop,David Hamilton,total bases,UNDER,0.5,sleeper,1.87,0.028,win,0.052
-2026-06-24,mlb,prop,Brett Baty,singles,UNDER,0.5,sleeper,1.46,0.027,win,0.088
-2026-06-24,mlb,prop,Nasim Nuñez,singles,UNDER,0.5,sleeper,1.62,0.027,win,0.086
-2026-06-24,mlb,prop,Pedro Ramirez,singles,UNDER,0.5,sleeper,1.68,0.026,win,0.111
-2026-06-24,mlb,prop,Marcus Semien,runs,UNDER,0.5,sleeper,1.47,0.026,win,0.075
-2026-06-24,mlb,prop,Nathan Lukes,batter walks,UNDER,0.5,sleeper,1.23,0.026,win,0.114
-2026-06-24,mlb,prop,Junior Caminero,home runs,UNDER,0.5,sleeper,1.15,0.026,win,0.121
-2026-06-24,mlb,prop,Drew Millas,total bases,UNDER,0.5,sleeper,2.04,0.025,win,0.064
-2026-06-24,mlb,prop,Mark Vientos,runs,UNDER,0.5,sleeper,1.53,0.025,win,0.072
-2026-06-24,mlb,prop,George Springer,rbis,UNDER,0.5,sleeper,1.35,0.025,win,0.099
-2026-06-24,mlb,prop,Isaac Paredes,runs,UNDER,0.5,sleeper,1.48,0.025,win,0.057
-2026-06-24,mlb,prop,Tyler Stephenson,hits,UNDER,0.5,sleeper,1.9,0.024,win,0.106
-2026-06-24,mlb,prop,Tyler Stephenson,total bases,UNDER,0.5,sleeper,1.93,0.024,win,0.031
-2026-06-24,mlb,prop,José Tena,rbis,UNDER,0.5,sleeper,1.27,0.023,win,0.359
-2026-06-24,mlb,prop,Austin Wells,rbis,UNDER,0.5,sleeper,1.19,0.023,win,0.099
-2026-06-24,mlb,prop,Nick Gonzales,rbis,UNDER,0.5,sleeper,1.28,0.023,win,0.127
-2026-06-24,mlb,prop,Max Muncy,singles,UNDER,0.5,sleeper,1.61,0.022,win,0.029
-2026-06-24,mlb,prop,Jac Caglianone,rbis,UNDER,0.5,sleeper,1.33,0.022,win,0.111
-2026-06-24,mlb,prop,Andy Pages,singles,UNDER,0.5,sleeper,1.75,0.021,win,0.125
-2026-06-24,mlb,prop,Brandon Lowe,rbis,UNDER,0.5,sleeper,1.38,0.021,win,0.114
-2026-06-24,mlb,prop,Cam Smith,total bases,UNDER,0.5,sleeper,1.94,0.021,win,0.067
-2026-06-24,mlb,prop,Kevin McGonigle,rbis,UNDER,0.5,sleeper,1.22,0.020,win,0.133
-2026-06-24,mlb,prop,Paul Goldschmidt,batter walks,UNDER,0.5,sleeper,1.32,0.020,win,0.097
-2026-06-24,mlb,prop,Luke Raley,rbis,UNDER,0.5,sleeper,1.23,0.020,win,0.096
-2026-06-24,mlb,prop,Carson Benge,runs,UNDER,0.5,sleeper,1.58,0.020,win,0.086
-2026-06-24,mlb,prop,Zach McKinstry,batter walks,UNDER,0.5,sleeper,1.22,0.019,win,0.101
-2026-06-24,mlb,prop,Anthony Volpe,rbis,UNDER,0.5,sleeper,1.23,0.019,win,0.121
-2026-06-24,mlb,prop,José Caballero,batter walks,UNDER,0.5,sleeper,1.24,0.018,win,0.087
-2026-06-24,mlb,prop,Dillon Dingler,hits,UNDER,0.5,sleeper,2.44,0.627,win,0.167
-2026-06-24,mlb,prop,Junior Caminero,hits,UNDER,0.5,sleeper,2.66,0.609,win,0.105
-2026-06-24,mlb,prop,George Springer,hits,UNDER,0.5,sleeper,2.63,0.466,win,0.249
-2026-06-24,mlb,prop,Edmundo Sosa,hits,UNDER,0.5,sleeper,2.37,0.433,win,0.105
-2026-06-24,mlb,prop,Austin Wells,hits,UNDER,0.5,sleeper,1.85,0.382,win,0.268
-2026-06-24,mlb,prop,Ryan Vilade,hits,UNDER,0.5,sleeper,2.0,0.377,win,0.248
-2026-06-24,mlb,prop,Anthony Volpe,hits,UNDER,0.5,sleeper,2.07,0.368,win,0.161
-2026-06-24,mlb,prop,Jazz Chisholm,hits,UNDER,0.5,sleeper,1.99,0.364,win,0.286
-2026-06-24,mlb,prop,José Caballero,hits,UNDER,0.5,sleeper,1.93,0.350,win,0.269
-2026-06-24,mlb,prop,Yordan Alvarez,hits,UNDER,0.5,sleeper,2.52,0.348,win,0.207
-2026-06-24,mlb,prop,Jazz Chisholm,hits+runs+rbis,UNDER,0.5,sleeper,2.2,0.344,win,0.111
-2026-06-24,mlb,prop,Jackson Chourio,hits,OVER,1.5,sleeper,2.35,0.341,win,0.217
-2026-06-24,mlb,prop,J.T. Realmuto,hits,UNDER,0.5,sleeper,2.57,0.340,win,0.224
-2026-06-24,mlb,prop,Randy Arozarena,hits,UNDER,0.5,sleeper,2.37,0.340,win,0.065
-2026-06-24,mlb,prop,Dylan Crews,hits,UNDER,0.5,sleeper,2.41,0.334,win,0.210
-2026-06-24,mlb,prop,Randy Arozarena,total bases,UNDER,0.5,sleeper,2.35,0.333,win,0.067
-2026-06-24,mlb,prop,Alex Bregman,hits,UNDER,0.5,sleeper,2.38,0.318,win,0.054
-2026-06-24,mlb,prop,Ryan Vilade,total bases,UNDER,0.5,sleeper,2.06,0.316,win,0.198
-2026-06-24,mlb,prop,Jac Caglianone,hits,UNDER,0.5,sleeper,2.18,0.315,win,0.195
-2026-06-24,mlb,prop,Dillon Dingler,singles,UNDER,0.5,sleeper,1.69,0.314,win,0.299
-2026-06-24,mlb,prop,Dominic Canzone,hits,UNDER,0.5,sleeper,2.09,0.313,win,0.263
-2026-06-24,mlb,prop,Salvador Perez,hits,UNDER,0.5,sleeper,2.2,0.313,win,0.097
-2026-06-24,mlb,prop,Jac Caglianone,total bases,UNDER,0.5,sleeper,2.27,0.304,win,0.074
-2026-06-24,mlb,prop,Luke Raley,hits+runs+rbis,UNDER,0.5,sleeper,2.03,0.302,win,0.142
-2026-06-24,mlb,prop,Nick Loftin,total bases,UNDER,0.5,sleeper,2.16,0.296,win,0.176
-2026-06-24,mlb,prop,Jake Rogers,hits+runs+rbis,UNDER,0.5,sleeper,1.96,0.296,win,0.228
-2026-06-24,mlb,prop,James Wood,hits,UNDER,0.5,sleeper,2.49,0.293,win,0.158
-2026-06-24,mlb,prop,Nick Loftin,hits,UNDER,0.5,sleeper,2.12,0.292,win,0.186
-2026-06-24,mlb,prop,Junior Caminero,singles,UNDER,0.5,sleeper,1.78,0.291,win,0.235
-2026-06-24,mlb,prop,Nathan Lukes,singles,UNDER,0.5,sleeper,1.81,0.285,win,0.205
-2026-06-24,mlb,prop,Spencer Horwitz,hits,UNDER,0.5,sleeper,2.47,0.271,win,0.015
-2026-06-24,mlb,prop,Cody Bellinger,singles,UNDER,0.5,sleeper,1.81,0.262,win,0.238
-2026-06-24,mlb,prop,Jake Rogers,hits,UNDER,0.5,sleeper,1.74,0.258,win,0.233
-2026-06-24,mlb,prop,Seiya Suzuki,hits,UNDER,0.5,sleeper,2.26,0.256,win,0.056
-2026-06-24,mlb,prop,Edmundo Sosa,singles,UNDER,0.5,sleeper,1.78,0.255,win,0.311
-2026-06-24,mlb,prop,Luke Raley,hits,UNDER,0.5,sleeper,1.81,0.255,win,0.193
-2026-06-24,mlb,prop,Jake Rogers,total bases,UNDER,0.5,sleeper,1.74,0.250,win,0.209
-2026-06-24,mlb,prop,Ben Williamson,hits,UNDER,0.5,sleeper,2.23,0.243,win,0.058
-2026-06-24,mlb,prop,George Springer,runs,UNDER,0.5,sleeper,1.78,0.242,win,0.195
-2026-06-24,mlb,prop,Christian Yelich,hits,UNDER,0.5,sleeper,2.73,0.241,win,0.150
-2026-06-24,mlb,prop,Randy Arozarena,singles,UNDER,0.5,sleeper,1.81,0.237,win,0.243
-2026-06-24,mlb,prop,George Springer,singles,UNDER,0.5,sleeper,1.78,0.236,win,0.189
-2026-06-24,mlb,prop,Kevin McGonigle,runs,UNDER,0.5,sleeper,1.56,0.231,win,0.277
-2026-06-24,mlb,prop,Dillon Dingler,runs,UNDER,0.5,sleeper,1.54,0.230,win,0.264
-2026-06-24,mlb,prop,Alec Bohm,singles,UNDER,0.5,sleeper,2.18,0.228,win,0.141
-2026-06-24,mlb,prop,James Wood,runs,UNDER,0.5,sleeper,1.95,0.225,win,0.180
-2026-06-24,mlb,prop,J.T. Realmuto,singles,UNDER,0.5,sleeper,1.9,0.224,win,0.183
-2026-06-24,mlb,prop,Luis García,singles,UNDER,0.5,sleeper,1.78,0.220,win,0.186
-2026-06-24,mlb,prop,Jared Triolo,hits,UNDER,0.5,sleeper,1.93,0.215,win,0.130
-2026-06-24,mlb,prop,Paul Goldschmidt,singles,UNDER,0.5,sleeper,1.78,0.211,win,0.202
-2026-06-24,mlb,prop,Austin Wells,singles,UNDER,0.5,sleeper,1.47,0.205,win,0.214
-2026-06-24,mlb,prop,Ben Williamson,total bases,UNDER,0.5,sleeper,2.2,0.205,win,0.169
-2026-06-24,mlb,prop,Jazz Chisholm,singles,UNDER,0.5,sleeper,1.56,0.198,win,0.220
-2026-06-24,mlb,prop,Bryson Stott,singles,UNDER,0.5,sleeper,1.89,0.198,win,0.179
-2026-06-24,mlb,prop,Riley Greene,runs,UNDER,0.5,sleeper,1.44,0.197,win,0.253
-2026-06-24,mlb,prop,Yordan Alvarez,runs,UNDER,0.5,sleeper,1.78,0.196,win,0.172
-2026-06-24,mlb,prop,Dylan Crews,singles,UNDER,0.5,sleeper,1.77,0.193,win,0.169
-2026-06-24,mlb,prop,Anthony Volpe,singles,UNDER,0.5,sleeper,1.58,0.189,win,0.240
-2026-06-24,mlb,prop,Jonathan Aranda,runs,UNDER,0.5,sleeper,1.5,0.188,win,0.280
-2026-06-24,mlb,prop,Christian Yelich,runs,UNDER,0.5,sleeper,1.94,0.188,win,0.112
-2026-06-24,mlb,prop,José Caballero,singles,UNDER,0.5,sleeper,1.54,0.187,win,0.223
-2026-06-24,mlb,prop,Ryan Vilade,singles,UNDER,0.5,sleeper,1.52,0.184,win,0.180
-2026-06-24,mlb,prop,José Tena,singles,UNDER,0.5,sleeper,1.68,0.181,win,0.257
-2026-06-24,mlb,prop,Eugenio Suárez,hits+runs+rbis,OVER,1.5,sleeper,2.07,0.178,win,0.069
-2026-06-24,mlb,prop,Junior Caminero,rbis,UNDER,0.5,sleeper,1.5,0.175,win,0.236
-2026-06-24,mlb,prop,Alex Bregman,singles,UNDER,0.5,sleeper,1.76,0.175,win,0.189
-2026-06-24,mlb,prop,Max Schuemann,hits+runs+rbis,UNDER,0.5,sleeper,2.03,0.173,win,0.078
-2026-06-24,mlb,prop,Dominic Canzone,total bases,UNDER,0.5,sleeper,2.14,0.172,win,-0.060
-2026-06-24,mlb,prop,Bryce Harper,singles,UNDER,0.5,sleeper,1.87,0.170,win,0.158
-2026-06-24,mlb,prop,Matt Vierling,runs,UNDER,0.5,sleeper,1.4,0.169,win,0.237
-2026-06-24,mlb,prop,CJ Abrams,singles,UNDER,0.5,sleeper,1.71,0.169,win,0.181
-2026-06-24,mlb,prop,Brice Turang,batter walks,UNDER,0.5,sleeper,1.78,0.164,win,0.154
-2026-06-24,mlb,prop,Andrés Giménez,hits,UNDER,0.5,sleeper,2.05,0.163,win,0.129
-2026-06-24,mlb,prop,Edmundo Sosa,runs,UNDER,0.5,sleeper,1.5,0.161,win,0.227
-2026-06-24,mlb,prop,CJ Abrams,runs,UNDER,0.5,sleeper,1.64,0.160,win,0.168
-2026-06-24,mlb,prop,Brice Turang,singles,UNDER,0.5,sleeper,1.88,0.160,win,0.122
-2026-06-24,mlb,prop,Cole Young,singles,UNDER,0.5,sleeper,1.59,0.157,win,0.193
-2026-06-24,mlb,prop,Nick Loftin,singles,UNDER,0.5,sleeper,1.67,0.156,win,0.157
-2026-06-24,mlb,prop,Ben Williamson,singles,UNDER,0.5,sleeper,1.78,0.149,win,0.155
-2026-06-24,mlb,prop,Trea Turner,runs,UNDER,0.5,sleeper,1.81,0.147,win,0.134
-2026-06-24,mlb,prop,Andrés Giménez,total bases,UNDER,0.5,sleeper,2.04,0.145,win,0.138
-2026-06-24,mlb,prop,Ryan Vilade,runs,UNDER,0.5,sleeper,1.4,0.144,win,0.186
-2026-06-24,mlb,prop,Spencer Horwitz,runs,UNDER,0.5,sleeper,1.64,0.142,win,0.172
-2026-06-24,mlb,prop,James Wood,batter walks,UNDER,0.5,sleeper,1.78,0.140,win,0.169
-2026-06-24,mlb,prop,Max Schuemann,hits,UNDER,0.5,sleeper,1.82,0.138,win,0.185
-2026-06-24,mlb,prop,Salvador Perez,singles,UNDER,0.5,sleeper,1.59,0.138,win,0.204
-2026-06-24,mlb,prop,Jared Triolo,total bases,UNDER,0.5,sleeper,1.92,0.136,win,0.198
-2026-06-24,mlb,prop,Jared Triolo,singles,UNDER,0.5,sleeper,1.58,0.136,win,0.229
-2026-06-24,mlb,prop,Daylen Lile,runs,UNDER,0.5,sleeper,1.53,0.136,win,0.189
-2026-06-24,mlb,prop,Mark Vientos,hits,UNDER,0.5,sleeper,2.43,0.136,win,-0.033
-2026-06-24,mlb,prop,Dominic Canzone,singles,UNDER,0.5,sleeper,1.51,0.129,win,0.301
-2026-06-24,mlb,prop,Spencer Horwitz,singles,UNDER,0.5,sleeper,1.75,0.127,win,0.154
-2026-06-24,mlb,prop,Riley Greene,batter walks,UNDER,0.5,sleeper,1.36,0.127,win,0.190
-2026-06-24,mlb,prop,Christian Yelich,singles,UNDER,0.5,sleeper,1.93,0.126,win,0.152
-2026-06-24,mlb,prop,Jonathan Aranda,batter walks,UNDER,0.5,sleeper,1.46,0.125,win,0.221
-2026-06-24,mlb,prop,Jac Caglianone,singles,UNDER,0.5,sleeper,1.51,0.121,win,0.144
-2026-06-24,mlb,prop,Seiya Suzuki,runs,UNDER,0.5,sleeper,1.62,0.120,win,0.168
-2026-06-24,mlb,prop,Nick Loftin,runs,UNDER,0.5,sleeper,1.42,0.120,win,0.118
-2026-06-24,mlb,prop,Vladimir Guerrero,hits+runs+rbis,UNDER,1.5,sleeper,2.0,0.119,win,0.059
-2026-06-24,mlb,prop,Bryce Harper,runs,UNDER,0.5,sleeper,1.78,0.118,win,0.128
-2026-06-24,mlb,prop,Randy Arozarena,runs,UNDER,0.5,sleeper,1.49,0.116,win,0.160
-2026-06-24,mlb,prop,Matt Vierling,hits+runs+rbis,UNDER,1.5,sleeper,1.69,0.115,win,0.160
-2026-06-24,mlb,prop,J.T. Realmuto,runs,UNDER,0.5,sleeper,1.58,0.114,win,0.147
-2026-06-24,mlb,prop,Ben Rice,rbis,UNDER,0.5,sleeper,1.28,0.018,win,0.087
-2026-06-24,mlb,prop,Luke Raley,batter walks,UNDER,0.5,sleeper,1.2,0.017,win,0.074
-2026-06-24,mlb,prop,Justin Crawford,rbis,UNDER,0.5,sleeper,1.25,0.017,win,0.314
-2026-06-24,mlb,prop,Cole Young,rbis,UNDER,0.5,sleeper,1.23,0.017,win,0.138
-2026-06-24,mlb,prop,Dansby Swanson,singles,UNDER,0.5,sleeper,1.54,0.016,win,0.091
-2026-06-24,mlb,prop,Ben Williamson,rbis,UNDER,0.5,sleeper,1.21,0.016,win,0.123
-2026-06-24,mlb,prop,Trea Turner,rbis,UNDER,0.5,sleeper,1.37,0.028,win,0.092
-2026-06-24,mlb,prop,Byron Buxton,runs,UNDER,0.5,sleeper,1.6,0.016,win,0.076
-2026-06-24,mlb,prop,Jake Rogers,rbis,UNDER,0.5,sleeper,1.19,0.016,win,0.129
-2026-06-24,mlb,prop,Taylor Walls,rbis,UNDER,0.5,sleeper,1.22,0.016,win,0.099
-2026-06-24,mlb,prop,Michael Massey,rbis,UNDER,0.5,sleeper,1.22,0.016,win,0.125
-2026-06-24,mlb,prop,Brandon Marsh,rbis,UNDER,0.5,sleeper,1.42,0.015,win,0.127
-2026-06-24,mlb,prop,Anthony Volpe,batter walks,UNDER,0.5,sleeper,1.25,0.014,win,0.100
-2026-06-24,mlb,prop,Yordan Alvarez,home runs,UNDER,0.5,sleeper,1.2,0.014,win,0.102
-2026-06-24,mlb,prop,Brice Turang,rbis,UNDER,0.5,sleeper,1.4,0.013,win,0.107
-2026-06-24,mlb,prop,Max Muncy,runs,OVER,0.5,sleeper,2.35,0.013,win,-0.057
-2026-06-24,mlb,prop,Trevor Larnach,singles,UNDER,0.5,sleeper,1.56,0.013,win,0.114
-2026-06-24,mlb,prop,Daulton Varsho,rbis,UNDER,0.5,sleeper,1.36,0.012,win,0.107
-2026-06-24,mlb,prop,Daylen Lile,doubles,UNDER,0.5,sleeper,1.16,0.012,win,0.111
-2026-06-24,mlb,prop,Andy Pages,runs,UNDER,0.5,sleeper,1.61,0.011,win,0.104
-2026-06-24,mlb,prop,Chandler Simpson,rbis,UNDER,0.5,sleeper,1.24,0.011,win,0.128
-2026-06-24,mlb,prop,David Hamilton,hits,UNDER,0.5,sleeper,1.86,0.011,win,0.043
-2026-06-24,mlb,prop,Bryce Harper,rbis,UNDER,0.5,sleeper,1.51,0.010,win,0.074
-2026-06-24,mlb,prop,José Tena,batter walks,UNDER,0.5,sleeper,1.23,0.010,win,0.101
-2026-06-24,mlb,prop,Sal Frelick,singles,UNDER,0.5,sleeper,1.88,0.010,win,0.044
-2026-06-24,mlb,prop,Ben Rice,batter walks,UNDER,0.5,sleeper,1.29,0.010,win,0.072
-2026-06-24,mlb,prop,George Springer,doubles,UNDER,0.5,sleeper,1.15,0.009,win,0.097
-2026-06-24,mlb,prop,Carter Jensen,rbis,UNDER,0.5,sleeper,1.25,0.005,win,0.088
-2026-06-24,mlb,prop,Trevor Larnach,runs,UNDER,0.5,sleeper,1.45,0.005,win,0.087
-2026-06-24,mlb,prop,Salvador Perez,batter walks,UNDER,0.5,sleeper,1.18,0.005,win,0.132
-2026-06-24,mlb,prop,Dane Myers,hits,UNDER,0.5,sleeper,2.22,0.005,win,0.103
-2026-06-24,mlb,prop,Brandon Lowe,batter walks,UNDER,0.5,sleeper,1.27,0.004,win,0.079
-2026-06-24,mlb,prop,Jazz Chisholm,rbis,UNDER,0.5,sleeper,1.2,0.004,win,0.141
-2026-06-24,mlb,prop,Brandon Marsh,batter walks,UNDER,0.5,sleeper,1.23,0.003,win,0.063
-2026-06-24,mlb,prop,Marcus Semien,singles,UNDER,0.5,sleeper,1.54,0.003,win,0.092
-2026-06-24,mlb,prop,James Wood,home runs,UNDER,0.5,sleeper,1.19,0.003,win,0.053
-2026-06-24,mlb,prop,José Caballero,rbis,UNDER,0.5,sleeper,1.19,0.003,win,0.102
-2026-06-24,mlb,prop,Brett Baty,total bases,UNDER,0.5,sleeper,1.78,0.003,win,0.071
-2026-06-24,mlb,prop,Trea Turner,batter walks,UNDER,0.5,sleeper,1.24,0.002,win,0.049
-2026-06-24,mlb,prop,Jared Triolo,runs,UNDER,0.5,sleeper,1.3,0.002,win,0.127
-2026-06-24,mlb,prop,Matt McLain,hits,UNDER,0.5,sleeper,1.85,0.001,win,0.041
-2026-06-24,mlb,prop,Bryson Stott,batter walks,UNDER,0.5,sleeper,1.23,0.001,win,0.094
-2026-06-24,mlb,prop,Dominic Canzone,rbis,UNDER,0.5,sleeper,1.29,0.029,win,0.298
-2026-06-24,mlb,prop,Nick Loftin,batter walks,UNDER,0.5,sleeper,1.29,0.029,win,0.055
-2026-06-24,mlb,prop,Amed Rosario,runs,UNDER,0.5,sleeper,1.64,0.009,void,0.017
-2026-06-24,mlb,prop,Luis Torrens,batter walks,OVER,0.5,sleeper,3.28,0.219,loss,0.155
-2026-06-24,mlb,prop,Jeremy Peña,hits+runs+rbis,UNDER,1.5,sleeper,2.03,0.035,loss,0.010
-2026-06-24,mlb,prop,Ian Happ,batter walks,UNDER,0.5,sleeper,1.7,0.031,loss,0.034
-2026-06-24,mlb,prop,Mark Vientos,batter walks,UNDER,0.5,sleeper,1.23,0.023,loss,0.044
-2026-06-24,mlb,prop,Cedric Mullins,hits,UNDER,0.5,sleeper,2.29,0.013,loss,-0.356
-2026-06-24,mlb,prop,Jake Meyers,batter walks,OVER,0.5,sleeper,3.38,0.012,loss,0.019
-2026-06-24,mlb,prop,Gabriel Moreno,hits,OVER,1.5,sleeper,2.58,0.509,loss,0.257
-2026-06-24,mlb,prop,Cody Bellinger,hits,UNDER,0.5,sleeper,2.43,0.470,loss,0.105
-2026-06-24,mlb,prop,Daylen Lile,hits,UNDER,0.5,sleeper,2.57,0.386,loss,-0.166
-2026-06-24,mlb,prop,José Tena,total bases,UNDER,0.5,sleeper,2.26,0.363,loss,0.103
-2026-06-24,mlb,prop,Ben Rice,hits,UNDER,0.5,sleeper,2.26,0.349,loss,0.097
-2026-06-24,mlb,prop,Kevin McGonigle,singles,UNDER,0.5,sleeper,1.76,0.333,loss,0.267
-2026-06-24,mlb,prop,Nick Gonzales,hits,UNDER,0.5,sleeper,2.46,0.316,loss,0.035
-2026-06-24,mlb,prop,Jeremy Peña,hits,UNDER,0.5,sleeper,2.34,0.314,loss,0.225
-2026-06-24,mlb,prop,Brandon Lowe,hits,UNDER,0.5,sleeper,2.43,0.310,loss,0.039
-2026-06-24,mlb,prop,Geraldo Perdomo,total bases,OVER,1.5,sleeper,2.16,0.306,loss,0.105
-2026-06-24,mlb,prop,Kevin McGonigle,hits,UNDER,0.5,sleeper,2.4,0.289,loss,0.037
-2026-06-24,mlb,prop,Max Muncy,batter walks,OVER,0.5,sleeper,3.05,0.282,loss,-0.007
-2026-06-24,mlb,prop,Riley Greene,singles,UNDER,0.5,sleeper,1.55,0.280,loss,0.266
-2026-06-24,mlb,prop,Brice Turang,hits,UNDER,0.5,sleeper,2.59,0.245,loss,0.171
-2026-06-24,mlb,prop,Nick Gonzales,singles,UNDER,0.5,sleeper,1.96,0.239,loss,0.224
-2026-06-24,mlb,prop,Pete Crow-Armstrong,hits,UNDER,0.5,sleeper,2.43,0.239,loss,0.010
-2026-06-24,mlb,prop,Chandler Simpson,hits,UNDER,0.5,sleeper,2.36,0.236,loss,0.024
-2026-06-24,mlb,prop,Blake Dunn,total bases,UNDER,0.5,sleeper,2.26,0.223,loss,0.041
-2026-06-24,mlb,prop,Josh Naylor,singles,UNDER,0.5,sleeper,1.83,0.203,loss,0.199
-2026-06-24,mlb,prop,Blake Dunn,hits,UNDER,0.5,sleeper,2.22,0.202,loss,0.125
-2026-06-24,mlb,prop,Ben Rice,singles,UNDER,0.5,sleeper,1.69,0.200,loss,0.220
-2026-06-24,mlb,prop,Chandler Simpson,singles,UNDER,0.5,sleeper,2.0,0.200,loss,0.206
-2026-06-24,mlb,prop,Trea Turner,singles,UNDER,0.5,sleeper,2.18,0.194,loss,0.048
-2026-06-24,mlb,prop,Daylen Lile,singles,UNDER,0.5,sleeper,1.78,0.187,loss,0.169
-2026-06-24,mlb,prop,Jeremy Peña,singles,UNDER,0.5,sleeper,1.75,0.157,loss,0.166
-2026-06-24,mlb,prop,Ryan O'Hearn,singles,UNDER,0.5,sleeper,1.67,0.156,loss,0.214
-2026-06-24,mlb,prop,Brice Turang,runs,UNDER,0.5,sleeper,1.78,0.147,loss,0.144
-2026-06-24,mlb,prop,José Tena,hits,UNDER,0.5,sleeper,1.9,0.146,loss,0.151
-2026-06-24,mlb,prop,Endy Rodríguez,singles,UNDER,0.5,sleeper,1.58,0.146,loss,0.279
-2026-06-24,mlb,prop,Brandon Lowe,runs,UNDER,0.5,sleeper,1.66,0.138,loss,0.195
-2026-06-24,mlb,prop,Daulton Varsho,hits,UNDER,0.5,sleeper,2.23,0.137,loss,0.125
-2026-06-24,mlb,prop,Pete Crow-Armstrong,singles,UNDER,0.5,sleeper,1.69,0.130,loss,0.157
-2026-06-24,mlb,prop,José Tena,hits+runs+rbis,UNDER,0.5,sleeper,2.11,0.129,loss,0.035
-2026-06-24,mlb,prop,Dylan Crews,runs,UNDER,0.5,sleeper,1.49,0.122,loss,0.139
-2026-06-24,mlb,prop,Carson Benge,hits,UNDER,0.5,sleeper,2.44,0.119,loss,-0.041
-2026-06-24,mlb,prop,Chandler Simpson,total bases,UNDER,0.5,sleeper,2.19,0.116,loss,0.010
-2026-06-24,mlb,prop,Jac Caglianone,runs,UNDER,0.5,sleeper,1.5,0.115,loss,0.137
-2026-06-24,mlb,prop,Blake Dunn,singles,UNDER,0.5,sleeper,1.72,0.106,loss,0.119
-2026-06-24,mlb,prop,Dansby Swanson,total bases,UNDER,0.5,sleeper,2.05,0.105,loss,0.131
-2026-06-24,mlb,prop,Ben Rice,runs,UNDER,0.5,sleeper,1.47,0.104,loss,0.182
-2026-06-24,mlb,prop,Carter Jensen,runs,UNDER,0.5,sleeper,1.49,0.100,loss,0.169
-2026-06-24,mlb,prop,Joe Ryan,hits allowed,UNDER,4.5,sleeper,2.07,0.098,loss,0.103
-2026-06-24,mlb,prop,Pete Crow-Armstrong,runs,UNDER,0.5,sleeper,1.62,0.097,loss,0.165
-2026-06-24,mlb,prop,Bo Bichette,singles,UNDER,0.5,sleeper,2.06,0.093,loss,0.122
-2026-06-24,mlb,prop,Brice Matthews,hits+runs+rbis,UNDER,0.5,sleeper,1.99,0.085,loss,0.045
-2026-06-24,mlb,prop,Tyler Tolbert,hits,UNDER,0.5,sleeper,1.84,0.083,loss,0.079
-2026-06-24,mlb,prop,Garrett Mitchell,hits+runs+rbis,OVER,1.5,sleeper,1.85,0.082,loss,0.109
-2026-06-24,mlb,prop,Dansby Swanson,hits,UNDER,0.5,sleeper,2.06,0.079,loss,0.116
-2026-06-24,mlb,prop,Bryan Reynolds,runs,UNDER,0.5,sleeper,1.53,0.079,loss,0.146
-2026-06-24,mlb,prop,Shohei Ohtani,runs,UNDER,0.5,sleeper,2.02,0.072,loss,0.131
-2026-06-24,mlb,prop,Brandon Lowe,singles,UNDER,0.5,sleeper,1.56,0.069,loss,0.162
-2026-06-24,mlb,prop,Tyler Tolbert,hits+runs+rbis,UNDER,0.5,sleeper,2.01,0.066,loss,0.031
-2026-06-24,mlb,prop,Jake Bauers,batter walks,UNDER,0.5,sleeper,1.73,0.052,loss,0.108
-2026-06-24,mlb,prop,Ketel Marte,runs,UNDER,0.5,sleeper,1.9,0.048,loss,0.052
-2026-06-24,mlb,prop,Shohei Ohtani,total bases,UNDER,1.5,sleeper,1.86,0.048,loss,0.063
-2026-06-24,mlb,prop,Sal Frelick,hits,UNDER,0.5,sleeper,2.35,0.044,loss,0.082
-2026-06-24,mlb,prop,Bo Bichette,runs,UNDER,0.5,sleeper,1.56,0.038,loss,0.106
-2026-06-24,mlb,prop,Ketel Marte,total bases,UNDER,1.5,sleeper,1.84,0.037,loss,0.063
-2026-06-24,mlb,prop,Carson Benge,singles,UNDER,0.5,sleeper,1.78,0.035,loss,0.114
-2026-06-24,mlb,prop,Sal Stewart,hits+runs+rbis,UNDER,1.5,sleeper,1.82,0.025,loss,0.063
-2026-06-24,mlb,prop,Carter Jensen,batter walks,UNDER,0.5,sleeper,1.31,0.025,loss,0.138
-2026-06-24,mlb,prop,Jake Rogers,batter walks,UNDER,0.5,sleeper,1.21,0.025,loss,0.400
-2026-06-24,mlb,prop,Sal Stewart,runs,UNDER,0.5,sleeper,1.61,0.020,loss,0.057
-2026-06-24,mlb,prop,Dansby Swanson,runs,UNDER,0.5,sleeper,1.46,0.020,loss,0.100
-2026-06-24,mlb,prop,Ketel Marte,singles,UNDER,0.5,sleeper,2.02,0.020,loss,0.105
-2026-06-24,mlb,prop,Bryan Reynolds,rbis,UNDER,0.5,sleeper,1.33,0.019,loss,0.099
-2026-06-24,mlb,prop,Carter Jensen,runs,UNDER,0.5,espnbet,1.625,0.200,loss,0.169
-2026-06-24,mlb,prop,Nolan Arenado,batter walks,OVER,0.5,draftkings,4.4,0.199,loss,-0.068
-2026-06-24,mlb,prop,Jac Caglianone,runs,UNDER,0.5,espnbet,1.606060606060606,0.194,loss,0.137
-2026-06-24,mlb,prop,JJ Wetherholt,total bases,OVER,1.5,draftkings,2.7,0.184,loss,-0.061
-2026-06-24,mlb,prop,Michael Massey,rbis,OVER,0.5,espnbet,7.0,0.173,loss,-0.125
-2026-06-24,mlb,prop,Dylan Crews,runs,UNDER,0.5,espnbet,1.5555555555555556,0.171,loss,0.139
-2026-06-24,mlb,prop,Shohei Ohtani,runs,UNDER,0.5,espnbet,2.2,0.167,loss,0.131
-2026-06-24,mlb,prop,JJ Wetherholt,runs,OVER,0.5,draftkings,2.45,0.150,loss,-0.031
-2026-06-24,mlb,prop,Jazz Chisholm,rbis,OVER,0.5,betmgm,7.0,0.146,loss,-0.141
-2026-06-24,mlb,prop,Freddie Freeman,hits,UNDER,0.5,caesars,2.81,0.142,loss,-0.093
-2026-06-24,mlb,prop,Ben Rice,rbis,OVER,0.5,espnbet,5.5,0.127,loss,-0.087
-2026-06-24,mlb,prop,JJ Wetherholt,singles,OVER,0.5,draftkings,2.05,0.122,loss,0.048
-2026-06-24,mlb,prop,Sal Frelick,hits,UNDER,0.5,caesars,2.51,0.116,loss,0.082
-2026-06-24,mlb,prop,Dominic Canzone,rbis,OVER,0.5,espnbet,5.5,0.113,loss,-0.298
-2026-06-24,mlb,prop,Jordan Walker,batter walks,OVER,0.5,draftkings,3.9,0.111,loss,0.005
-2026-06-24,mlb,prop,Ryan O'Hearn,rbis,UNDER,0.5,espnbet,1.4166666666666667,0.107,loss,0.128
-2026-06-24,mlb,prop,Ketel Marte,runs,UNDER,0.5,espnbet,2.0,0.103,loss,0.052
-2026-06-24,mlb,prop,Jeremy Peña,rbis,UNDER,0.5,espnbet,1.4,0.094,loss,0.052
-2026-06-24,mlb,prop,Mike Burrows,pitcher strikeouts,OVER,3.5,betmgm,1.9523809523809523,0.092,loss,0.052
-2026-06-24,mlb,prop,Sal Stewart,runs,UNDER,0.5,espnbet,1.7142857142857144,0.086,loss,0.057
-2026-06-24,mlb,prop,Dane Myers,rbis,OVER,0.5,draftkings,4.25,0.076,loss,-0.039
-2026-06-24,mlb,prop,Randy Arozarena,rbis,OVER,0.5,espnbet,5.5,0.074,loss,-0.123
-2026-06-24,mlb,prop,JJ Wetherholt,hits+runs+rbis,OVER,1.5,draftkings,2.0,0.074,loss,0.037
-2026-06-24,mlb,prop,Isaac Collins,rbis,OVER,0.5,espnbet,7.0,0.069,loss,-0.106
-2026-06-24,mlb,prop,Jase Bowen,rbis,OVER,0.5,betmgm,4.33,0.064,loss,-0.010
-2026-06-24,mlb,prop,Yordan Alvarez,rbis,OVER,0.5,espnbet,4.0,0.064,loss,-0.086
-2026-06-24,mlb,prop,J.T. Realmuto,runs,OVER,0.5,espnbet,3.6,0.062,loss,-0.147
-2026-06-24,mlb,prop,Nolan Arenado,runs,UNDER,0.5,espnbet,1.606060606060606,0.062,loss,0.050
-2026-06-24,mlb,prop,Corbin Carroll,singles,UNDER,0.5,espnbet,1.9090909090909092,0.061,loss,0.056
-2026-06-24,mlb,prop,Ketel Marte,singles,UNDER,0.5,espnbet,2.1,0.060,loss,0.105
-2026-06-24,mlb,prop,Nolan Arenado,singles,OVER,0.5,draftkings,2.3,0.060,loss,-0.039
-2026-06-24,mlb,prop,Bryce Harper,rbis,OVER,0.5,espnbet,3.2,0.060,loss,-0.074
-2026-06-24,mlb,prop,Ketel Marte,doubles,OVER,0.5,espnbet,5.25,0.056,loss,-0.058
-2026-06-24,mlb,prop,Geraldo Perdomo,rbis,OVER,0.5,draftkings,3.4,0.056,loss,-0.004
-2026-06-24,mlb,prop,Masyn Winn,runs,OVER,0.5,espnbet,2.7,0.055,loss,-0.086
-2026-06-24,mlb,prop,Trea Turner,rbis,OVER,0.5,espnbet,4.2,0.050,loss,-0.092
-2026-06-24,mlb,prop,Jeff McNeil,rbis,OVER,0.5,draftkings,3.85,0.049,loss,-0.002
-2026-06-24,mlb,prop,Nelson Velázquez,runs,OVER,0.5,espnbet,2.5,0.046,loss,-0.082
-2026-06-24,mlb,prop,Dane Myers,hits,OVER,0.5,draftkings,1.9090909090909092,0.045,loss,-0.103
-2026-06-24,mlb,prop,Nelson Velázquez,singles,OVER,0.5,draftkings,2.35,0.044,loss,-0.008
-2026-06-24,mlb,prop,Miguel Andujar,rbis,OVER,0.5,draftkings,3.39,0.043,loss,0.006
-2026-06-24,mlb,prop,Bryce Harper,runs,OVER,0.5,espnbet,2.8,0.041,loss,-0.128
-2026-06-24,mlb,prop,Freddie Freeman,runs,UNDER,0.5,espnbet,1.7142857142857144,0.039,loss,0.082
-2026-06-24,mlb,prop,Lawrence Butler,rbis,OVER,0.5,draftkings,3.51,0.038,loss,0.000
-2026-06-24,mlb,prop,Kazuma Okamoto,rbis,OVER,0.5,espnbet,3.8,0.038,loss,-0.068
-2026-06-24,mlb,prop,Sal Stewart,rbis,UNDER,0.5,espnbet,1.526315789473684,0.037,loss,0.064
-2026-06-24,mlb,prop,Jorge Mateo,rbis,OVER,0.5,draftkings,3.43,0.036,loss,-0.251
-2026-06-24,mlb,prop,Jase Bowen,singles,OVER,0.5,betmgm,2.8,0.033,loss,-0.043
-2026-06-24,mlb,prop,Blake Dunn,runs,OVER,0.5,espnbet,3.6,0.032,loss,-0.067
-2026-06-24,mlb,prop,Anthony Volpe,rbis,OVER,0.5,espnbet,6.0,0.029,loss,-0.121
-2026-06-24,mlb,prop,J.P. Crawford,rbis,OVER,0.5,espnbet,5.75,0.029,loss,-0.081
-2026-06-24,mlb,prop,Masyn Winn,rbis,OVER,0.5,betmgm,3.3,0.028,loss,-0.012
-2026-06-24,mlb,prop,Salvador Perez,rbis,OVER,0.5,espnbet,4.8,0.028,loss,-0.155
-2026-06-24,mlb,prop,Dylan Crews,hits,OVER,0.5,betmgm,2.3,0.027,loss,-0.210
-2026-06-24,mlb,prop,Nolan Arenado,rbis,OVER,0.5,draftkings,3.1,0.026,loss,-0.017
-2026-06-24,mlb,prop,Trea Turner,runs,OVER,0.5,espnbet,2.8,0.026,loss,-0.134
-2026-06-24,mlb,prop,Jordan Walker,total bases,OVER,1.5,draftkings,2.15,0.024,loss,-0.024
-2026-06-24,mlb,prop,Gabriel Moreno,runs,UNDER,0.5,espnbet,1.6666666666666665,0.023,loss,0.138
-2026-06-24,mlb,prop,Daulton Varsho,rbis,OVER,0.5,espnbet,4.0,0.023,loss,-0.107
-2026-06-24,mlb,prop,CJ Abrams,rbis,OVER,0.5,betmgm,4.2,0.022,loss,-0.257
-2026-06-24,mlb,prop,Mauricio Dubón,rbis,OVER,0.5,draftkings,3.32,0.022,loss,0.015
-2026-06-24,mlb,prop,Jarren Duran,total bases,OVER,1.5,sleeper,2.28,0.233,loss,0.007
-2026-06-24,mlb,prop,Daylen Lile,total bases,UNDER,0.5,sleeper,2.27,0.243,loss,0.008
-2026-06-24,mlb,prop,Nick Gonzales,total bases,UNDER,0.5,sleeper,2.29,0.205,loss,0.026
-2026-06-24,mlb,prop,Daulton Varsho,total bases,UNDER,0.5,sleeper,2.18,0.122,loss,-0.076
-2026-06-24,mlb,prop,James Wood,hits+runs+rbis,OVER,1.5,sleeper,1.94,0.075,loss,0.007
-2026-06-24,mlb,prop,Daylen Lile,hits+runs+rbis,OVER,1.5,sleeper,2.02,0.030,loss,-0.023
-2026-06-24,mlb,prop,Jake Mangum,total bases,OVER,1.5,sleeper,2.34,0.013,loss,-0.067
-2026-06-24,mlb,prop,Cedric Mullins,hits+runs+rbis,UNDER,1.5,sleeper,1.78,0.013,loss,0.000
-2026-06-24,mlb,prop,Ryan O'Hearn,rbis,UNDER,0.5,sleeper,1.3,0.016,loss,0.128
-2026-06-24,mlb,prop,Freddie Freeman,singles,UNDER,0.5,sleeper,1.76,0.011,loss,0.126
-2026-06-24,mlb,prop,Daulton Varsho,singles,UNDER,0.5,sleeper,1.47,0.009,loss,0.098
-2026-06-24,mlb,prop,Jeremy Peña,rbis,UNDER,0.5,sleeper,1.29,0.008,loss,0.052
-2026-06-24,mlb,prop,Corbin Carroll,hits+runs+rbis,UNDER,1.5,sleeper,2.01,0.005,loss,0.000
-2026-06-24,mlb,prop,Sean Manaea,hits allowed,UNDER,4.5,sleeper,2.05,0.005,loss,-0.082
-2026-06-24,mlb,prop,Freddie Freeman,runs,UNDER,0.5,sleeper,1.65,0.000,loss,0.082
-2026-06-24,mlb,prop,Jacob deGrom,pitcher strikeouts,UNDER,6.5,sleeper,1.95,0.055,loss,0.038
-2026-06-24,mlb,prop,Joe Ryan,pitcher strikeouts,UNDER,5.5,sleeper,1.97,0.005,loss,-0.078
