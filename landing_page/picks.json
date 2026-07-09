@@ -1,7 +1,20 @@
 {
   "date": "2026-07-08",
-  "count": 21,
+  "count": 30,
   "picks": [
+    {
+      "rank": 1,
+      "sport": "MLB",
+      "selection": "Junior Caminero",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+177",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
     {
       "rank": 1,
       "sport": "MLB",
@@ -12,6 +25,19 @@
       "odds": "-111",
       "ev": 0.028,
       "ev_capped": false,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 2,
+      "sport": "MLB",
+      "selection": "Paul Goldschmidt",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+150",
+      "ev": 0.25,
+      "ev_capped": true,
       "tier": "proven",
       "tier_label": "Proven edge"
     },
@@ -31,6 +57,19 @@
     {
       "rank": 3,
       "sport": "MLB",
+      "selection": "Liam Hicks",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+165",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 3,
+      "sport": "MLB",
       "selection": "MIL",
       "market": "H2H",
       "side": "Away",
@@ -40,6 +79,19 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
+    },
+    {
+      "rank": 4,
+      "sport": "MLB",
+      "selection": "Jeff McNeil",
+      "market": "rbis 0.5",
+      "side": "Over",
+      "book": "Sleeper",
+      "odds": "+216",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 4,
@@ -68,6 +120,32 @@
       "tier_label": "Price value"
     },
     {
+      "rank": 5,
+      "sport": "MLB",
+      "selection": "Ben Rice",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+125",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 6,
+      "sport": "MLB",
+      "selection": "Jake Mangum",
+      "market": "singles 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+131",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
       "rank": 6,
       "sport": "MLB",
       "selection": "NYY@TB",
@@ -92,6 +170,32 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
+    },
+    {
+      "rank": 7,
+      "sport": "MLB",
+      "selection": "Zack Gelof",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+139",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 8,
+      "sport": "MLB",
+      "selection": "Mauricio Dub\u00f3n",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+151",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 8,
@@ -120,6 +224,19 @@
       "tier_label": "Price value"
     },
     {
+      "rank": 9,
+      "sport": "MLB",
+      "selection": "Alex Bregman",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+148",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
       "rank": 10,
       "sport": "MLB",
       "selection": "BOS@CWS",
@@ -131,6 +248,32 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
+    },
+    {
+      "rank": 10,
+      "sport": "MLB",
+      "selection": "Austin Riley",
+      "market": "total bases 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+129",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 11,
+      "sport": "MLB",
+      "selection": "Christian Yelich",
+      "market": "hits 1.5",
+      "side": "Over",
+      "book": "Sleeper",
+      "odds": "+157",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 11,
@@ -148,6 +291,19 @@
     {
       "rank": 12,
       "sport": "MLB",
+      "selection": "Austin Riley",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+121",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 12,
+      "sport": "MLB",
       "selection": "CLE",
       "market": "H2H",
       "side": "Away",
@@ -157,6 +313,19 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
+    },
+    {
+      "rank": 13,
+      "sport": "MLB",
+      "selection": "Matt Olson",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+149",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 13,
@@ -174,6 +343,19 @@
     {
       "rank": 14,
       "sport": "MLB",
+      "selection": "Liam Hicks",
+      "market": "singles 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+104",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 14,
+      "sport": "MLB",
       "selection": "TOR",
       "market": "H2H",
       "side": "Away",
@@ -187,90 +369,25 @@
     {
       "rank": 15,
       "sport": "MLB",
+      "selection": "Cedric Mullins",
+      "market": "total bases 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "-102",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 15,
+      "sport": "MLB",
       "selection": "CLE",
       "market": "H2H",
       "side": "Away",
       "book": "BetMGM",
       "odds": "+115",
       "ev": 0.052,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 16,
-      "sport": "MLB",
-      "selection": "ATL@PIT",
-      "market": "TOTAL 13.5",
-      "side": "Under",
-      "book": "BetMGM",
-      "odds": "+105",
-      "ev": 0.045,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 17,
-      "sport": "MLB",
-      "selection": "OAK",
-      "market": "H2H",
-      "side": "Away",
-      "book": "BetMGM",
-      "odds": "+135",
-      "ev": 0.044,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 18,
-      "sport": "MLB",
-      "selection": "STL",
-      "market": "H2H",
-      "side": "Home",
-      "book": "FanDuel",
-      "odds": "+120",
-      "ev": 0.042,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 19,
-      "sport": "MLB",
-      "selection": "HOU@WSH",
-      "market": "TOTAL 11.5",
-      "side": "Over",
-      "book": "BetMGM",
-      "odds": "+110",
-      "ev": 0.029,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 20,
-      "sport": "MLB",
-      "selection": "MIL@STL",
-      "market": "TOTAL 3.5",
-      "side": "Over",
-      "book": "FanDuel",
-      "odds": "+118",
-      "ev": 0.027,
-      "ev_capped": false,
-      "tier": "price",
-      "tier_label": "Price value"
-    },
-    {
-      "rank": 21,
-      "sport": "MLB",
-      "selection": "NYY",
-      "market": "H2H",
-      "side": "Away",
-      "book": "BetMGM",
-      "odds": "+105",
-      "ev": 0.02,
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
