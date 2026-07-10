@@ -5,6 +5,19 @@
     {
       "rank": 1,
       "sport": "MLB",
+      "selection": "Patrick Sandoval",
+      "market": "pitcher strikeouts 4.5",
+      "side": "Over",
+      "book": "Sleeper",
+      "odds": "+104",
+      "ev": 0.061,
+      "ev_capped": false,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 1,
+      "sport": "MLB",
       "selection": "J.P. Crawford",
       "market": "hits 0.5",
       "side": "Under",
@@ -16,15 +29,15 @@
       "tier_label": "Proven edge"
     },
     {
-      "rank": 1,
+      "rank": 2,
       "sport": "MLB",
-      "selection": "Patrick Sandoval",
-      "market": "pitcher strikeouts 4.5",
-      "side": "Over",
+      "selection": "Bryce Harper",
+      "market": "hits 0.5",
+      "side": "Under",
       "book": "Sleeper",
-      "odds": "+104",
-      "ev": 0.061,
-      "ev_capped": false,
+      "odds": "+176",
+      "ev": 0.25,
+      "ev_capped": true,
       "tier": "proven",
       "tier_label": "Proven edge"
     },
@@ -42,13 +55,13 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "sport": "MLB",
-      "selection": "Bryce Harper",
+      "selection": "Henry Bolte",
       "market": "hits 0.5",
       "side": "Under",
       "book": "Sleeper",
-      "odds": "+176",
+      "odds": "+129",
       "ev": 0.25,
       "ev_capped": true,
       "tier": "proven",
@@ -66,19 +79,6 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
-    },
-    {
-      "rank": 3,
-      "sport": "MLB",
-      "selection": "Henry Bolte",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "+129",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
     },
     {
       "rank": 4,
@@ -213,19 +213,6 @@
     {
       "rank": 9,
       "sport": "MLB",
-      "selection": "Alika Williams",
-      "market": "hits 0.5",
-      "side": "Under",
-      "book": "Sleeper",
-      "odds": "+101",
-      "ev": 0.25,
-      "ev_capped": true,
-      "tier": "proven",
-      "tier_label": "Proven edge"
-    },
-    {
-      "rank": 9,
-      "sport": "MLB",
       "selection": "KC@NYM",
       "market": "TOTAL 4.5",
       "side": "Under",
@@ -235,6 +222,19 @@
       "ev_capped": false,
       "tier": "price",
       "tier_label": "Price value"
+    },
+    {
+      "rank": 9,
+      "sport": "MLB",
+      "selection": "Alika Williams",
+      "market": "hits 0.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "+101",
+      "ev": 0.25,
+      "ev_capped": true,
+      "tier": "proven",
+      "tier_label": "Proven edge"
     },
     {
       "rank": 10,
