@@ -1,9 +1,35 @@
 {
   "date": "2026-07-10",
-  "count": 8,
+  "count": 10,
   "picks": [
     {
       "rank": 1,
+      "sport": "MLB",
+      "selection": "Grayson Rodriguez",
+      "market": "pitcher strikeouts 4.5",
+      "side": "Over",
+      "book": "Sleeper",
+      "odds": "+110",
+      "ev": 0.114,
+      "ev_capped": false,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 2,
+      "sport": "MLB",
+      "selection": "Grayson Rodriguez",
+      "market": "earned runs allowed 2.5",
+      "side": "Under",
+      "book": "Sleeper",
+      "odds": "-130",
+      "ev": 0.018,
+      "ev_capped": false,
+      "tier": "proven",
+      "tier_label": "Proven edge"
+    },
+    {
+      "rank": 3,
       "sport": "MLB",
       "selection": "MIL@STL",
       "market": "TOTAL 3.5",
@@ -16,7 +42,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "sport": "MLB",
       "selection": "ARI",
       "market": "H2H",
@@ -29,7 +55,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "sport": "MLB",
       "selection": "LAA@TEX",
       "market": "TOTAL 3.5",
@@ -42,7 +68,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "sport": "MLB",
       "selection": "PHI",
       "market": "H2H",
@@ -55,7 +81,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "sport": "MLB",
       "selection": "COL",
       "market": "H2H",
@@ -68,7 +94,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "sport": "MLB",
       "selection": "OAK@DET",
       "market": "TOTAL 2.5",
@@ -81,7 +107,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "sport": "MLB",
       "selection": "LAA@TEX",
       "market": "TOTAL 7.5",
@@ -94,7 +120,7 @@
       "tier_label": "Price value"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "sport": "MLB",
       "selection": "MIL@STL",
       "market": "TOTAL 7.5",
